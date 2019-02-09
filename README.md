@@ -1,15 +1,16 @@
 # Sapphire 💎 CS839 Spring2019
 This is Github repository that contains all the codes and reports of the project.
 
-## CS 839:Data Science: Principles, Algorithms, and Applications
+### CS 839:Data Science: Principles, Algorithms, and Applications
 * Professor: Anhai Doan
 * TA: Aravind Soundararajan
 
-## Group Name
+## Group
+### Group Name: 
 
-💎 Sapphire 💎
+Sapphire 💎
 
-## Group Members
+### Group Members
 
 * **Jiatong Li** - (jli872@wisc.edu)
 * **Siyu Wang** - (swang739@wisc.edu)
