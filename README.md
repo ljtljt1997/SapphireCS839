@@ -1,6 +1,10 @@
 # Sapphire 💎 CS839 Spring2019
 
-This is Github repository that contains all of the codes and reports in CS 839 Spring 2019.
+This is Github repository that contains all of the codes and reports in CS 839:Data Science: Principles, Algorithms, and Applications
+
+* Professor: Anhai Doan
+* TA: Aravind Soundararajan
+
 
 ## Group Name
 
