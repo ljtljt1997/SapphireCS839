@@ -12,9 +12,9 @@ This is Github repository that contains all the codes and reports of the project
 
 **Group Members:**
 
-* **Jiatong Li** - (jli872@wisc.edu)
-* **Siyu Wang** - (swang739@wisc.edu)
-* **Xinyu Zhang** - (xzhang959@wisc.edu)
+* Jiatong Li - (jli872@wisc.edu)
+* Siyu Wang - (swang739@wisc.edu)
+* Xinyu Zhang - (xzhang959@wisc.edu)
 
 ## Website
 Please see our website for details of this project:
