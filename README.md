@@ -6,11 +6,11 @@ This is Github repository that contains all the codes and reports of the project
 * TA: Aravind Soundararajan
 
 ## Group
-**Group Name: **
+**Group Name:**
 
 💎 Sapphire 💎
 
-**Group Members: **
+**Group Members:**
 
 * **Jiatong Li** - (jli872@wisc.edu)
 * **Siyu Wang** - (swang739@wisc.edu)
