@@ -8,7 +8,7 @@ This is Github repository that contains all the codes and reports of the project
 ## Group
 **Group Name: **
 
-Sapphire 💎
+💎 Sapphire 💎
 
 **Group Members: **
 
