@@ -18,12 +18,10 @@ https://ljtljt1997.github.io/SapphireCS839/
 
 ## Project Overview
 
-### Stage 1: (To be updated)
-Stage 1 is to perform information extraction (IE) from natural text documents, using a supervised learning approach.
-
-### Stage 2: (To be updated)
-### Stage 3: (To be updated)
-### Stage 4: (To be updated)
+* **Stage 1**: Information extraction from natural text.
+* **Stage 2**: Crawling and extracting structured data from Web pages.
+* **Stage 3**: Entity matching.
+* **Stage 4**: Integrating and performing analysis. 
 
 
 
