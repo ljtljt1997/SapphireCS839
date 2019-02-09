@@ -4,7 +4,7 @@ This is Github repository that contains all of the codes and reports in CS 839 S
 
 ## Group Name
 
-💎Sapphire💎
+💎 Sapphire 💎
 
 ## Group Members
 
