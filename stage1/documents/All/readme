@@ -1,0 +1,4 @@
+This folder contains 450 .txt files. 
+We splitted into Set I(300 files) and Set J(150 flies).
+The entity type that we marked up in the documents are person names.
+Person names are marked up in the documents using <>...</> tags, eg. <>Harry Potter</>
