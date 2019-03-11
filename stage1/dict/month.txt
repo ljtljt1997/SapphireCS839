@@ -1,0 +1,1 @@
+{'January', 'Mar', 'Feb', 'December', 'Nov', 'March', 'Apr.', 'August', 'Oct', 'Aug', 'February', 'Jan', 'Dec', 'Jun.', 'Aug.', 'Jul', 'Sep.', 'Jul.', 'Jan.', 'September', 'July', 'Feb.', 'June', 'Apr', 'November', 'October', 'Jun', 'Mar.', 'Oct.', 'Sep'}
