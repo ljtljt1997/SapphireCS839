@@ -1,0 +1,996 @@
+genres,movie,directors,link,stars,year,runtime
+1,Avengers: Endgame,"Anthony Russo, Joe Russo",,"Brie Larson, Robert Downey Jr., Karen Gillan, Tessa Thompson",2019,181 min
+2,Captain Marvel,"Anna Boden, Ryan Fleck",,"Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law",2019,123 min
+3,Terminator: Dark Fate,Tim Miller,,"Mackenzie Davis, Arnold Schwarzenegger, Linda Hamilton, Brett Azar",2019,
+4,Aquaman,James Wan,,"Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson",2018,143 min
+5,Glass,M. Night Shyamalan,,"James McAvoy, Bruce Willis, Samuel L. Jackson, Anya Taylor-Joy",2019,129 min
+6,Hellboy,Neil Marshall,,"David Harbour, Milla Jovovich, Ian McShane, Sasha Lane",2019,120 min
+7,Spider-Man: Into the Spider-Verse,"Bob Persichetti, Peter Ramsey, Rodney Rothman",,"Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali",2018,117 min
+8,Avengers: Infinity War,"Anthony Russo, Joe Russo",,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",2018,149 min
+9,Bumblebee,Travis Knight,,"Hailee Steinfeld, Jorge Lendeborg Jr., John Cena, Jason Drucker",2018,114 min
+10,Escape Room,Adam Robitel,,"Taylor Russell, Logan Miller, Jay Ellis, Tyler Labine",2019,99 min
+11,Spider-Man: Far from Home,Jon Watts,,"Cobie Smulders, Zendaya, Tom Holland, Samuel L. Jackson",2019,
+12,Venom,Ruben Fleischer,,"Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze",2018,112 min
+13,Alita: Battle Angel,Robert Rodriguez,,"Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali",2019,122 min
+14,Thor: Ragnarok,Taika Waititi,,"Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",2017,130 min
+15,Mortal Engines,Christian Rivers,,"Hera Hilmar, Robert Sheehan, Hugo Weaving, Jihae",2018,128 min
+16,Dark Phoenix,Simon Kinberg,,"Sophie Turner, Jennifer Lawrence, Michael Fassbender, James McAvoy",2019,
+17,High Life,Claire Denis,,"Robert Pattinson, Juliette Binoche, André Benjamin, Mia Goth",2018,110 min
+18,Godzilla: King of the Monsters,Michael Dougherty,,"Millie Bobby Brown, Vera Farmiga, Charles Dance, Bradley Whitford",2019,
+19,Black Panther,Ryan Coogler,,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira",2018,134 min
+20,Justice League vs the Fatal Five,Sam Liu,,"Elyes Gabel, Diane Guerrero, Kevin Conroy, Susan Eisenberg",2019,77 min
+21,Suicide Squad,David Ayer,,"Will Smith, Jared Leto, Margot Robbie, Viola Davis",2016,123 min
+22,Deadpool 2,David Leitch,,"Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison",2018,119 min
+23,Guardians of the Galaxy,James Gunn,,"Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana",2014,121 min
+24,Sonic the Hedgehog,Jeff Fowler,,"Jim Carrey, James Marsden, Neal McDonough, Ben Schwartz",2019,
+25,The Meg,Jon Turteltaub,,"Jason Statham, Bingbing Li, Rainn Wilson, Cliff Curtis",2018,113 min
+26,A Quiet Place,John Krasinski,,"Emily Blunt, John Krasinski, Millicent Simmonds, Noah Jupe",2018,90 min
+27,Brightburn,David Yarovesky,,"Elizabeth Banks, David Denman, Matt Jones, Meredith Hagner",2019,
+28,Spider-Man: Homecoming,Jon Watts,,"Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei",2017,133 min
+29,Guardians of the Galaxy Vol. 2,James Gunn,,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",2017,136 min
+30,Justice League,Zack Snyder,,"Ben Affleck, Gal Gadot, Jason Momoa, Ezra Miller",2017,120 min
+31,The Matrix,"Lana Wachowski, Lilly Wachowski",,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",1999,136 min
+32,The Avengers,Joss Whedon,,"Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner",2012,143 min
+33,Pokémon Detective Pikachu,Rob Letterman,,"Ryan Reynolds, Kathryn Newton, Suki Waterhouse, Rob Delaney",2019,104 min
+34,Unbreakable,M. Night Shyamalan,,"Bruce Willis, Samuel L. Jackson, Robin Wright, Spencer Treat Clark",2000,106 min
+35,Jurassic World: Fallen Kingdom,J.A. Bayona,,"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith",2018,128 min
+36,Avengers: Age of Ultron,Joss Whedon,,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",2015,141 min
+37,Star Wars: The Rise of Skywalker,J.J. Abrams,,"Lupita Nyong'o, Mark Hamill, Oscar Isaac, Adam Driver",2019,
+38,Ant-Man and the Wasp,Peyton Reed,,"Paul Rudd, Evangeline Lilly, Michael Peña, Walton Goggins",2018,118 min
+39,Captain America: The First Avenger,Joe Johnston,,"Chris Evans, Hugo Weaving, Samuel L. Jackson, Hayley Atwell",2011,124 min
+40,Captive State,Rupert Wyatt,,"John Goodman, Ashton Sanders, Jonathan Majors, Vera Farmiga",2019,109 min
+41,Overlord,Julius Avery,,"Jovan Adepo, Wyatt Russell, Mathilde Ollivier, Pilou Asbæk",2018,110 min
+42,Ready Player One,Steven Spielberg,,"Tye Sheridan, Olivia Cooke, Ben Mendelsohn, Lena Waithe",2018,140 min
+43,Bird Box,Susanne Bier,,"Sandra Bullock, Trevante Rhodes, John Malkovich, Sarah Paulson",2018,124 min
+44,Men in Black: International,F. Gary Gray,,"Tessa Thompson, Chris Hemsworth, Rebecca Ferguson, Liam Neeson",2019,
+45,Hellboy,Guillermo del Toro,,"Ron Perlman, Doug Jones, Selma Blair, John Hurt",2004,122 min
+46,Iron Man,Jon Favreau,,"Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges",2008,126 min
+47,Solo: A Star Wars Story,Ron Howard,,"Alden Ehrenreich, Woody Harrelson, Emilia Clarke, Donald Glover",2018,135 min
+48,Wonder Woman,Patty Jenkins,,"Gal Gadot, Chris Pine, Robin Wright, Lucy Davis",2017,141 min
+49,Interstellar,Christopher Nolan,,"Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",2014,169 min
+50,Inception,Christopher Nolan,,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe",2010,148 min
+401,The Last Man,Rodrigo H. Vila,,"Hayden Christensen, Harvey Keitel, Marco Leonardi, Liz Solari",2018,100 min
+402,Small Soldiers,Joe Dante,,"Kirsten Dunst, Gregory Smith, David Cross, Jay Mohr",1998,110 min
+403,Aquaman 2,James Wan,,"Amber Heard, Jason Momoa",2022,
+404,Atlantis: The Lost Empire,"Gary Trousdale, Kirk Wise",,"Michael J. Fox, Jim Varney, Corey Burton, Claudia Christian",2001,95 min
+405,Gambit,,,"Lizzy Caplan, Channing Tatum",2020,
+406,Lilo & Stitch,"Dean DeBlois, Chris Sanders",,"Daveigh Chase, Chris Sanders, Tia Carrere, David Ogden Stiers",2002,85 min
+407,Little Shop of Horrors,Frank Oz,,"Rick Moranis, Ellen Greene, Vincent Gardenia, Levi Stubbs",1986,94 min
+408,28 Weeks Later,Juan Carlos Fresnadillo,,"Jeremy Renner, Rose Byrne, Robert Carlyle, Harold Perrineau",2007,100 min
+409,Batman: The Killing Joke,Sam Liu,,"Kevin Conroy, Mark Hamill, Tara Strong, Ray Wise",2016,76 min
+410,G.I. Joe: Retaliation,Jon M. Chu,,"Dwayne Johnson, Channing Tatum, Adrianne Palicki, Byung-Hun Lee",2013,110 min
+351,Bill & Ted's Bogus Journey,Peter Hewitt,,"Keanu Reeves, Alex Winter, William Sadler, Joss Ackland",1991,93 min
+101,A.I. Rising,Lazar Bodroza,,"Sebastian Cavazza, Stoya, Marusa Majer, Kirsty Besterman",2018,85 min
+411,The Island of Dr. Moreau,"John Frankenheimer, Richard Stanley",,"David Thewlis, Marlon Brando, Val Kilmer, Fairuza Balk",1996,96 min
+412,The Titan,Lennart Ruff,,"Sam Worthington, Taylor Schilling, Tom Wilkinson, Agyness Deyn",2018,97 min
+413,Dark City,Alex Proyas,,"Rufus Sewell, Kiefer Sutherland, Jennifer Connelly, William Hurt",1998,100 min
+414,Fahrenheit 451,Ramin Bahrani,,"Michael B. Jordan, Aaron Davis, Cindy Katz, Michael Shannon",2018,100 min
+415,Contact,Robert Zemeckis,,"Jodie Foster, Matthew McConaughey, Tom Skerritt, John Hurt",1997,150 min
+416,Alien³,David Fincher,,"Sigourney Weaver, Charles S. Dutton, Charles Dance, Paul McGann",1992,114 min
+417,Despicable Me 2,"Pierre Coffin, Chris Renaud",,"Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove",2013,98 min
+418,Batman vs. Teenage Mutant Ninja Turtles,Jake Castorena,,"Troy Baker, Eric Bauza, Darren Criss, Kyle Mooney",2019,
+419,The Host,Andrew Niccol,,"Saoirse Ronan, Max Irons, Jake Abel, Diane Kruger",2013,125 min
+352,Star Trek II: The Wrath of Khan,Nicholas Meyer,,"William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan",1982,113 min
+353,The Adventures of Buckaroo Banzai Across the 8th Dimension,W.D. Richter,,"Peter Weller, John Lithgow, Ellen Barkin, Jeff Goldblum",1984,103 min
+354,Ghost in the Shell,Mamoru Oshii,,"Atsuko Tanaka, Iemasa Kayumi, Akio Ôtsuka, Kôichi Yamadera",1995,83 min
+355,Howard the Duck,Willard Huyck,,"Lea Thompson, Jeffrey Jones, Tim Robbins, Ed Gale",1986,110 min
+356,Star Trek Into Darkness,J.J. Abrams,,"Chris Pine, Zachary Quinto, Zoe Saldana, Benedict Cumberbatch",2013,132 min
+357,Ghostbusters II,Ivan Reitman,,"Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis",1989,108 min
+358,Mad Max Beyond Thunderdome,"George Miller, George Ogilvie",,"Mel Gibson, Tina Turner, Bruce Spence, Adam Cockburn",1985,107 min
+359,RoboCop,José Padilha,,"Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish",2014,117 min
+102,Lucy in the Sky,Noah Hawley,,"Zazie Beetz, Dan Stevens, Natalie Portman, Jon Hamm",2019,
+103,Replicas,Jeffrey Nachmanoff,,"Keanu Reeves, Alice Eve, Thomas Middleditch, John Ortiz",2018,107 min
+104,Godzilla vs. Kong,Adam Wingard,,"Alexander Skarsgård, Millie Bobby Brown, Eiza González, Danai Gurira",2020,
+105,X-Men: First Class,Matthew Vaughn,,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Kevin Bacon",2011,131 min
+106,A-X-L,Oliver Daly,,"Alex Neustaedter, Becky G, Alex MacNicoll, Dominic Rains",2018,98 min
+107,Transformers,Michael Bay,,"Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson",2007,144 min
+108,Hellboy II: The Golden Army,Guillermo del Toro,,"Ron Perlman, Selma Blair, Doug Jones, John Alexander",2008,120 min
+109,I Am Legend,Francis Lawrence,,"Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",2007,101 min
+110,The Terminator,James Cameron,,"Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield",1984,107 min
+111,Man of Steel,Zack Snyder,,"Henry Cavill, Amy Adams, Michael Shannon, Diane Lane",2013,143 min
+420,Criminal,Ariel Vromen,,"Kevin Costner, Ryan Reynolds, Gal Gadot, Gary Oldman",2016,113 min
+421,High-Rise,Ben Wheatley,,"Tom Hiddleston, Jeremy Irons, Sienna Miller, Luke Evans",2015,119 min
+422,Flatliners,Niels Arden Oplev,,"Ellen Page, Diego Luna, Nina Dobrev, James Norton",2017,109 min
+423,Escape from New York,John Carpenter,,"Kurt Russell, Lee Van Cleef, Ernest Borgnine, Donald Pleasence",1981,99 min
+424,Back to the Future Part III,Robert Zemeckis,,"Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Thomas F. Wilson",1990,118 min
+425,Megamind,Tom McGrath,,"Will Ferrell, Jonah Hill, Brad Pitt, Tina Fey",2010,95 min
+426,Battle Royale,Kinji Fukasaku,,"Tatsuya Fujiwara, Aki Maeda, Tarô Yamamoto, Takeshi Kitano",2000,114 min
+427,The Fountain,Darren Aronofsky,,"Hugh Jackman, Rachel Weisz, Sean Patrick Thomas, Ellen Burstyn",2006,96 min
+428,Alien: Resurrection,Jean-Pierre Jeunet,,"Sigourney Weaver, Winona Ryder, Dominique Pinon, Ron Perlman",1997,109 min
+360,Transformers: Dark of the Moon,Michael Bay,,"Shia LaBeouf, Rosie Huntington-Whiteley, Tyrese Gibson, Josh Duhamel",2011,154 min
+361,Brazil,Terry Gilliam,,"Jonathan Pryce, Kim Greist, Robert De Niro, Katherine Helmond",1985,132 min
+362,Melancholia,Lars von Trier,,"Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland, Alexander Skarsgård",2011,135 min
+363,Morgan,Luke Scott,,"Kate Mara, Anya Taylor-Joy, Rose Leslie, Michael Yare",2016,92 min
+364,Sky High,Mike Mitchell,,"Kurt Russell, Kelly Preston, Michael Angarano, Danielle Panabaker",2005,100 min
+365,Super 8,J.J. Abrams,,"Elle Fanning, AJ Michalka, Kyle Chandler, Joel Courtney",2011,112 min
+366,G-Force,Hoyt Yeatman,,"Will Arnett, Penélope Cruz, Zach Galifianakis, Bill Nighy",2009,88 min
+367,Dawn of the Planet of the Apes,Matt Reeves,,"Gary Oldman, Keri Russell, Andy Serkis, Kodi Smit-McPhee",2014,130 min
+368,Teen Titans Go! To the Movies,"Aaron Horvath, Peter Rida Michail",,"Greg Cipes, Scott Menville, Khary Payton, Tara Strong",2018,84 min
+112,Jurassic World,Colin Trevorrow,,"Chris Pratt, Bryce Dallas Howard, Ty Simpkins, Judy Greer",2015,124 min
+113,Shaun the Sheep Movie: Farmageddon,"Will Becher, Richard Phelan",,"Justin Fletcher, Kate Harbour, John Sparkes",2019,
+114,Life,Daniel Espinosa,,"Jake Gyllenhaal, Rebecca Ferguson, Ryan Reynolds, Hiroyuki Sanada",2017,104 min
+115,Blade Runner,Ridley Scott,,"Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos",1982,117 min
+116,Hulk,Ang Lee,,"Eric Bana, Jennifer Connelly, Sam Elliott, Josh Lucas",2003,138 min
+117,Ex Machina,Alex Garland,,"Alicia Vikander, Domhnall Gleeson, Oscar Isaac, Sonoya Mizuno",2014,108 min
+118,Rogue One: A Star Wars Story,Gareth Edwards,,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen",2016,133 min
+429,Tau,Federico D'Alessandro,,"Maika Monroe, Ed Skrein, Gary Oldman, Fiston Barek",2018,97 min
+430,Flashout,Richard Lerner,,"Allison Dunbar, Maya Stojan, Lorynn York, Blythe Auffarth",2019,90 min
+431,Spy Kids 2: Island of Lost Dreams,Robert Rodriguez,,"Alexa PenaVega, Daryl Sabara, Antonio Banderas, Carla Gugino",2002,100 min
+432,Never Let Me Go,Mark Romanek,,"Keira Knightley, Carey Mulligan, Andrew Garfield, Izzy Meikle-Small",2010,103 min
+433,Pixels,Chris Columbus,,"Adam Sandler, Kevin James, Michelle Monaghan, Peter Dinklage",2015,105 min
+434,The Postman,Kevin Costner,,"Kevin Costner, Will Patton, Larenz Tate, Olivia Williams",1997,177 min
+435,Dreamcatcher,Lawrence Kasdan,,"Morgan Freeman, Thomas Jane, Jason Lee, Damian Lewis",2003,134 min
+436,Knowing,Alex Proyas,,"Nicolas Cage, Chandler Canterbury, Rose Byrne, Lara Robinson",2009,121 min
+369,The Space Between Us,Peter Chelsom,,"Gary Oldman, Asa Butterfield, Carla Gugino, Britt Robertson",2017,120 min
+370,I Origins,Mike Cahill,,"Michael Pitt, Steven Yeun, Astrid Bergès-Frisbey, Brit Marling",2014,106 min
+371,The Endless,"Justin Benson, Aaron Moorhead",,"Aaron Moorhead, Justin Benson, Callie Hernandez, Tate Ellington",2017,111 min
+372,Jurassic Park III,Joe Johnston,,"Sam Neill, William H. Macy, Téa Leoni, Alessandro Nivola",2001,92 min
+373,Lifeforce,Tobe Hooper,,"Steve Railsback, Mathilda May, Peter Firth, Frank Finlay",1985,101 min
+374,1984,Michael Radford,,"John Hurt, Richard Burton, Suzanna Hamilton, Cyril Cusack",1984,113 min
+119,Star Wars: Episode IV - A New Hope,George Lucas,,"Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness",1977,121 min
+120,Ghost in the Shell,Rupert Sanders,,"Scarlett Johansson, Pilou Asbæk, Takeshi Kitano, Juliette Binoche",2017,107 min
+121,X-Men Origins: Wolverine,Gavin Hood,,"Hugh Jackman, Liev Schreiber, Ryan Reynolds, Danny Huston",2009,107 min
+122,The Man Who Killed Hitler and Then The Bigfoot,Robert D. Krzykowski,,"Sam Elliott, Aidan Turner, Sean Bridgers, Larry Miller",2018,98 min
+123,2001: A Space Odyssey,Stanley Kubrick,,"Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter",1968,149 min
+124,Weird Science,John Hughes,,"Anthony Michael Hall, Ilan Mitchell-Smith, Kelly LeBrock, Bill Paxton",1985,94 min
+125,Artemis Fowl,Kenneth Branagh,,"Judi Dench, Josh Gad, Miranda Raison, Hong Chau",2019,
+126,Sorry to Bother You,Boots Riley,,"LaKeith Stanfield, Tessa Thompson, Jermaine Fowler, Omari Hardwick",2018,111 min
+437,Cloverfield,Matt Reeves,,"Mike Vogel, Jessica Lucas, Lizzy Caplan, T.J. Miller",2008,85 min
+438,Deadpool 3,,,,,
+439,Close Encounters of the Third Kind,Steven Spielberg,,"Richard Dreyfuss, François Truffaut, Teri Garr, Melinda Dillon",1977,138 min
+440,Maze Runner: The Scorch Trials,Wes Ball,,"Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster, Giancarlo Esposito",2015,131 min
+441,The Green Hornet,Michel Gondry,,"Seth Rogen, Jay Chou, Christoph Waltz, Cameron Diaz",2011,119 min
+442,X-Force,Drew Goddard,,"Zazie Beetz, Josh Brolin, Ryan Reynolds",,
+443,Blade: Trinity,David S. Goyer,,"Wesley Snipes, Kris Kristofferson, Parker Posey, Ryan Reynolds",2004,113 min
+375,Congo,Frank Marshall,,"Laura Linney, Tim Curry, Dylan Walsh, Ernie Hudson",1995,109 min
+376,Okja,Joon-ho Bong,,"Tilda Swinton, Paul Dano, Seo-hyun Ahn, Jake Gyllenhaal",2017,120 min
+377,Metropolis,Fritz Lang,,"Brigitte Helm, Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge",1927,153 min
+378,Doom: Annihilation,Tony Giglio,,"Louis Mandylor, Amy Manson, Nina Bergman, Hari Dhillon",,
+379,Batman: Hush,Justin Copeland,,"Rebecca Romijn, Peyton List, Jennifer Morrison, Rainn Wilson",,
+380,Abduction,Ernie Barbarash,,"Scott Adkins, Andy On, Truong Ngoc Anh, Lily Ji",2019,106 min
+127,Isle of Dogs,Wes Anderson,,"Bryan Cranston, Koyu Rankin, Edward Norton, Bob Balaban",2018,101 min
+128,Eternal Sunshine of the Spotless Mind,Michel Gondry,,"Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne",2004,108 min
+129,The Lobster,Yorgos Lanthimos,,"Colin Farrell, Rachel Weisz, Jessica Barden, Olivia Colman",2015,119 min
+130,Arrival,Denis Villeneuve,,"Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg",2016,116 min
+131,Rampage,Brad Peyton,,"Dwayne Johnson, Naomie Harris, Malin Akerman, Jeffrey Dean Morgan",2018,107 min
+132,Lucy,Luc Besson,,"Scarlett Johansson, Morgan Freeman, Min-sik Choi, Amr Waked",2014,89 min
+133,Avatar 2,James Cameron,,"Zoe Saldana, Vin Diesel, Oona Chaplin, Kate Winslet",2020,
+444,Teenage Mutant Ninja Turtles,Jonathan Liebesman,,"Megan Fox, Will Arnett, William Fichtner, Noel Fisher",2014,101 min
+445,Demolition Man,Marco Brambilla,,"Sylvester Stallone, Wesley Snipes, Sandra Bullock, Nigel Hawthorne",1993,115 min
+446,Chronicle,Josh Trank,,"Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly",2012,84 min
+447,The Day the Earth Stood Still,Scott Derrickson,,"Keanu Reeves, Jennifer Connelly, Kathy Bates, Jaden Smith",2008,104 min
+448,Self/less,Tarsem Singh,,"Ryan Reynolds, Natalie Martinez, Matthew Goode, Ben Kingsley",2015,117 min
+449,Cold Skin,Xavier Gens,,"Ray Stevenson, David Oakes, Aura Garrido, Winslow M. Iwaki",2017,108 min
+381,Species,Roger Donaldson,,"Natasha Henstridge, Michael Madsen, Ben Kingsley, Alfred Molina",1995,108 min
+382,The Happening,M. Night Shyamalan,,"Mark Wahlberg, Zooey Deschanel, John Leguizamo, Ashlyn Sanchez",2008,91 min
+383,The Time Machine,Simon Wells,,"Guy Pearce, Yancey Arias, Mark Addy, Phyllida Law",2002,96 min
+384,Cloudy with a Chance of Meatballs,"Phil Lord, Christopher Miller",,"Anna Faris, Bill Hader, Bruce Campbell, James Caan",2009,90 min
+385,The Handmaid's Tale,Volker Schlöndorff,,"Natasha Richardson, Faye Dunaway, Aidan Quinn, Elizabeth McGovern",1990,108 min
+386,The Cell,Tarsem Singh,,"Jennifer Lopez, Vince Vaughn, Vincent D'Onofrio, Colton James",2000,107 min
+134,Divergent,Neil Burger,,"Shailene Woodley, Theo James, Kate Winslet, Jai Courtney",2014,139 min
+135,Level 16,Danishka Esterhazy,,"Katie Douglas, Celina Martin, Sara Canning, Peter Outerbridge",2018,102 min
+136,Predator,John McTiernan,,"Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall, Elpidia Carrillo",1987,107 min
+137,Await Further Instructions,Johnny Kevorkian,,"Sam Gittins, Neerja Naik, Abigail Cruttenden, David Bradley",2018,91 min
+138,The Rocketeer,Joe Johnston,,"Billy Campbell, Jennifer Connelly, Alan Arkin, Timothy Dalton",1991,108 min
+139,Zombieland,Ruben Fleischer,,"Jesse Eisenberg, Emma Stone, Woody Harrelson, Abigail Breslin",2009,88 min
+450,Machete Kills,Robert Rodriguez,,"Danny Trejo, Alexa PenaVega, Mel Gibson, Jessica Alba",2013,107 min
+387,C.H.U.D.,Douglas Cheek,,"John Heard, Daniel Stern, Christopher Curry, Kim Greist",1984,88 min
+388,I Am Number Four,D.J. Caruso,,"Alex Pettyfer, Timothy Olyphant, Dianna Agron, Teresa Palmer",2011,111 min
+389,Meet the Robinsons,Stephen J. Anderson,,"Daniel Hansen, Wesley Singerman, Angela Bassett, Jordan Fry",2007,95 min
+390,Iron Sky: The Coming Race,Timo Vuorensola,,"Lara Rossi, Vladimir Burlakov, Kit Dale, Tom Green",2019,90 min
+140,Independence Day: Resurgence,Roland Emmerich,,"Liam Hemsworth, Jeff Goldblum, Bill Pullman, Maika Monroe",2016,120 min
+141,X-Men: Days of Future Past,Bryan Singer,,"Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy",2014,132 min
+142,Power Rangers,Dean Israelite,,"Dacre Montgomery, Naomi Scott, RJ Cyler, Ludi Lin",2017,124 min
+143,The Martian,Ridley Scott,,"Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara",2015,144 min
+144,Galaxy Quest,Dean Parisot,,"Tim Allen, Sigourney Weaver, Alan Rickman, Tony Shalhoub",1999,102 min
+145,E.T. the Extra-Terrestrial,Steven Spielberg,,"Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace",1982,115 min
+146,A Cure for Wellness,Gore Verbinski,,"Dane DeHaan, Jason Isaacs, Mia Goth, Ivo Nandi",2016,146 min
+391,Transformers: Revenge of the Fallen,Michael Bay,,"Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson",2009,150 min
+392,Coneheads,Steve Barron,,"Dan Aykroyd, Jane Curtin, Robert Knott, Jonathan Penner",1993,88 min
+393,The Chronicles of Riddick,David Twohy,,"Vin Diesel, Judi Dench, Colm Feore, Thandie Newton",2004,119 min
+394,Colossal,Nacho Vigalondo,,"Anne Hathaway, Jason Sudeikis, Austin Stowell, Tim Blake Nelson",2016,109 min
+395,Planet of the Apes,Franklin J. Schaffner,,"Charlton Heston, Roddy McDowall, Kim Hunter, Maurice Evans",1968,112 min
+396,Coherence,James Ward Byrkit,,"Emily Baldoni, Maury Sterling, Nicholas Brendon, Elizabeth Gracen",2013,89 min
+147,Jupiter Ascending,"Lana Wachowski, Lilly Wachowski",,"Channing Tatum, Mila Kunis, Eddie Redmayne, Sean Bean",2015,127 min
+148,Star Trek,J.J. Abrams,,"Chris Pine, Zachary Quinto, Simon Pegg, Leonard Nimoy",2009,127 min
+149,Mad Max,George Miller,,"Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley",1979,88 min
+150,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,,"Daisy Ridley, John Boyega, Oscar Isaac, Domhnall Gleeson",2015,136 min
+397,Jumper,Doug Liman,,"Hayden Christensen, Samuel L. Jackson, Jamie Bell, Rachel Bilson",2008,88 min
+398,Time Freak,Andrew Bowler,,"Asa Butterfield, Sophie Turner, Skyler Gisondo, Will Peltz",2018,104 min
+399,Cargo,"Ben Howling, Yolanda Ramke",,"Simone Landers, Martin Freeman, Marlee Jane McPherson-Dobbins, Lily Anne McPherson-Dobbins",2017,105 min
+400,Deja Vu,Tony Scott,,"Denzel Washington, Paula Patton, Jim Caviezel, Val Kilmer",2006,126 min
+451,Aliens vs. Predator: Requiem,"Colin Strause, Greg Strause",,"Reiko Aylesworth, Steven Pasquale, Shareeka Epps, John Ortiz",2007,94 min
+452,Black Adam,,,,,
+453,Upside Down,Juan Solanas,,"Jim Sturgess, Kirsten Dunst, Timothy Spall, Blu Mankuma",2012,109 min
+454,Solaris,Andrei Tarkovsky,,"Natalya Bondarchuk, Donatas Banionis, Jüri Järvet, Vladislav Dvorzhetskiy",1971,167 min
+455,Doom,Andrzej Bartkowiak,,"Karl Urban, Rosamund Pike, Dwayne Johnson, Deobia Oparei",2005,105 min
+456,Reign of Fire,Rob Bowman,,"Matthew McConaughey, Christian Bale, Izabella Scorupco, Gerard Butler",2002,101 min
+457,Underworld: Rise of the Lycans,Patrick Tatopoulos,,"Rhona Mitra, Michael Sheen, Bill Nighy, Steven Mackintosh",2009,92 min
+458,Moonraker,Lewis Gilbert,,"Roger Moore, Lois Chiles, Michael Lonsdale, Richard Kiel",1979,126 min
+459,Scooby-Doo 2: Monsters Unleashed,Raja Gosnell,,"Freddie Prinze Jr., Sarah Michelle Gellar, Matthew Lillard, Linda Cardellini",2004,93 min
+301,Terminator 3: Rise of the Machines,Jonathan Mostow,,"Arnold Schwarzenegger, Nick Stahl, Kristanna Loken, Claire Danes",2003,109 min
+201,Waterworld,Kevin Reynolds,,"Kevin Costner, Jeanne Tripplehorn, Dennis Hopper, Tina Majorino",1995,135 min
+51,Serenity,Steven Knight,,"Matthew McConaughey, Anne Hathaway, Diane Lane, Jason Clarke",2019,106 min
+501,World War Z 2,David Fincher,,Brad Pitt,,
+460,Super Mario Bros.,"Annabel Jankel, Rocky Morton",,"Bob Hoskins, John Leguizamo, Dennis Hopper, Samantha Mathis",1993,104 min
+461,Gamer,"Mark Neveldine, Brian Taylor",,"Gerard Butler, Michael C. Hall, Ludacris, Amber Valletta",2009,95 min
+462,The Adventures of Sharkboy and Lavagirl 3-D,Robert Rodriguez,,"Cayden Boyd, George Lopez, Kristin Davis, David Arquette",2005,93 min
+463,Rise of the Planet of the Apes,Rupert Wyatt,,"James Franco, Andy Serkis, Freida Pinto, Karin Konoval",2011,105 min
+464,The Core,Jon Amiel,,"Aaron Eckhart, Hilary Swank, Delroy Lindo, Bruce Greenwood",2003,135 min
+465,My Hero Academia: Two Heroes,Kenji Nagasaki,,"Justin Briner, Christopher Sabat, Ray Chase, Erica Mendez",2018,96 min
+466,Mystery Men,Kinka Usher,,"Ben Stiller, Janeane Garofalo, William H. Macy, Hank Azaria",1999,121 min
+467,Blade II,Guillermo del Toro,,"Wesley Snipes, Kris Kristofferson, Ron Perlman, Leonor Varela",2002,117 min
+468,Sound of My Voice,Zal Batmanglij,,"Christopher Denham, Nicole Vicius, Brit Marling, Davenia McFadden",2011,85 min
+469,Apollo 18,Gonzalo López-Gallego,,"Warren Christie, Lloyd Owen, Ryan Robbins, Michael Kopsa",2011,86 min
+470,Spectral,Nic Mathieu,,"James Badge Dale, Emily Mortimer, Bruce Greenwood, Max Martini",2016,107 min
+302,"Honey, I Shrunk the Kids",Joe Johnston,,"Rick Moranis, Matt Frewer, Marcia Strassman, Kristine Sutherland",1989,93 min
+303,Men in Black 3,Barry Sonnenfeld,,"Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement",2012,106 min
+304,Real Genius,Martha Coolidge,,"Val Kilmer, Gabriel Jarret, Michelle Meyrink, William Atherton",1985,108 min
+305,Pacific Rim,Guillermo del Toro,,"Idris Elba, Charlie Hunnam, Rinko Kikuchi, Charlie Day",2013,131 min
+306,Chaos Walking,Doug Liman,,"Tom Holland, Mads Mikkelsen, Daisy Ridley, Nick Jonas",2020,
+307,Mr. Nobody,Jaco Van Dormael,,"Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham",2009,141 min
+202,Gemini Man,Ang Lee,,"Mary Elizabeth Winstead, Will Smith, Douglas Hodge, Clive Owen",2019,
+203,Serenity,Joss Whedon,,"Nathan Fillion, Gina Torres, Chiwetel Ejiofor, Alan Tudyk",2005,119 min
+204,Bill & Ted's Excellent Adventure,Stephen Herek,,"Keanu Reeves, Alex Winter, George Carlin, Terry Camilleri",1989,90 min
+205,Life Like,Josh Janowicz,,"Addison Timlin, Steven Strait, James D'Arcy, Drew Van Acker",2019,95 min
+206,Minority Report,Steven Spielberg,,"Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow",2002,145 min
+207,Ghostbusters,Paul Feig,,"Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones",2016,116 min
+208,Stargate,Roland Emmerich,,"Kurt Russell, James Spader, Jaye Davidson, Viveca Lindfors",1994,116 min
+209,Logan's Run,Michael Anderson,,"Michael York, Jenny Agutter, Richard Jordan, Roscoe Lee Browne",1976,119 min
+210,Another Earth,Mike Cahill,,"Brit Marling, William Mapother, Matthew-Lee Erlbach, DJ Flava",2011,92 min
+52,Blade Runner 2049,Denis Villeneuve,,"Harrison Ford, Ryan Gosling, Ana de Armas, Dave Bautista",2017,164 min
+53,The Incredible Hulk,Louis Leterrier,,"Edward Norton, Liv Tyler, Tim Roth, William Hurt",2008,112 min
+54,Captain America: Civil War,"Anthony Russo, Joe Russo",,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan",2016,147 min
+55,Incredibles 2,Brad Bird,,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner",2018,118 min
+56,Annihilation,Alex Garland,,"Natalie Portman, Jennifer Jason Leigh, Tessa Thompson, Benedict Wong",2018,115 min
+57,Thor,Kenneth Branagh,,"Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston",2011,115 min
+58,Captain America: The Winter Soldier,"Anthony Russo, Joe Russo",,"Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford",2014,136 min
+59,Mad Max: Fury Road,George Miller,,"Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz",2015,120 min
+60,Dune,Denis Villeneuve,,"Jason Momoa, Zendaya, Josh Brolin, Rebecca Ferguson",2020,
+61,The New Mutants,Josh Boone,,"Anya Taylor-Joy, Maisie Williams, Antonio Banderas, Alice Braga",2019,
+471,Akira,,,,,
+472,Slither,James Gunn,,"Nathan Fillion, Elizabeth Banks, Michael Rooker, Don Thompson",2006,95 min
+473,Hardcore Henry,Ilya Naishuller,,"Sharlto Copley, Tim Roth, Haley Bennett, Danila Kozlovsky",2015,96 min
+474,Ice Age: Collision Course,"Mike Thurmeier, Galen T. Chu",,"Ray Romano, Denis Leary, John Leguizamo, Chris Wedge",2016,94 min
+475,Deep Blue Sea,Renny Harlin,,"Thomas Jane, Saffron Burrows, Samuel L. Jackson, Jacqueline McKenzie",1999,105 min
+476,Wild Wild West,Barry Sonnenfeld,,"Will Smith, Kevin Kline, Kenneth Branagh, Salma Hayek",1999,106 min
+477,Leviathan,George P. Cosmatos,,"Peter Weller, Richard Crenna, Amanda Pays, Daniel Stern",1989,98 min
+478,The Man from Earth,Richard Schenkman,,"David Lee Smith, Tony Todd, John Billingsley, Ellen Crawford",2007,87 min
+479,Fantastic 4: Rise of the Silver Surfer,Tim Story,,"Ioan Gruffudd, Jessica Alba, Chris Evans, Michael Chiklis",2007,92 min
+502,Red Island,Lux,,"Alex Essoe, Georgie Daburas, Tawny West, Victor Mezheritsky",2018,90 min
+503,Caller ID: Entity,Eric Zimmerman,,"James Duval, Nathan Bexton, Denny Kirkwood, Roxy Saint",2018,90 min
+504,Æon Flux,Karyn Kusama,,"Charlize Theron, Frances McDormand, Sophie Okonedo, Marton Csokas",2005,93 min
+505,The Faculty,Robert Rodriguez,,"Jordana Brewster, Clea DuVall, Laura Harris, Josh Hartnett",1998,104 min
+506,Diamantino,"Gabriel Abrantes, Daniel Schmidt",,"Carloto Cotta, Cleo Tavares, Anabela Moreira, Margarida Moreira",2018,96 min
+507,2,S. Shankar,,"Rajinikanth, Akshay Kumar, Amy Jackson, Adil Hussain",2018,148 min
+151,The Truman Show,Peter Weir,,"Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich",1998,103 min
+251,RoboCop,Paul Verhoeven,,"Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox",1987,102 min
+551,Repo Men,Miguel Sapochnik,,"Jude Law, Forest Whitaker, Alice Braga, Liev Schreiber",2010,111 min
+308,Sunshine,Danny Boyle,,"Cillian Murphy, Rose Byrne, Chris Evans, Cliff Curtis",2007,107 min
+309,Source Code,Duncan Jones,,"Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga, Jeffrey Wright",2011,93 min
+310,G.I. Joe: The Rise of Cobra,Stephen Sommers,,"Dennis Quaid, Channing Tatum, Marlon Wayans, Adewale Akinnuoye-Agbaje",2009,118 min
+311,Star Trek: The Motion Picture,Robert Wise,,"William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan",1979,132 min
+312,Battleship,Peter Berg,,"Alexander Skarsgård, Brooklyn Decker, Liam Neeson, Rihanna",2012,131 min
+313,Riddick,David Twohy,,"Vin Diesel, Karl Urban, Katee Sackhoff, Jordi Mollà",2013,119 min
+314,Star Wars: Episode II - Attack of the Clones,George Lucas,,"Hayden Christensen, Natalie Portman, Ewan McGregor, Christopher Lee",2002,142 min
+315,The Road Warrior,George Miller,,"Mel Gibson, Bruce Spence, Michael Preston, Max Phipps",1981,94 min
+316,A.I. Artificial Intelligence,Steven Spielberg,,"Haley Joel Osment, Jude Law, Frances O'Connor, Sam Robards",2001,146 min
+317,Stalker,Andrei Tarkovsky,,"Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn, Nikolay Grinko",1979,162 min
+318,Event Horizon,Paul W.S. Anderson,,"Laurence Fishburne, Sam Neill, Kathleen Quinlan, Joely Richardson",1997,96 min
+211,The Abyss,James Cameron,,"Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn, Leo Burmester",1989,145 min
+212,Looper,Rian Johnson,,"Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano",2012,113 min
+213,Adventures of Captain Marvel,"John English, William Witney",,"Tom Tyler, Frank Coghlan Jr., William 'Billy' Benedict, Louise Currie",1941,216 min
+214,The Amazing Spider-Man 2,Marc Webb,,"Andrew Garfield, Emma Stone, Jamie Foxx, Paul Giamatti",2014,142 min
+215,Gravity,Alfonso Cuarón,,"Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen",2013,91 min
+216,Superlopez,Javier Ruiz Caldera,,"Dani Rovira, Alexandra Jiménez, Julián López, Maribel Verdú",2018,108 min
+217,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,,"Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",1980,124 min
+218,Pacific Rim: Uprising,Steven S. DeKnight,,"John Boyega, Scott Eastwood, Cailee Spaeny, Burn Gorman",2018,111 min
+219,Flash Gordon,Mike Hodges,,"Sam J. Jones, Melody Anderson, Max von Sydow, Topol",1980,111 min
+62,The Fifth Element,Luc Besson,,"Bruce Willis, Milla Jovovich, Gary Oldman, Ian Holm",1997,126 min
+63,X-Men: Apocalypse,Bryan Singer,,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult",2016,144 min
+64,Jurassic Park,Steven Spielberg,,"Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough",1993,127 min
+65,Passengers,Morten Tyldum,,"Jennifer Lawrence, Chris Pratt, Michael Sheen, Laurence Fishburne",2016,116 min
+66,A Clockwork Orange,Stanley Kubrick,,"Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",1971,136 min
+67,Ant-Man,Peyton Reed,,"Paul Rudd, Michael Douglas, Corey Stoll, Evangeline Lilly",2015,117 min
+68,Watchmen,Zack Snyder,,"Jackie Earle Haley, Patrick Wilson, Carla Gugino, Malin Akerman",2009,162 min
+69,Her,Spike Jonze,,"Joaquin Phoenix, Amy Adams, Scarlett Johansson, Rooney Mara",2013,126 min
+480,The Time Traveler's Wife,Robert Schwentke,,"Eric Bana, Rachel McAdams, Ron Livingston, Michelle Nolden",2009,107 min
+481,The Wraith,Mike Marvin,,"Charlie Sheen, Nick Cassavetes, Sherilyn Fenn, Randy Quaid",1986,93 min
+482,Underworld: Evolution,Len Wiseman,,"Kate Beckinsale, Scott Speedman, Bill Nighy, Tony Curran",2006,106 min
+483,The Lazarus Effect,David Gelb,,"Olivia Wilde, Mark Duplass, Evan Peters, Sarah Bolger",2015,83 min
+484,Reign of the Supermen,Sam Liu,,"Jerry O'Connell, Rebecca Romijn, Rainn Wilson, Patrick Fabian",2019,87 min
+485,AVP: Alien vs. Predator,Paul W.S. Anderson,,"Sanaa Lathan, Lance Henriksen, Raoul Bova, Ewen Bremner",2004,101 min
+486,The Spirit,Frank Miller,,"Gabriel Macht, Samuel L. Jackson, Scarlett Johansson, Jaime King",2008,103 min
+508,Frankenweenie,Tim Burton,,"Winona Ryder, Catherine O'Hara, Martin Short, Martin Landau",2012,87 min
+509,The Adjustment Bureau,George Nolfi,,"Matt Damon, Emily Blunt, Lisa Thoreson, Florence Kastriner",2011,106 min
+510,R.I.P.D.,Robert Schwentke,,"Ryan Reynolds, Jeff Bridges, Mary-Louise Parker, Kevin Bacon",2013,96 min
+511,Into the Forest,Patricia Rozema,,"Ellen Page, Evan Rachel Wood, Max Minghella, Callum Keith Rennie",2015,101 min
+512,Future World,"James Franco, Bruce Thierry Cheung",,"James Franco, Suki Waterhouse, Jeffrey Wahlberg, Margarita Levieva",2018,90 min
+513,Midnight Special,Jeff Nichols,,"Michael Shannon, Joel Edgerton, Kirsten Dunst, Adam Driver",2016,112 min
+152,X-Men,Bryan Singer,,"Patrick Stewart, Hugh Jackman, Ian McKellen, Famke Janssen",2000,104 min
+153,Cube,Vincenzo Natali,,"Nicole de Boer, Maurice Dean Wint, David Hewlett, Andrew Miller",1997,90 min
+154,Edge of Tomorrow,Doug Liman,,"Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson",2014,113 min
+155,Independence Day,Roland Emmerich,,"Will Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell",1996,145 min
+156,The 5th Wave,J Blakeson,,"Chloë Grace Moretz, Matthew Zuk, Gabriela Lopez, Bailey Anne Borders",2016,112 min
+252,Ender's Game,Gavin Hood,,"Harrison Ford, Asa Butterfield, Hailee Steinfeld, Abigail Breslin",2013,114 min
+253,WarGames,John Badham,,"Matthew Broderick, Ally Sheedy, John Wood, Dabney Coleman",1983,114 min
+254,Planet of the Apes,Tim Burton,,"Mark Wahlberg, Helena Bonham Carter, Tim Roth, Michael Clarke Duncan",2001,119 min
+255,Deep Impact,Mimi Leder,,"Robert Duvall, Téa Leoni, Elijah Wood, Morgan Freeman",1998,120 min
+552,Mad Max: The Wasteland,George Miller,,"Tom Hardy, Ahmed Adel",,
+553,Krull,Peter Yates,,"Ken Marshall, Lysette Anthony, Freddie Jones, Francesca Annis",1983,121 min
+554,Live Die Repeat and Repeat,Doug Liman,,"Emily Blunt, Tom Cruise",,
+555,Rupture,Steven Shainberg,,"Noomi Rapace, Michael Chiklis, Kerry Bishé, Peter Stormare",2016,102 min
+556,Attack the Block,Joe Cornish,,"John Boyega, Jodie Whittaker, Alex Esmail, Leeon Jones",2011,88 min
+319,The Wandering Earth,Frant Gwo,,"Jing Wu, Chuxiao Qu, Guangjie Li, Man-Tat Ng",2019,125 min
+320,Fantastic Four,Tim Story,,"Ioan Gruffudd, Michael Chiklis, Chris Evans, Jessica Alba",2005,106 min
+321,They Live,John Carpenter,,"Roddy Piper, Keith David, Meg Foster, George 'Buck' Flower",1988,94 min
+322,Aniara,"Pella Kagerman, Hugo Lilja",,"Emelie Jonsson, Bianca Cruzeiro, Arvin Kananian, Anneli Martini",2018,106 min
+323,The League of Extraordinary Gentlemen,Stephen Norrington,,"Sean Connery, Stuart Townsend, Peta Wilson, Jason Flemyng",2003,110 min
+220,The Hunger Games: Catching Fire,Francis Lawrence,,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Philip Seymour Hoffman",2013,146 min
+221,Untitled Ghostbusters Project,Jason Reitman,,"Mckenna Grace, Carrie Coon, Finn Wolfhard",2020,
+222,The Eternals,Chloé Zhao,,"Angelina Jolie, Kumail Nanjiani",,
+223,Idiocracy,Mike Judge,,"Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews",2006,84 min
+224,Twilight Zone: The Movie,"Joe Dante, John Landis, George Miller, Steven Spielberg",,"Dan Aykroyd, Albert Brooks, Vic Morrow, Doug McGrath",1983,101 min
+70,Deadpool,Tim Miller,,"Ryan Reynolds, Morena Baccarin, T.J. Miller, Ed Skrein",2016,108 min
+71,Batman v Superman: Dawn of Justice,Zack Snyder,,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg",2016,151 min
+72,Back to the Future,Robert Zemeckis,,"Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",1985,116 min
+73,Doctor Strange,Scott Derrickson,,"Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong",2016,115 min
+487,Priest,Scott Stewart,,"Paul Bettany, Cam Gigandet, Maggie Q, Karl Urban",2011,87 min
+488,The Purge: Anarchy,James DeMonaco,,"Frank Grillo, Carmen Ejogo, Zach Gilford, Kiele Sanchez",2014,103 min
+489,Battlefield Earth,Roger Christian,,"John Travolta, Forest Whitaker, Barry Pepper, Kim Coates",2000,118 min
+490,Escape Plan,Mikael Håfström,,"Sylvester Stallone, Arnold Schwarzenegger, 50 Cent, Vincent D'Onofrio",2013,115 min
+514,Equilibrium,Kurt Wimmer,,"Christian Bale, Sean Bean, Emily Watson, Taye Diggs",2002,107 min
+515,Kung Fury 2,David Sandberg,,"Michael Fassbender, Arnold Schwarzenegger, Eiza González, David Hasselhoff",,
+516,Star Trek: First Contact,Jonathan Frakes,,"Patrick Stewart, Jonathan Frakes, Brent Spiner, LeVar Burton",1996,111 min
+157,Donnie Darko,Richard Kelly,,"Jake Gyllenhaal, Jena Malone, Mary McDonnell, Holmes Osborne",2001,113 min
+158,Cloud Atlas,"Tom Tykwer, Lana Wachowski, Lilly Wachowski",,"Tom Hanks, Halle Berry, Hugh Grant, Hugo Weaving",2012,172 min
+159,Valerian and the City of a Thousand Planets,Luc Besson,,"Dane DeHaan, Cara Delevingne, Clive Owen, Rihanna",2017,137 min
+160,The House with a Clock in Its Walls,Eli Roth,,"Jack Black, Cate Blanchett, Owen Vaccaro, Kyle MacLachlan",2018,105 min
+256,Moon,Duncan Jones,,"Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw",2009,97 min
+257,Armageddon,Michael Bay,,"Bruce Willis, Billy Bob Thornton, Ben Affleck, Liv Tyler",1998,151 min
+258,Mute,Duncan Jones,,"Alexander Skarsgård, Paul Rudd, Justin Theroux, Levi Eisenblätter",2018,126 min
+557,The Last Boy,Perry Bhandal,,"Luke Goss, Flynn Allen, Peter Guinness, Matilda Freeman",2019,87 min
+558,Predator 2,Stephen Hopkins,,"Danny Glover, Gary Busey, Kevin Peter Hall, Rubén Blades",1990,108 min
+559,Speed Racer,"Lana Wachowski, Lilly Wachowski",,"Emile Hirsch, Matthew Fox, Christina Ricci, Nicholas Elia",2008,135 min
+560,The Dead Zone,David Cronenberg,,"Christopher Walken, Brooke Adams, Tom Skerritt, Herbert Lom",1983,103 min
+324,The Darkest Minds,Jennifer Yuh Nelson,,"Amandla Stenberg, Mandy Moore, Bradley Whitford, Harris Dickinson",2018,104 min
+325,Journey 2: The Mysterious Island,Brad Peyton,,"Josh Hutcherson, Dwayne Johnson, Michael Caine, Luis Guzmán",2012,94 min
+326,Teenage Mutant Ninja Turtles: Out of the Shadows,Dave Green,,"Megan Fox, Will Arnett, Tyler Perry, Laura Linney",2016,112 min
+327,The Wolverine,James Mangold,,"Hugh Jackman, Will Yun Lee, Tao Okamoto, Rila Fukushima",2013,126 min
+328,Morbius,Daniel Espinosa,,"Adria Arjona, Jared Leto, Matt Smith, Jared Harris",2020,
+225,Fantastic Four,Josh Trank,,"Miles Teller, Kate Mara, Michael B. Jordan, Jamie Bell",2015,100 min
+226,Big Hero 6,"Don Hall, Chris Williams",,"Ryan Potter, Scott Adsit, Jamie Chung, T.J. Miller",2014,102 min
+227,X-Men: The Last Stand,Brett Ratner,,"Patrick Stewart, Hugh Jackman, Halle Berry, Famke Janssen",2006,104 min
+228,Back to the Future Part II,Robert Zemeckis,,"Michael J. Fox, Christopher Lloyd, Lea Thompson, Thomas F. Wilson",1989,108 min
+74,Iron Man 2,Jon Favreau,,"Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow, Don Cheadle",2010,124 min
+75,Iron Man 3,Shane Black,,"Robert Downey Jr., Guy Pearce, Gwyneth Paltrow, Don Cheadle",2013,130 min
+76,The Hunger Games,Gary Ross,,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Stanley Tucci",2012,142 min
+77,Hotel Artemis,Drew Pearce,,"Jodie Foster, Sofia Boutella, Dave Bautista, Sterling K. Brown",2018,94 min
+78,The Suicide Squad,James Gunn,,"Margot Robbie, Idris Elba, Jared Leto, Jai Courtney",2021,
+79,Avatar,James Cameron,,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez",2009,162 min
+491,Dragonball: Evolution,James Wong,,"Justin Chatwin, James Marsters, Yun-Fat Chow, Emmy Rossum",2009,85 min
+492,Resident Evil: Apocalypse,Alexander Witt,,"Milla Jovovich, Sienna Guillory, Eric Mabius, Oded Fehr",2004,94 min
+493,Alien Warfare,Jeremiah Jones,,"Clayton Snyder, David Meadows, Daniel Washington, Scott C. Roe",2019,88 min
+494,The Return of the Living Dead,Dan O'Bannon,,"Clu Gulager, James Karen, Don Calfa, Thom Mathews",1985,91 min
+495,Pitch Black,David Twohy,,"Radha Mitchell, Cole Hauser, Vin Diesel, Keith David",2000,109 min
+517,A Scanner Darkly,Richard Linklater,,"Keanu Reeves, Winona Ryder, Robert Downey Jr., Rory Cochrane",2006,100 min
+518,Heavy Metal,"Gerald Potterton, John Bruno, John Halas, Julian Harris, Jimmy T. Murakami, Barrie Nelson, Paul Sabella, Jack Stokes, Pino Van Lamsweerde, Harold Whitaker",,"Richard Romanus, John Candy, Joe Flaherty, Don Francks",1981,86 min
+519,Treasure Planet,"Ron Clements, John Musker",,"Joseph Gordon-Levitt, Emma Thompson, Martin Short, Roscoe Lee Browne",2002,95 min
+520,Zoe,Drake Doremus,,"Ewan McGregor, Léa Seydoux, Theo James, Rashida Jones",2018,104 min
+161,Tinker',Sonny Marler,,"Clayne Crawford, Christian Kane, Wilmer Calderon, Colt Crawford",2018,97 min
+162,Aliens,James Cameron,,"Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser",1986,137 min
+163,Starship Troopers,Paul Verhoeven,,"Casper Van Dien, Denise Richards, Dina Meyer, Jake Busey",1997,129 min
+164,Bill & Ted Face the Music,Dean Parisot,,"Keanu Reeves, William Sadler, Alex Winter",2020,
+165,Maze Runner: The Death Cure,Wes Ball,,"Dylan O'Brien, Ki Hong Lee, Kaya Scodelario, Thomas Brodie-Sangster",2018,143 min
+259,The Hunger Games: Mockingjay - Part 2,Francis Lawrence,,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson",2015,137 min
+260,The Maze Runner,Wes Ball,,"Dylan O'Brien, Kaya Scodelario, Will Poulter, Thomas Brodie-Sangster",2014,113 min
+261,Transformers: Age of Extinction,Michael Bay,,"Mark Wahlberg, Nicola Peltz, Jack Reynor, Stanley Tucci",2014,165 min
+561,Soylent Green,Richard Fleischer,,"Charlton Heston, Edward G. Robinson, Leigh Taylor-Young, Chuck Connors",1973,97 min
+562,Paul,Greg Mottola,,"Simon Pegg, Nick Frost, Seth Rogen, Mia Stallard",2011,104 min
+563,Fire in the Sky,Robert Lieberman,,"D.B. Sweeney, Robert Patrick, Craig Sheffer, Peter Berg",1993,109 min
+329,Anon,Andrew Niccol,,"Clive Owen, Afiya Bennett, Morgan Allen, Jeffrey Men",2018,100 min
+330,The Hitchhiker's Guide to the Galaxy,Garth Jennings,,"Martin Freeman, Yasiin Bey, Sam Rockwell, Zooey Deschanel",2005,109 min
+331,Resident Evil: The Final Chapter,Paul W.S. Anderson,,"Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts",2016,107 min
+229,The Butterfly Effect,"Eric Bress, J. Mackye Gruber",,"Ashton Kutcher, Amy Smart, Melora Walters, Elden Henson",2004,113 min
+230,Spider-Man 2,Sam Raimi,,"Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco",2004,127 min
+231,In Time,Andrew Niccol,,"Justin Timberlake, Amanda Seyfried, Cillian Murphy, Olivia Wilde",2011,109 min
+232,Geostorm,Dean Devlin,,"Gerard Butler, Jim Sturgess, Abbie Cornish, Alexandra Maria Lara",2017,109 min
+80,The Predator,Shane Black,,"Boyd Holbrook, Trevante Rhodes, Jacob Tremblay, Keegan-Michael Key",2018,107 min
+81,Star Wars: Episode VIII - The Last Jedi,Rian Johnson,,"Daisy Ridley, John Boyega, Mark Hamill, Carrie Fisher",2017,152 min
+82,Transformers: The Last Knight,Michael Bay,,"Mark Wahlberg, Anthony Hopkins, Josh Duhamel, Laura Haddock",2017,154 min
+83,Dune,David Lynch,,"Kyle MacLachlan, Virginia Madsen, Francesca Annis, Leonardo Cimino",1984,137 min
+496,Real Steel,Shawn Levy,,"Hugh Jackman, Evangeline Lilly, Dakota Goyo, Anthony Mackie",2011,127 min
+497,Death Race,Paul W.S. Anderson,,"Jason Statham, Joan Allen, Tyrese Gibson, Ian McShane",2008,105 min
+498,Pandorum,Christian Alvart,,"Dennis Quaid, Ben Foster, Cam Gigandet, Antje Traue",2009,108 min
+499,Cowboys & Aliens,Jon Favreau,,"Daniel Craig, Harrison Ford, Olivia Wilde, Abigail Spencer",2011,119 min
+521,Jason X,James Isaac,,"Kane Hodder, Lexa Doig, Jeff Geddis, David Cronenberg",2001,91 min
+522,Spy Kids 4-D: All the Time in the World,Robert Rodriguez,,"Jessica Alba, Jeremy Piven, Joel McHale, Rowan Blanchard",2011,89 min
+523,Zapped!,Robert J. Rosenthal,,"Scott Baio, Willie Aames, Robert Mandan, Felice Schachter",1982,98 min
+524,Blast from the Past,Hugh Wilson,,"Brendan Fraser, Alicia Silverstone, Christopher Walken, Sissy Spacek",1999,112 min
+166,Vanilla Sky,Cameron Crowe,,"Tom Cruise, Penélope Cruz, Cameron Diaz, Kurt Russell",2001,136 min
+167,Star Trek Beyond,Justin Lin,,"Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana",2016,122 min
+168,Star Wars: Episode I - The Phantom Menace,George Lucas,,"Ewan McGregor, Liam Neeson, Natalie Portman, Jake Lloyd",1999,136 min
+169,The Matrix Reloaded,"Lana Wachowski, Lilly Wachowski",,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",2003,138 min
+262,Mortal Kombat,Paul W.S. Anderson,,"Christopher Lambert, Robin Shou, Linden Ashby, Cary-Hiroyuki Tagawa",1995,101 min
+263,War for the Planet of the Apes,Matt Reeves,,"Andy Serkis, Woody Harrelson, Steve Zahn, Karin Konoval",2017,140 min
+264,Men in Black II,Barry Sonnenfeld,,"Tommy Lee Jones, Will Smith, Rip Torn, Lara Flynn Boyle",2002,88 min
+265,10 Cloverfield Lane,Dan Trachtenberg,,"John Goodman, Mary Elizabeth Winstead, John Gallagher Jr., Douglas M. Griffin",2016,103 min
+564,The Iron Giant,Brad Bird,,"Eli Marienthal, Harry Connick Jr., Jennifer Aniston, Vin Diesel",1999,86 min
+565,Chimera Strain,Maurice Haeems,,"Henry Ian Cusick, Kathleen Quinlan, Erika Ervin, Jenna Harrison",2018,80 min
+566,Next,Lee Tamahori,,"Nicolas Cage, Julianne Moore, Jessica Biel, Thomas Kretschmann",2007,96 min
+567,"Dude, Where's My Car?",Danny Leiner,,"Ashton Kutcher, Seann William Scott, Jennifer Garner, Marla Sokoloff",2000,83 min
+332,Insurgent,Robert Schwentke,,"Shailene Woodley, Ansel Elgort, Theo James, Kate Winslet",2015,119 min
+333,Venom 2,,,,2020,
+334,Godzilla,Roland Emmerich,,"Matthew Broderick, Jean Reno, Maria Pitillo, Hank Azaria",1998,139 min
+335,Chappie,Neill Blomkamp,,"Sharlto Copley, Dev Patel, Hugh Jackman, Sigourney Weaver",2015,120 min
+233,Space Jam 2,Terence Nance,,"Sonequa Martin-Green, O'Shea Jackson Jr., LeBron James, Charles Barkley",2021,
+234,Mars Attacks!,Tim Burton,,"Jack Nicholson, Pierce Brosnan, Sarah Jessica Parker, Annette Bening",1996,106 min
+235,The Bad Batch,Ana Lily Amirpour,,"Suki Waterhouse, Jason Momoa, Jayda Fink, Keanu Reeves",2016,118 min
+236,District 9,Neill Blomkamp,,"Sharlto Copley, David James, Jason Cope, Nathalie Boltt",2009,112 min
+84,White Chamber,Paul Raschid,,"Shauna Macdonald, Oded Fehr, Amrita Acharia, Sharon Maughan",2018,89 min
+85,Alien,Ridley Scott,,"Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright",1979,116 min
+86,Logan,James Mangold,,"Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",2017,137 min
+87,Happy Death Day 2U,Christopher Landon,,"Jessica Rothe, Israel Broussard, Phi Vu, Suraj Sharma",2019,100 min
+500,After Earth,M. Night Shyamalan,,"Jaden Smith, David Denman, Will Smith, Sophie Okonedo",2013,100 min
+525,Red Dawn,Dan Bradley,,"Chris Hemsworth, Isabel Lucas, Josh Hutcherson, Josh Peck",2012,93 min
+526,TRON,Steven Lisberger,,"Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan",1982,96 min
+527,Robots,"Chris Wedge, Carlos Saldanha",,"Ewan McGregor, Halle Berry, Mel Brooks, Robin Williams",2005,91 min
+170,Despicable Me 3,"Kyle Balda, Pierre Coffin, Eric Guillon",,"Steve Carell, Kristen Wiig, Trey Parker, Miranda Cosgrove",2017,89 min
+171,Under the Skin,Jonathan Glazer,,"Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay, Dougie McConnell",2013,108 min
+172,Oblivion,Joseph Kosinski,,"Tom Cruise, Morgan Freeman, Andrea Riseborough, Olga Kurylenko",2013,124 min
+266,Allegiant,Robert Schwentke,,"Shailene Woodley, Theo James, Jeff Daniels, Naomi Watts",2016,120 min
+267,"I, Robot",Alex Proyas,,"Will Smith, Bridget Moynahan, Bruce Greenwood, Alan Tudyk",2004,115 min
+568,9,Shane Acker,,"Elijah Wood, Jennifer Connelly, Crispin Glover, Christopher Plummer",2009,79 min
+569,Flatliners,Joel Schumacher,,"Kiefer Sutherland, Kevin Bacon, Julia Roberts, William Baldwin",1990,115 min
+570,Monsters vs. Aliens,"Rob Letterman, Conrad Vernon",,"Reese Witherspoon, Rainn Wilson, Stephen Colbert, Seth Rogen",2009,94 min
+336,Battle Los Angeles,Jonathan Liebesman,,"Aaron Eckhart, Michelle Rodriguez, Bridget Moynahan, Ramon Rodriguez",2011,116 min
+337,Predators,Nimród Antal,,"Adrien Brody, Laurence Fishburne, Topher Grace, Alice Braga",2010,107 min
+338,Kin,"Jonathan Baker, Josh Baker",,"Myles Truitt, Jack Reynor, Dennis Quaid, Zoë Kravitz",2018,102 min
+339,Elysium,Neill Blomkamp,,"Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga",2013,109 min
+237,Hollow Man,Paul Verhoeven,,"Kevin Bacon, Elisabeth Shue, Josh Brolin, Kim Dickens",2000,112 min
+238,Downsizing,Alexander Payne,,"Matt Damon, Christoph Waltz, Hong Chau, Kristen Wiig",2017,135 min
+239,How It Ends,David M. Rosenthal,,"Theo James, Kat Graham, Nancy Sorel, Nicole Ari Parker",2018,113 min
+240,Limitless,Neil Burger,,"Bradley Cooper, Anna Friel, Abbie Cornish, Robert De Niro",2011,105 min
+88,Ad Astra,James Gray,,"Brad Pitt, Tommy Lee Jones, Donald Sutherland, Ruth Negga",2019,
+89,Upgrade,Leigh Whannell,,"Logan Marshall-Green, Melanie Vallejo, Steve Danielsen, Abby Craden",2018,100 min
+90,The Prestige,Christopher Nolan,,"Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",2006,130 min
+91,Terminator Genisys,Alan Taylor,,"Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney",2015,126 min
+528,Critters,Stephen Herek,,"Dee Wallace, M. Emmet Walsh, Billy Green Bush, Scott Grimes",1986,86 min
+529,Star Trek VI: The Undiscovered Country,Nicholas Meyer,,"William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan",1991,110 min
+530,Lost in Space,Stephen Hopkins,,"Gary Oldman, William Hurt, Matt LeBlanc, Mimi Rogers",1998,130 min
+531,Masters of the Universe,"Aaron Nee, Adam Nee",,Noah Centineo,,
+173,V for Vendetta,James McTeigue,,"Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea",2005,132 min
+174,Total Recall,Paul Verhoeven,,"Arnold Schwarzenegger, Sharon Stone, Michael Ironside, Rachel Ticotin",1990,113 min
+175,Time Trap,"Mark Dennis, Ben Foster",,"Andrew Wilson, Cassidy Gifford, Brianne Howey, Reiley McClendon",2017,87 min
+268,The Mist,Frank Darabont,,"Thomas Jane, Marcia Gay Harden, Laurie Holden, Andre Braugher",2007,126 min
+269,Justice League Part Two,,,"Gal Gadot, Joe Manganiello, Jesse Eisenberg",,
+270,The Lost World: Jurassic Park,Steven Spielberg,,"Jeff Goldblum, Julianne Moore, Pete Postlethwaite, Vince Vaughn",1997,129 min
+571,The Lawnmower Man,Brett Leonard,,"Jeff Fahey, Pierce Brosnan, Jenny Wright, Mark Bringelson",1992,108 min
+572,Push,Paul McGuigan,,"Camilla Belle, Dakota Fanning, Chris Evans, Colin Ford",2009,111 min
+573,Z for Zachariah,Craig Zobel,,"Chiwetel Ejiofor, Chris Pine, Margot Robbie",2015,98 min
+340,Barbarella,Roger Vadim,,"Jane Fonda, John Phillip Law, Anita Pallenberg, Milo O'Shea",1968,98 min
+341,Escape Plan 2: Hades,Steven C. Miller,,"Sylvester Stallone, Dave Bautista, Xiaoming Huang, Jesse Metcalfe",2018,96 min
+342,Tomorrowland,Brad Bird,,"George Clooney, Britt Robertson, Hugh Laurie, Raffey Cassidy",2015,130 min
+241,Splice,Vincenzo Natali,,"Adrien Brody, Sarah Polley, Delphine Chanéac, Brandon McGibbon",2009,104 min
+242,Guardians of the Galaxy Vol. 3,James Gunn,,"Pom Klementieff, Elizabeth Debicki",2022,
+243,Akira,Katsuhiro Ôtomo,,"Mitsuo Iwata, Nozomu Sasaki, Mami Koyama, Tesshô Genda",1988,124 min
+244,The Thing,Matthijs van Heijningen Jr.,,"Mary Elizabeth Winstead, Joel Edgerton, Ulrich Thomsen, Eric Christian Olsen",2011,103 min
+92,Kong: Skull Island,Jordan Vogt-Roberts,,"Tom Hiddleston, Samuel L. Jackson, Brie Larson, John C. Reilly",2017,118 min
+93,Prospect,"Christopher Caldwell, Zeek Earl",,"Sophie Thatcher, Jay Duplass, Pedro Pascal, Luke Pitzrick",2018,100 min
+94,Alien: Covenant,Ridley Scott,,"Michael Fassbender, Katherine Waterston, Billy Crudup, Danny McBride",2017,122 min
+95,Green Lantern,Martin Campbell,,"Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong",2011,114 min
+532,Perfect Sense,David Mackenzie,,"Ewan McGregor, Eva Green, Lauren Tempany, Connie Nielsen",2011,92 min
+533,Escape from L.A.,John Carpenter,,"Kurt Russell, Steve Buscemi, Stacy Keach, Peter Fonda",1996,101 min
+534,Green Lantern Corps,,,,2020,
+535,Doomsday,Neil Marshall,,"Rhona Mitra, Bob Hoskins, Alexander Siddig, Caryn Peterson",2008,105 min
+176,The Running Man,Paul Michael Glaser,,"Arnold Schwarzenegger, Maria Conchita Alonso, Yaphet Kotto, Jim Brown",1987,101 min
+177,The Batman,Matt Reeves,,,2021,
+178,Prometheus,Ridley Scott,,"Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron",2012,124 min
+179,Spider-Man 3,Sam Raimi,,"Tobey Maguire, Kirsten Dunst, Topher Grace, Thomas Haden Church",2007,139 min
+271,Predestination,"Michael Spierig, Peter Spierig",,"Ethan Hawke, Sarah Snook, Noah Taylor, Madeleine West",2014,97 min
+272,Signs,M. Night Shyamalan,,"Mel Gibson, Joaquin Phoenix, Rory Culkin, Abigail Breslin",2002,106 min
+273,Spaceballs,Mel Brooks,,"Mel Brooks, John Candy, Rick Moranis, Bill Pullman",1987,96 min
+274,The Matrix Revolutions,"Lana Wachowski, Lilly Wachowski",,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",2003,129 min
+574,The Manchurian Candidate,Jonathan Demme,,"Denzel Washington, Liev Schreiber, Meryl Streep, Kimberly Elise",2004,129 min
+575,The Darkest Hour,Chris Gorak,,"Emile Hirsch, Olivia Thirlby, Max Minghella, Rachael Taylor",2011,89 min
+576,Killer Klowns from Outer Space,Stephen Chiodo,,"Grant Cramer, Suzanne Snyder, John Allen Nelson, John Vernon",1988,88 min
+577,Daybreakers,"Michael Spierig, Peter Spierig",,"Ethan Hawke, Willem Dafoe, Sam Neill, Harriet Minto-Day",2009,98 min
+343,Assassin's Creed,Justin Kurzel,,"Michael Fassbender, Marion Cotillard, Jeremy Irons, Brendan Gleeson",2016,115 min
+344,Cocoon,Ron Howard,,"Don Ameche, Wilford Brimley, Hume Cronyn, Brian Dennehy",1985,117 min
+345,Star Trek III: The Search for Spock,Leonard Nimoy,,"William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan",1984,105 min
+346,Hot Tub Time Machine,Steve Pink,,"John Cusack, Rob Corddry, Craig Robinson, Clark Duke",2010,101 min
+245,Spies in Disguise,"Nick Bruno, Troy Quane",,"Karen Gillan, Ben Mendelsohn, Tom Holland, Will Smith",2019,
+246,War of the Worlds,Steven Spielberg,,"Tom Cruise, Dakota Fanning, Tim Robbins, Miranda Otto",2005,116 min
+247,The Day After Tomorrow,Roland Emmerich,,"Dennis Quaid, Jake Gyllenhaal, Emmy Rossum, Dash Mihok",2004,124 min
+248,What Happened to Monday,Tommy Wirkola,,"Noomi Rapace, Glenn Close, Willem Dafoe, Marwan Kenzari",2017,123 min
+96,The First Purge,Gerard McMurray,,"Y'lan Noel, Lex Scott Davis, Joivan Wade, Steve Harris",2018,98 min
+97,The Thing,John Carpenter,,"Kurt Russell, Wilford Brimley, Keith David, Richard Masur",1982,109 min
+98,Black Widow,Cate Shortland,,"David Harbour, Scarlett Johansson, Florence Pugh, Rachel Weisz",1991,
+99,Terminator 2: Judgment Day,James Cameron,,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",2002,137 min
+536,Star Trek: Nemesis,Stuart Baird,,"Patrick Stewart, Jonathan Frakes, Brent Spiner, LeVar Burton",2002,116 min
+537,Superman II,"Richard Lester, Richard Donner",,"Gene Hackman, Christopher Reeve, Margot Kidder, Ned Beatty",1980,127 min
+538,Next Gen,"Kevin R. Adams, Joe Ksander, Ricardo Curtis",,"John Krasinski, Charlyne Yi, Jason Sudeikis, Michael Peña",2018,106 min
+180,The Giver,Phillip Noyce,,"Brenton Thwaites, Jeff Bridges, Meryl Streep, Taylor Swift",2014,97 min
+181,The Amazing Spider-Man,Marc Webb,,"Andrew Garfield, Emma Stone, Rhys Ifans, Irrfan Khan",2012,136 min
+182,Snowpiercer,Joon-ho Bong,,"Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris",2013,126 min
+183,Black Mirror: Bandersnatch,David Slade,,"Fionn Whitehead, Craig Parkinson, Alice Lowe, Asim Chaudhry",2018,90 min
+275,Teenage Mutant Ninja Turtles,Steve Barron,,"Judith Hoag, Elias Koteas, Josh Pais, David Forman",1990,93 min
+276,Superman Returns,Bryan Singer,,"Brandon Routh, Kevin Spacey, Kate Bosworth, James Marsden",2006,154 min
+277,The Fly,David Cronenberg,,"Jeff Goldblum, Geena Davis, John Getz, Joy Boushel",1986,96 min
+578,The Stuff,Larry Cohen,,"Michael Moriarty, Andrea Marcovicci, Garrett Morris, Paul Sorvino",1985,87 min
+579,The Last Starfighter,Nick Castle,,"Lance Guest, Robert Preston, Kay E. Kuter, Dan Mason",1984,101 min
+580,How to Talk to Girls at Parties,John Cameron Mitchell,,"Nicole Kidman, Ruth Wilson, Elle Fanning, Matt Lucas",2017,102 min
+581,The Fly II,Chris Walas,,"Eric Stoltz, Daphne Zuniga, Lee Richardson, John Getz",1989,105 min
+347,Jurassic World 3,Colin Trevorrow,,"Bryce Dallas Howard, Chris Pratt",2021,
+348,Gattaca,Andrew Niccol,,"Ethan Hawke, Uma Thurman, Jude Law, Gore Vidal",1997,106 min
+349,The Hunger Games: Mockingjay - Part 1,Francis Lawrence,,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson",2014,123 min
+350,The Island,Michael Bay,,"Scarlett Johansson, Ewan McGregor, Djimon Hounsou, Steve Buscemi",2005,136 min
+249,Twelve Monkeys,Terry Gilliam,,"Bruce Willis, Madeleine Stowe, Brad Pitt, Joseph Melito",1995,129 min
+250,A Wrinkle in Time,Ava DuVernay,,"Storm Reid, Oprah Winfrey, Reese Witherspoon, Mindy Kaling",2018,109 min
+539,Maximum Overdrive,Stephen King,,"Emilio Estevez, Pat Hingle, Laura Harrington, Yeardley Smith",1986,98 min
+540,Zathura: A Space Adventure,Jon Favreau,,"Josh Hutcherson, Jonah Bobo, Dax Shepard, Tim Robbins",2005,101 min
+541,Mortal Kombat: Annihilation,John R. Leonetti,,"Robin Shou, Talisa Soto, James Remar, Sandra Hess",1997,95 min
+542,Iron Sky,Timo Vuorensola,,"Julia Dietze, Christopher Kirby, Götz Otto, Udo Kier",2012,93 min
+184,MFKZ,"Shôjirô Nishimi, Guillaume Renard",,"Orelsan, Gringe, Redouanne Harjane, Féodor Atkine",2017,94 min
+185,Men in Black,Barry Sonnenfeld,,"Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio",1997,98 min
+186,Batman & Robin,Joel Schumacher,,"Arnold Schwarzenegger, George Clooney, Chris O'Donnell, Uma Thurman",1997,125 min
+187,IO,Jonathan Helpert,,"Margaret Qualley, Anthony Mackie, Danny Huston, Tom Payne",2019,96 min
+278,Spy Kids 3-D: Game Over,Robert Rodriguez,,"Daryl Sabara, Alexa PenaVega, Antonio Banderas, Carla Gugino",2003,84 min
+279,Dredd,Pete Travis,,"Karl Urban, Olivia Thirlby, Lena Headey, Rachel Wood",2012,95 min
+280,The Sand,Isaac Gabaeff,,"Brooke Butler, Cleo Berry, Cynthia Murell, Dean Geyer",2015,84 min
+582,Hitman: Agent 47,Aleksander Bach,,"Rupert Friend, Hannah Ware, Zachary Quinto, Ciarán Hinds",2015,96 min
+583,The Nutty Professor,Tom Shadyac,,"Eddie Murphy, Jada Pinkett Smith, James Coburn, Larry Miller",1996,95 min
+584,Frequency,Gregory Hoblit,,"Dennis Quaid, Jim Caviezel, Shawn Doyle, Elizabeth Mitchell",2000,118 min
+585,The Fly,Kurt Neumann,,"David Hedison, Patricia Owens, Vincent Price, Herbert Marshall",1958,94 min
+543,Eight Legged Freaks,Ellory Elkayem,,"David Arquette, Kari Wuhrer, Scott Terra, Scarlett Johansson",2002,99 min
+544,Superman III,Richard Lester,,"Christopher Reeve, Richard Pryor, Margot Kidder, Jackie Cooper",1983,125 min
+545,Judge Dredd,Danny Cannon,,"Sylvester Stallone, Armand Assante, Rob Schneider, Jürgen Prochnow",1995,96 min
+546,Stay Alive,William Brent Bell,,"Jon Foster, Samaire Armstrong, Frankie Muniz, Jimmi Simpson",2006,85 min
+188,The Dark Tower,Nikolaj Arcel,,"Idris Elba, Matthew McConaughey, Tom Taylor, Dennis Haysbert",2017,95 min
+189,Dragon Ball Super: Broly,Tatsuya Nagamine,,"Masako Nozawa, Aya Hisakawa, Ryô Horikawa, Toshio Furukawa",2018,100 min
+190,World War Z,Marc Forster,,"Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",2013,116 min
+191,Evolution,Ivan Reitman,,"David Duchovny, Orlando Jones, Julianne Moore, Seann William Scott",2001,101 min
+192,Space Jam,Joe Pytka,,"Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington",1996,88 min
+281,Blade,Stephen Norrington,,"Wesley Snipes, Stephen Dorff, Kris Kristofferson, N'Bushe Wright",1998,120 min
+282,Extinction,Ben Young,,"Michael Peña, Lizzy Caplan, Amelia Crouch, Erica Tremblay",2018,95 min
+283,John Carter,Andrew Stanton,,"Taylor Kitsch, Lynn Collins, Willem Dafoe, Samantha Morton",2012,132 min
+284,The Cloverfield Paradox,Julius Onah,,"Gugu Mbatha-Raw, David Oyelowo, Daniel Brühl, John Ortiz",2018,102 min
+586,Race to Witch Mountain,Andy Fickman,,"Dwayne Johnson, Carla Gugino, AnnaSophia Robb, Alexander Ludwig",2009,98 min
+587,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Michael Pressman,,"Paige Turco, David Warner, Michelan Sisti, Leif Tilden",1991,88 min
+588,Victor Frankenstein,Paul McGuigan,,"Daniel Radcliffe, James McAvoy, Jessica Brown Findlay, Andrew Scott",2015,110 min
+589,Hot Bot,Michael Polish,,"Zack Pearlman, Doug Haley, Cynthia Kirchner, David Shackelford",2016,86 min
+547,Patient Zero,Stefan Ruzowitzky,,"Natalie Dormer, Stanley Tucci, Matt Smith, Clive Standen",2018,93 min
+548,Ghost Rider: Spirit of Vengeance,"Mark Neveldine, Brian Taylor",,"Nicolas Cage, Ciarán Hinds, Idris Elba, Violante Placido",2011,96 min
+549,Resident Evil: Afterlife,Paul W.S. Anderson,,"Milla Jovovich, Ali Larter, Wentworth Miller, Kim Coates",2010,96 min
+193,TRON: Legacy,Joseph Kosinski,,"Jeff Bridges, Garrett Hedlund, Olivia Wilde, Bruce Boxleitner",2010,125 min
+194,Face/Off,John Woo,,"John Travolta, Nicolas Cage, Joan Allen, Alessandro Nivola",1997,138 min
+195,Children of Men,Alfonso Cuarón,,"Julianne Moore, Clive Owen, Chiwetel Ejiofor, Michael Caine",2006,109 min
+601,Mary Shelley's Frankenstein,Kenneth Branagh,,"Robert De Niro, Kenneth Branagh, Helena Bonham Carter, Tom Hulce",1994,123 min
+651,Timecop,Peter Hyams,,"Jean-Claude Van Damme, Mia Sara, Ron Silver, Bruce McGill",1994,99 min
+285,X2: X-Men United,Bryan Singer,,"Patrick Stewart, Hugh Jackman, Halle Berry, Ian McKellen",2003,134 min
+286,Cell,Tod Williams,,"John Cusack, Samuel L. Jackson, Isabelle Fuhrman, Clark Sarullo",2016,98 min
+287,Terminator Salvation,McG,,"Christian Bale, Sam Worthington, Anton Yelchin, Moon Bloodgood",2009,115 min
+288,WALL·E,Andrew Stanton,,"Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard",2008,98 min
+289,Star Wars: Episode III - Revenge of the Sith,George Lucas,,"Hayden Christensen, Natalie Portman, Ewan McGregor, Samuel L. Jackson",2005,140 min
+290,28 Days Later...,Danny Boyle,,"Cillian Murphy, Naomie Harris, Christopher Eccleston, Alex Palmer",2002,113 min
+951,Invaders from Mars,Tobe Hooper,,"Karen Black, Hunter Carson, Timothy Bottoms, Laraine Newman",1986,100 min
+590,The Blob,Chuck Russell,,"Shawnee Smith, Kevin Dillon, Donovan Leitch Jr., Jeffrey DeMunn",1988,95 min
+591,Resident Evil: Retribution,Paul W.S. Anderson,,"Milla Jovovich, Sienna Guillory, Michelle Rodriguez, Aryana Engineer",2012,95 min
+592,Supergirl,Jeannot Szwarc,,"Helen Slater, Faye Dunaway, Peter O'Toole, Hart Bochner",1984,124 min
+593,Galaxy of Terror,Bruce D. Clark,,"Edward Albert, Erin Moran, Ray Walston, Bernard Behrens",1981,81 min
+594,Division 19,S.A. Halewood,,"Linus Roache, Alison Doody, Lotte Verbeek, Clarke Peters",2017,93 min
+595,Star Trek: Insurrection,Jonathan Frakes,,"Patrick Stewart, Jonathan Frakes, Brent Spiner, LeVar Burton",1998,103 min
+596,Westworld,Michael Crichton,,"Yul Brynner, Richard Benjamin, James Brolin, Norman Bartold",1973,88 min
+597,King Kong,"Merian C. Cooper, Ernest B. Schoedsack",,"Fay Wray, Robert Armstrong, Bruce Cabot, Frank Reicher",1933,100 min
+550,Boss Level,Joe Carnahan,,"Mel Gibson, Annabelle Wallis, Naomi Watts, Michelle Yeoh",2019,
+196,Superman,Richard Donner,,"Christopher Reeve, Margot Kidder, Gene Hackman, Marlon Brando",1978,143 min
+197,Godzilla,Gareth Edwards,,"Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe",2014,123 min
+198,About Time,Richard Curtis,,"Domhnall Gleeson, Rachel McAdams, Bill Nighy, Lydia Wilson",2013,123 min
+199,Spy Kids,Robert Rodriguez,,"Alexa PenaVega, Daryl Sabara, Antonio Banderas, Carla Gugino",2001,88 min
+602,The Black Hole,Gary Nelson,,"Maximilian Schell, Anthony Perkins, Robert Forster, Joseph Bottoms",1979,98 min
+603,Primer,Shane Carruth,,"Shane Carruth, David Sullivan, Casey Gooden, Anand Upadhyaya",2004,77 min
+604,Free Guy,Shawn Levy,,"Jodie Comer, Taika Waititi, Ryan Reynolds, Joe Keery",2020,
+605,Superman IV: The Quest for Peace,Sidney J. Furie,,"Christopher Reeve, Gene Hackman, Margot Kidder, Jackie Cooper",1987,90 min
+606,Twisted Pair,Neil Breen,,"Neil Breen, Sara Meritt, Siohbon Chevy Ebrahimi, Denise Bellini",2018,89 min
+607,Cloudy with a Chance of Meatballs 2,"Cody Cameron, Kris Pearn",,"Bill Hader, Anna Faris, Will Forte, Neil Patrick Harris",2013,95 min
+608,I Think We're Alone Now,Reed Morano,,"Peter Dinklage, Elle Fanning, Charlotte Gainsbourg, Paul Giamatti",2018,93 min
+652,Pi,Darren Aronofsky,,"Sean Gullette, Mark Margolis, Ben Shenkman, Pamela Hart",1998,84 min
+653,Village of the Damned,John Carpenter,,"Christopher Reeve, Kirstie Alley, Linda Kozlowski, Michael Paré",1995,99 min
+654,eXistenZ,David Cronenberg,,"Jude Law, Jennifer Jason Leigh, Ian Holm, Willem Dafoe",1999,97 min
+655,Deep Rising,Stephen Sommers,,"Treat Williams, Famke Janssen, Anthony Heald, Kevin J. O'Connor",1998,106 min
+656,Scanners,David Cronenberg,,"Jennifer O'Neill, Stephen Lack, Patrick McGoohan, Lawrence Dane",1981,103 min
+657,Soldier,Paul W.S. Anderson,,"Kurt Russell, Jason Scott Lee, Jason Isaacs, Connie Nielsen",1998,99 min
+658,24 Hours to Live,Brian Smrz,,"Ethan Hawke, Qing Xu, Paul Anderson, Rutger Hauer",2017,93 min
+659,Titan A.E.,"Don Bluth, Gary Goldman",,"Matt Damon, Drew Barrymore, Bill Pullman, John Leguizamo",2000,94 min
+291,The Purge: Election Year,James DeMonaco,,"Frank Grillo, Elizabeth Mitchell, Mykelti Williamson, Joseph Julian Soria",2016,108 min
+292,Resident Evil,Paul W.S. Anderson,,"Milla Jovovich, Michelle Rodriguez, Ryan McCluskey, Oscar Pearce",2002,100 min
+293,Transcendence,Wally Pfister,,"Johnny Depp, Rebecca Hall, Morgan Freeman, Cillian Murphy",2014,119 min
+294,Masters of the Universe,Gary Goddard,,"Dolph Lundgren, Frank Langella, Meg Foster, Billy Barty",1987,106 min
+295,The World's End,Edgar Wright,,"Simon Pegg, Nick Frost, Martin Freeman, Rosamund Pike",2013,109 min
+296,Total Recall,Len Wiseman,,"Colin Farrell, Bokeem Woodbine, Bryan Cranston, Kate Beckinsale",2012,118 min
+952,Synchronicity,Jacob Gentry,,"Chad McKnight, Brianne Davis, AJ Bowen, Scott Poythress",2015,101 min
+953,Them!,Gordon Douglas,,"James Whitmore, Edmund Gwenn, Joan Weldon, James Arness",1954,94 min
+954,"I, Robot 2",,,,,
+955,Nemesis,Albert Pyun,,"Olivier Gruner, Tim Thomerson, Cary-Hiroyuki Tagawa, Merle Kennedy",1992,95 min
+956,Orbiter 9,Hatem Khraiche,,"Clara Lago, Álex González, Andrés Parra, Belén Rueda",2017,95 min
+957,Willard,Glen Morgan,,"Crispin Glover, R. Lee Ermey, Laura Harring, Jackie Burroughs",2003,100 min
+958,The X Files: I Want to Believe,Chris Carter,,"David Duchovny, Gillian Anderson, Billy Connolly, Amanda Peet",2008,104 min
+598,Orgazmo,Trey Parker,,"Trey Parker, Dian Bachar, Robyn Lynne Raab, Michael Dean Jacobs",1997,94 min
+599,Journey to the Center of the Earth,Eric Brevig,,"Brendan Fraser, Josh Hutcherson, Anita Briem, Seth Meyers",2008,93 min
+600,The Thirteenth Floor,Josef Rusnak,,"Craig Bierko, Gretchen Mol, Armin Mueller-Stahl, Vincent D'Onofrio",1999,100 min
+901,The Anomaly,Noel Clarke,,"Noel Clarke, Ian Somerhalder, Brian Cox, Alexis Knapp",2014,97 min
+701,Home,Tim Johnson,,"Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez",2015,94 min
+200,The Domestics,Mike P. Nelson,,"Kate Bosworth, Tyler Hoechlin, Sonoya Mizuno, Lance Reddick",2018,95 min
+609,Tank Girl,Rachel Talalay,,"Lori Petty, Ice-T, Naomi Watts, Don Harvey",1995,104 min
+610,Surrogates,Jonathan Mostow,,"Bruce Willis, Radha Mitchell, Ving Rhames, Rosamund Pike",2009,89 min
+611,Short Circuit,John Badham,,"Ally Sheedy, Steve Guttenberg, Fisher Stevens, Austin Pendleton",1986,98 min
+612,The Stepford Wives,Frank Oz,,"Nicole Kidman, Bette Midler, Matthew Broderick, Glenn Close",2004,93 min
+613,Land of the Lost,Brad Silberling,,"Will Ferrell, Danny McBride, Anna Friel, Jorma Taccone",2009,102 min
+614,Creature from the Black Lagoon,Jack Arnold,,"Richard Carlson, Julie Adams, Richard Denning, Antonio Moreno",1954,79 min
+615,The Void,"Jeremy Gillespie, Steven Kostanski",,"Aaron Poole, Kenneth Welsh, Daniel Fathers, Kathleen Munroe",2016,90 min
+616,Resident Evil: Extinction,Russell Mulcahy,,"Milla Jovovich, Ali Larter, Oded Fehr, Iain Glen",2007,94 min
+660,2010,Peter Hyams,,"Roy Scheider, John Lithgow, Helen Mirren, Bob Balaban",1984,116 min
+661,Death House,B. Harrison Smith,,"Cody Longo, Cortney Palm, Adrienne Barbeau, Michael Berryman",2017,95 min
+662,Forbidden World,Allan Holzman,,"Jesse Vint, Dawn Dunlap, June Chadwick, Linden Chiles",1982,77 min
+663,Freaks of Nature,Robbie Pickering,,"Nicholas Braun, Mackenzie Davis, Josh Fadem, Denis Leary",2015,92 min
+664,Shin Godzilla,"Hideaki Anno, Shinji Higuchi",,"Hiroki Hasegawa, Yutaka Takenouchi, Satomi Ishihara, Ren Osugi",2016,120 min
+665,Bleeding Steel,Leo Zhang,,"Jackie Chan, Show Lo, Na-Na OuYang, Erica Xia-Hou",2017,109 min
+666,Castle in the Sky,Hayao Miyazaki,,"Anna Paquin, James Van Der Beek, Cloris Leachman, Mark Hamill",1986,125 min
+667,The Curse of the Were-Rabbit,"Steve Box, Nick Park",,"Peter Sallis, Helena Bonham Carter, Ralph Fiennes, Peter Kay",2005,85 min
+297,Army of the Dead,Zack Snyder,,Dave Bautista,,
+298,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,,"Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",1983,131 min
+299,2012,Roland Emmerich,,"John Cusack, Thandie Newton, Chiwetel Ejiofor, Amanda Peet",2009,158 min
+300,The Circle,James Ponsoldt,,"Emma Watson, Tom Hanks, John Boyega, Ellar Coltrane",2017,110 min
+959,Clockstoppers,Jonathan Frakes,,"Jesse Bradford, French Stewart, Paula Garcés, Michael Biehn",2002,94 min
+960,Wizards,Ralph Bakshi,,"Bob Holt, Jesse Welles, Richard Romanus, David Proval",1977,80 min
+961,Blue Thunder,John Badham,,"Roy Scheider, Warren Oates, Candy Clark, Daniel Stern",1983,109 min
+962,S. Darko,Chris Fisher,,"Daveigh Chase, Briana Evigan, James Lafferty, Ed Westwick",2009,103 min
+963,Revolt,Joe Miale,,"Lee Pace, Bérénice Marlohe, Jason Flemyng, Sibulele Gcilitshana",2017,87 min
+964,Cherry 2000,Steve De Jarnatt,,"Melanie Griffith, David Andrews, Pamela Gidley, Jennifer Balgobin",1987,99 min
+965,Who Am I?,"Benny Chan, Jackie Chan",,"Jackie Chan, Michelle Ferre, Mirai Yamamoto, Ron Smerczak",1998,108 min
+902,Radius,"Caroline Labrèche, Steeve Léonard",,"Diego Klattenhoff, Charlotte Sullivan, Brett Donahue, Bradley Sawatzky",2017,93 min
+903,Shivers,David Cronenberg,,"Paul Hampton, Joe Silver, Lynn Lowry, Allan Kolman",1975,87 min
+904,Solarbabies,Alan Johnson,,"Richard Jordan, Jami Gertz, Jason Patric, Lukas Haas",1986,94 min
+905,Fantastic Voyage,Richard Fleischer,,"Stephen Boyd, Raquel Welch, Edmond O'Brien, Donald Pleasence",1966,100 min
+906,Nutty Professor II: The Klumps,Peter Segal,,"Eddie Murphy, Janet Jackson, Larry Miller, John Ales",2000,106 min
+907,Piranha,Joe Dante,,"Bradford Dillman, Heather Menzies-Urich, Kevin McCarthy, Keenan Wynn",1978,94 min
+908,The Rezort,Steve Barker,,"Dougray Scott, Jessica De Gouw, Martin McCann, Claire Goose",2015,93 min
+909,Shark Night 3D,David R. Ellis,,"Sara Paxton, Dustin Milligan, Chris Carmack, Katharine McPhee",2011,90 min
+702,Gotham City Sirens,David Ayer,,Margot Robbie,,
+703,Daylight's End,William Kaufman,,"Johnny Strong, Lance Henriksen, Louis Mandylor, Hakeem Kae-Kazim",2016,105 min
+704,Barb Wire,David Hogan,,"Pamela Anderson, Amir AboulEla, Adriana Alexander, David Andriole",1996,98 min
+705,Sleight,J.D. Dillard,,"Jacob Latimore, Seychelle Gabriel, Storm Reid, Donzaleigh Abernathy",2016,89 min
+706,Project Ghazi,Nadir Shah,,"Sheheryar Munawar Siddiqui, Syra Shehroz, Adnan Jaffar, Talat Hussain",2017,
+707,Cube²: Hypercube,Andrzej Sekula,,"Kari Matchett, Geraint Wyn Davies, Grace Lynn Kung, Matthew Ferguson",2002,94 min
+708,Carriers,"David Pastor, Àlex Pastor",,"Chris Pine, Piper Perabo, Lou Taylor Pucci, Emily VanCamp",2009,84 min
+801,The Recall,Mauro Borrelli,,"Wesley Snipes, RJ Mitte, Jedidiah Goodacre, Laura Bilgeri",2017,90 min
+851,Dark Angel,Craig R. Baxley,,"Dolph Lundgren, Brian Benben, Betsy Brantley, Matthias Hues",1990,91 min
+617,Invasion of the Body Snatchers,Philip Kaufman,,"Donald Sutherland, Brooke Adams, Jeff Goldblum, Veronica Cartwright",1978,115 min
+618,Absolutely Anything,Terry Jones,,"Simon Pegg, Kate Beckinsale, Sanjeev Bhaskar, Rob Riggle",2015,85 min
+619,2036 Origin Unknown,Hasraf Dulull,,"Katee Sackhoff, Ray Fearon, Julie Cox, Steven Cree",2018,94 min
+620,RoboCop 2,Irvin Kershner,,"Peter Weller, John Glover, Mario Machado, Leeza Gibbons",1990,117 min
+621,Star Trek IV: The Voyage Home,Leonard Nimoy,,"William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan",1986,119 min
+622,Strange Days,Kathryn Bigelow,,"Ralph Fiennes, Angela Bassett, Juliette Lewis, Tom Sizemore",1995,145 min
+623,Circle,"Aaron Hann, Mario Miscione",,"Allegra Masters, Aimee McKay, Ashley Key, Autumn Federici",2015,87 min
+624,Equals,Drake Doremus,,"Nicholas Hoult, Kristen Stewart, Vernetta Lopez, Scott Lawrence",2015,101 min
+625,Womb,Benedek Fliegauf,,"Eva Green, Matt Smith, Lesley Manville, Peter Wight",2010,111 min
+751,Monsters,Gareth Edwards,,"Scoot McNairy, Whitney Able, Mario Zuniga Benavides, Annalee Jefferies",2010,94 min
+668,Swamp Thing,Wes Craven,,"Louis Jourdan, Adrienne Barbeau, Ray Wise, David Hess",1982,91 min
+669,City of Ember,Gil Kenan,,"Saoirse Ronan, Toby Jones, Bill Murray, David Ryall",2008,90 min
+670,Untitled Star Trek Sequel,S.J. Clarkson,,"Zoe Saldana, Danai Gurira, John Cho, Karl Urban",,
+671,Star Trek: Generations,David Carson,,"Patrick Stewart, William Shatner, Malcolm McDowell, Jonathan Frakes",1994,118 min
+672,SpaceCamp,Harry Winer,,"Kate Capshaw, Lea Thompson, Kelly Preston, Larry B. Scott",1986,107 min
+673,Elizabeth Harvest,Sebastian Gutierrez,,"Abbey Lee, Ciarán Hinds, Carla Gugino, Matthew Beard",2018,105 min
+674,The Signal,William Eubank,,"Brenton Thwaites, Olivia Cooke, Beau Knapp, Laurence Fishburne",2014,97 min
+966,The Island of Dr. Moreau,Don Taylor,,"Burt Lancaster, Michael York, Nigel Davenport, Barbara Carrera",1977,99 min
+967,Cheech and Chong's Next Movie,Tommy Chong,,"Cheech Marin, Tommy Chong, Evelyn Guerrero, Betty Kennedy",1980,99 min
+968,Star Wars: The Clone Wars,Dave Filoni,,"Matt Lanter, Nika Futterman, Tom Kane, Ashley Eckstein",2008,98 min
+969,Chain Reaction,Andrew Davis,,"Keanu Reeves, Morgan Freeman, Rachel Weisz, Fred Ward",1996,107 min
+970,Double Dragon,James Yukich,,"Robert Patrick, Mark Dacascos, Scott Wolf, Kristina Wagner",1994,96 min
+971,Max Winslow and the House of Secrets,Sean Olson,,"Chad Michael Murray, Jason Genao, Tanner Buchanan, Jade Chynoweth",,
+972,Color Out of Space,Richard Stanley,,"Nicolas Cage, Q'orianka Kilcher, Joely Richardson, Brendan Meyer",,
+910,Kaboom,Gregg Araki,,"Thomas Dekker, Haley Bennett, Chris Zylka, Roxane Mesquida",2010,86 min
+911,Night of the Creeps,Fred Dekker,,"Jason Lively, Tom Atkins, Steve Marshall, Jill Whitlow",1986,88 min
+912,The Guyver,"Screaming Mad George, Steve Wang",,"Greg Joung Paik, Jimmie Walker, Peter Spellos, Michael Berryman",1991,88 min
+913,The Meteor Man,Robert Townsend,,"Robert Townsend, Marla Gibbs, Eddie Griffin, Robert Guillaume",1993,100 min
+914,Dark Star,John Carpenter,,"Dan O'Bannon, Dre Pahich, Brian Narelle, Cal Kuniholm",1974,83 min
+915,Max Steel,Stewart Hendler,,"Ben Winchell, Josh Brener, Maria Bello, Andy Garcia",2016,92 min
+916,Iceman: The Time Traveller,Wai Man Yip,,"Donnie Yen, Baoqiang Wang, Shengyi Huang, Kang Yu",2018,104 min
+709,Furia,David Twohy,,Vin Diesel,,
+710,The Relic,Peter Hyams,,"Penelope Ann Miller, Tom Sizemore, Linda Hunt, James Whitmore",1997,110 min
+711,Paprika,Satoshi Kon,,"Megumi Hayashibara, Tôru Emori, Katsunosuke Hori, Tôru Furuya",2006,90 min
+712,The Time Machine,George Pal,,"Rod Taylor, Alan Young, Yvette Mimieux, Sebastian Cabot",1960,103 min
+713,Frogs,George McCowan,,"Ray Milland, Sam Elliott, Joan Van Ark, Adam Roarke",1972,91 min
+714,Land of the Dead,George A. Romero,,"John Leguizamo, Asia Argento, Simon Baker, Dennis Hopper",2005,93 min
+715,Black Panther 2,Ryan Coogler,,,,
+802,Atlas Shrugged: Part I,Paul Johansson,,"Taylor Schilling, Grant Bowler, Matthew Marsden, Edi Gathegi",2011,97 min
+803,Spring,"Justin Benson, Aaron Moorhead",,"Lou Taylor Pucci, Nadia Hilker, Francesco Carnelutti, Nick Nevern",2014,109 min
+804,Anna,Jorge Dorado,,"Mark Strong, Taissa Farmiga, Brian Cox, Saskia Reeves",2013,99 min
+805,The Beyond,Hasraf Dulull,,"Jane Perry, Nigel Barber, Noeleen Comiskey, Ezra Khan",2017,103 min
+806,Mr. Peabody & Sherman,Rob Minkoff,,"Ty Burrell, Max Charles, Stephen Colbert, Leslie Mann",2014,92 min
+807,Rollerball,Norman Jewison,,"James Caan, John Houseman, Maud Adams, John Beck",1975,125 min
+808,The War of the Worlds,Byron Haskin,,"Gene Barry, Ann Robinson, Les Tremayne, Robert Cornthwaite",1953,85 min
+852,Kill Command,Steven Gomez,,"Thure Lindhardt, Vanessa Kirby, David Ajala, Mike Noble",2016,99 min
+853,The Girl Who Leapt Through Time,Mamoru Hosoda,,"Riisa Naka, Takuya Ishida, Mitsutaka Itakura, Ayami Kakiuchi",2006,98 min
+854,Multiplicity,Harold Ramis,,"Michael Keaton, Andie MacDowell, Zack Duhame, Katie Schlossberg",1996,117 min
+855,Star Trek V: The Final Frontier,William Shatner,,"William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan",1989,107 min
+856,Infinite,Antoine Fuqua,,Chris Evans,2006,
+857,Southland Tales,Richard Kelly,,"Dwayne Johnson, Sarah Michelle Gellar, Seann William Scott, Carlos Amezcua",1993,145 min
+858,RoboCop 3,Fred Dekker,,"Robert John Burke, Nancy Allen, Mario Machado, Remy Ryan",2016,104 min
+626,Firestarter,Mark L. Lester,,"Drew Barrymore, David Keith, Freddie Jones, Heather Locklear",1984,114 min
+627,Time Bandits,Terry Gilliam,,"Sean Connery, Shelley Duvall, John Cleese, Katherine Helmond",1981,110 min
+628,Humanoids from the Deep,"Barbara Peeters, Jimmy T. Murakami",,"Doug McClure, Ann Turkel, Vic Morrow, Cindy Weintraub",1980,80 min
+629,My Stepmother Is an Alien,Richard Benjamin,,"Dan Aykroyd, Kim Basinger, Jon Lovitz, Alyson Hannigan",1988,105 min
+630,The Saint,Phillip Noyce,,"Val Kilmer, Elisabeth Shue, Rade Serbedzija, Valeriy Nikolaev",1997,116 min
+752,Batman and Harley Quinn,Sam Liu,,"Kevin Conroy, Melissa Rauch, Paget Brewster, Loren Lester",2017,74 min
+753,The One I Love,Charlie McDowell,,"Mark Duplass, Elisabeth Moss, Ted Danson, Kiana Cason",2014,91 min
+754,Bad Taste,Peter Jackson,,"Terry Potter, Pete O'Herne, Craig Smith, Mike Minett",1987,91 min
+755,Neon Genesis Evangelion: The End of Evangelion,"Hideaki Anno, Kazuya Tsurumaki",,"Megumi Ogata, Megumi Hayashibara, Yûko Miyamura, Kotono Mitsuishi",1997,90 min
+675,Phantasm,Don Coscarelli,,"A. Michael Baldwin, Bill Thornbury, Reggie Bannister, Kathy Lester",1979,88 min
+676,The Cave,Bruce Hunt,,"Piper Perabo, Morris Chestnut, Cole Hauser, Eddie Cibrian",2005,97 min
+677,Flight of the Navigator,Randal Kleiser,,"Joey Cramer, Paul Reubens, Cliff De Young, Veronica Cartwright",1986,90 min
+678,Mighty Morphin Power Rangers: The Movie,Bryan Spicer,,"Karan Ashley, Johnny Yong Bosch, Steve Cardenas, Jason David Frank",1995,95 min
+973,Evils of the Night,Mohammed Rustam,,"Neville Brand, Aldo Ray, Tina Louise, John Carradine",1985,84 min
+974,Pokémon: The First Movie - Mewtwo Strikes Back,"Kunihiko Yuyama, Michael Haigney",,"Veronica Taylor, Rachael Lillis, Eric Stuart, Jay Goede",1998,96 min
+975,Pulse,Jim Sonzero,,"Kristen Bell, Rick Gonzalez, Christina Milian, Ian Somerhalder",2006,90 min
+976,Critters 2,Mick Garris,,"Scott Grimes, Liane Curtis, Terrence Mann, Don Keith Opper",1988,86 min
+917,Avatar 3,James Cameron,,"Zoe Saldana, Oona Chaplin, Sigourney Weaver, Sam Worthington",2021,
+918,Teenage Mutant Ninja Turtles III,Stuart Gillard,,"Elias Koteas, Paige Turco, Stuart Wilson, Sab Shimono",1993,96 min
+919,District B13,Pierre Morel,,"Cyril Raffaelli, David Belle, Tony D'Amario, Bibi Naceri",2004,84 min
+920,Breeders,Tim Kincaid,,"Teresa Farley, Lance Lewman, Frances Raines, Natalie O'Connell",1986,77 min
+921,Steel,Kenneth Johnson,,"Shaquille O'Neal, Annabeth Gish, Judd Nelson, Richard Roundtree",1997,97 min
+716,Thunderbirds,Jonathan Frakes,,"Bill Paxton, Anthony Edwards, Ben Kingsley, Brady Corbet",2004,95 min
+717,Mimic,Guillermo del Toro,,"Mira Sorvino, Jeremy Northam, Alexander Goodwin, Giancarlo Giannini",1997,105 min
+718,The Toxic Avenger,"Michael Herz, Lloyd Kaufman",,"Andree Maranda, Mitch Cohen, Jennifer Babtist, Cindy Manion",1984,82 min
+809,Muse,Jaume Balagueró,,"Elliot Cowan, Franka Potente, Ana Ularu, Leonor Watling",2017,107 min
+810,The Outrageous Baron Munchausen,Karel Zeman,,"Milos Kopecký, Rudolf Jelínek, Jana Brejchová, Karel Höger",1962,83 min
+811,How I Live Now,Kevin Macdonald,,"Saoirse Ronan, Tom Holland, George MacKay, Harley Bird",2013,101 min
+859,The Untamed,Amat Escalante,,"Ruth Ramos, Simone Bucio, Jesús Meza, Eden Villavicencio",2018,98 min
+860,5th Passenger,Scotty Baker,,"Morgan Lariah, Manu Intiraymi, Doug Jones, Marina Sirtis",2008,89 min
+861,Babylon A.D.,Mathieu Kassovitz,,"Vin Diesel, Michelle Yeoh, Mélanie Thierry, Gérard Depardieu",2020,90 min
+862,BIOS,Miguel Sapochnik,,"Tom Hanks, Caleb Landry Jones, Samira Wiley",2000,
+631,Innerspace,Joe Dante,,"Dennis Quaid, Martin Short, Meg Ryan, Kevin McCarthy",1987,120 min
+632,Repo Man,Alex Cox,,"Harry Dean Stanton, Emilio Estevez, Tracey Walter, Olivia Barash",1984,92 min
+633,Universal Soldier,Roland Emmerich,,"Jean-Claude Van Damme, Dolph Lundgren, Ally Walker, Ed O'Ross",1992,102 min
+756,Ultraviolet,Kurt Wimmer,,"Milla Jovovich, Cameron Bright, Nick Chinlund, Sebastien Andrieu",2006,88 min
+757,The Transformers: The Movie,Nelson Shin,,"Orson Welles, Robert Stack, Leonard Nimoy, Norman Alden",1986,84 min
+758,Starcrash,Luigi Cozzi,,"Marjoe Gortner, Caroline Munro, Christopher Plummer, David Hasselhoff",1978,92 min
+759,Transformers 6,,,,,
+679,The 6th Day,Roger Spottiswoode,,"Arnold Schwarzenegger, Michael Rapaport, Tony Goldwyn, Michael Rooker",2000,123 min
+680,Chicken Little,Mark Dindal,,"Zach Braff, Joan Cusack, Garry Marshall, Don Knotts",2005,81 min
+681,Open Your Eyes,Alejandro Amenábar,,"Eduardo Noriega, Penélope Cruz, Chete Lera, Fele Martínez",1997,117 min
+682,Devil's Pass,Renny Harlin,,"Holly Goss, Matt Stokoe, Luke Albright, Ryan Hawley",2013,100 min
+977,Final Fantasy: The Spirits Within,"Hironobu Sakaguchi, Motonori Sakakibara",,"Alec Baldwin, Steve Buscemi, Ming-Na Wen, Ving Rhames",2001,106 min
+978,A Boy and His Dog,L.Q. Jones,,"Don Johnson, Jason Robards, Susanne Benton, Tim McIntire",1975,91 min
+979,The Nest,Terence H. Winkless,,"Robert Lansing, Lisa Langlois, Franc Luz, Terri Treas",1988,89 min
+980,Earth to Echo,Dave Green,,"Teo Halm, Astro, Reese Hartwig, Ella Wahlestedt",2014,91 min
+922,Disturbing Behavior,David Nutter,,"James Marsden, Katie Holmes, Nick Stahl, Tobias Mehler",1998,84 min
+923,Fateful Findings,Neil Breen,,"Neil Breen, Klara Landrat, Jennifer Autry, Victoria Viveiros",2013,100 min
+924,Splinter,Toby Wilkins,,"Shea Whigham, Jill Wagner, Paulo Costanzo, Charles Baker",2008,82 min
+925,Rememory,Mark Palansky,,"Peter Dinklage, Matt Ellis, Jordana Largy, Martin Donovan",2017,111 min
+719,Ghosts of Mars,John Carpenter,,"Natasha Henstridge, Ice Cube, Pam Grier, Jason Statham",2001,98 min
+720,Untitled Star Trek Project,Quentin Tarantino,,,,
+721,The Host,Joon-ho Bong,,"Kang-ho Song, Hee-Bong Byun, Hae-il Park, Doona Bae",2006,120 min
+722,Altered States,Ken Russell,,"William Hurt, Blair Brown, Bob Balaban, Charles Haid",1980,102 min
+812,The Jacket,John Maybury,,"Adrien Brody, Keira Knightley, Daniel Craig, Kris Kristofferson",2005,103 min
+813,Phenomenon,Jon Turteltaub,,"John Travolta, Kyra Sedgwick, Forest Whitaker, Robert Duvall",1996,123 min
+814,The Order,Nick Gillard,,"Marina Sirtis, Gigi Edgley, Erin Cahill, George Lazenby",2006,
+815,My Super Ex-Girlfriend,Ivan Reitman,,"Uma Thurman, Luke Wilson, Anna Faris, Rainn Wilson",1993,96 min
+863,Supernova,Walter Hill,,"James Spader, Peter Facinelli, Robin Tunney, Angela Bassett",2004,90 min
+864,Cube Zero,Ernie Barbarash,,"Zachary Bennett, Stephanie Moore, Martin Roach, Michael Riley",2002,97 min
+865,The Tuxedo,Kevin Donovan,,"Jackie Chan, Jennifer Love Hewitt, Jason Isaacs, Debi Mazar",1980,98 min
+866,Saturn 3,"Stanley Donen, John Barry",,"Farrah Fawcett, Kirk Douglas, Harvey Keitel, Ed Bishop",2018,96 min
+634,Videodrome,David Cronenberg,,"James Woods, Debbie Harry, Sonja Smits, Peter Dvorsky",1983,87 min
+635,Mac and Me,Stewart Raffill,,"Christine Ebersole, Jonathan Ward, Tina Caspary, Lauren Stanley",1988,95 min
+636,Zardoz,John Boorman,,"Sean Connery, Charlotte Rampling, Sara Kestelman, John Alderton",1974,105 min
+637,The Day the Earth Stood Still,Robert Wise,,"Michael Rennie, Patricia Neal, Hugh Marlowe, Sam Jaffe",1951,92 min
+760,The Double,Richard Ayoade,,"Jesse Eisenberg, Mia Wasikowska, Wallace Shawn, Noah Taylor",2013,93 min
+761,Invaders from Mars,William Cameron Menzies,,"Helena Carter, Arthur Franz, Jimmy Hunt, Leif Erickson",1953,78 min
+762,The Machine,Caradog W. James,,"Toby Stephens, Caity Lotz, Denis Lawson, Sam Hazeldine",2013,91 min
+763,Mission to Mars,Brian De Palma,,"Tim Robbins, Gary Sinise, Don Cheadle, Connie Nielsen",2000,114 min
+683,Hornet,"James Kondelik, Jon Kondelik",,"Shellie Sterling, Madison West, Mark Valeriano, Sallieu Sesay",2018,86 min
+684,Guardians,Sarik Andreasyan,,"Anton Pampushnyy, Sanjar Madi, Sebastien Sisak, Alina Lanina",2017,89 min
+685,The Avengers,Jeremiah S. Chechik,,"Ralph Fiennes, Uma Thurman, Sean Connery, Patrick Macnee",1998,89 min
+686,My Little Pony: The Movie,Jayson Thiessen,,"Emily Blunt, Kristin Chenoweth, Liev Schreiber, Michael Peña",2017,99 min
+981,The Survivalist,Stephen Fingleton,,"Mia Goth, Barry Ward, Olwen Fouéré, Ryan McParland",2015,104 min
+982,Viral,"Henry Joost, Ariel Schulman",,"Sofia Black-D'Elia, Analeigh Tipton, Travis Tope, Michael Kelly",2016,85 min
+983,Zombie Strippers!,Jay Lee,,"Jenna Jameson, Robert Englund, Roxy Saint, Penny Vital",2008,94 min
+984,Dreamscape,Joseph Ruben,,"Dennis Quaid, Max von Sydow, Christopher Plummer, Eddie Albert",1984,99 min
+926,Beyond White Space,Ken Locsmandi,,"Holt McCallany, Zulay Henao, Dave Sheridan, James Devoti",2018,93 min
+927,Fortress,Stuart Gordon,,"Christopher Lambert, Loryn Locklin, Kurtwood Smith, Clifton Collins Jr.",1992,95 min
+928,The Divide,Xavier Gens,,"Lauren German, Michael Biehn, Milo Ventimiglia, Courtney B. Vance",2011,112 min
+929,The Thinning,Michael J. Gallagher,,"Logan Paul, Peyton List, Lia Marie Johnson, Calum Worthy",2016,81 min
+723,Monster Trucks,Chris Wedge,,"Lucas Till, Jane Levy, Thomas Lennon, Barry Pepper",2016,104 min
+724,Journey to the Center of the Earth,Henry Levin,,"James Mason, Pat Boone, Arlene Dahl, Diane Baker",1959,132 min
+725,The Flintstones in Viva Rock Vegas,Brian Levant,,"Mark Addy, Stephen Baldwin, Kristen Johnston, Jane Krakowski",2000,90 min
+726,I Am Mother,Grant Sputore,,"Rose Byrne, Hilary Swank, Clara Rugaard, Luke Hawker",2019,115 min
+816,Ticks,Tony Randel,,"Rosalind Allen, Ami Dolenz, Seth Green, Virginya Keehne",1980,85 min
+817,Battle Beyond the Stars,"Jimmy T. Murakami, Roger Corman",,"George Peppard, Robert Vaughn, Richard Thomas, John Saxon",1994,104 min
+818,The Fantastic Four,Oley Sassone,,"Alex Hyde-White, Jay Underwood, Rebecca Staab, Michael Bailey Smith",1998,90 min
+819,The X Files,Rob Bowman,,"David Duchovny, Gillian Anderson, John Neville, William B. Davis",2018,121 min
+867,Beyond the Sky,Fulvio Sestito,,"Ryan Carnes, Jordan Hinson, Claude Duhamel, Martin Sensmeier",2004,82 min
+868,2046,Kar-Wai Wong,,"Tony Chiu-Wai Leung, Ziyi Zhang, Faye Wong, Li Gong",2010,129 min
+869,Tekken,Dwight H. Little,,"Jon Foo, Kelly Overton, Cary-Hiroyuki Tagawa, Ian Anthony Dale",,92 min
+870,Code 8,Jeff Chan,,"Stephen Amell, Robbie Amell, Sung Kang, Greg Bryk",1977,
+638,Arif V 216,Kivanç Baruönü,,"Cem Yilmaz, Ozan Güven, Özkan Ugur, Özge Özberk",2018,125 min
+639,Airplane II: The Sequel,Ken Finkleman,,"Robert Hays, Julie Hagerty, Lloyd Bridges, Raymond Burr",1982,85 min
+640,Beyond Skyline,Liam O'Donnell,,"Frank Grillo, Bojana Novakovic, Jonny Weston, Callan Mulvey",2017,106 min
+641,Halloween III: Season of the Witch,Tommy Lee Wallace,,"Tom Atkins, Stacey Nelkin, Dan O'Herlihy, Michael Currie",1982,98 min
+764,Seeking a Friend for the End of the World,Lorene Scafaria,,"Steve Carell, Keira Knightley, Melanie Lynskey, Patton Oswalt",2012,101 min
+765,Flubber,Les Mayfield,,"Robin Williams, Marcia Gay Harden, Christopher McDonald, Ted Levine",1997,93 min
+766,Who Am I,Baran bo Odar,,"Tom Schilling, Elyas M'Barek, Wotan Wilke Möhring, Antoine Monot Jr.",2014,102 min
+767,Fast Color,Julia Hart,,"Gugu Mbatha-Raw, Lorraine Toussaint, David Strathairn, Saniyya Sidney",2018,100 min
+687,The Thing from Another World,"Christian Nyby, Howard Hawks",,"Kenneth Tobey, Margaret Sheridan, James Arness, Robert Cornthwaite",1951,87 min
+688,American Ultra,Nima Nourizadeh,,"Jesse Eisenberg, Kristen Stewart, Connie Britton, John Leguizamo",2015,96 min
+689,Fahrenheit 451,François Truffaut,,"Oskar Werner, Julie Christie, Cyril Cusack, Anton Diffring",1966,112 min
+690,From Beyond,Stuart Gordon,,"Jeffrey Combs, Barbara Crampton, Ted Sorel, Ken Foree",1986,85 min
+985,Alone in the Dark,Uwe Boll,,"Christian Slater, Tara Reid, Stephen Dorff, Frank C. Turner",2005,96 min
+986,Alligator,Lewis Teague,,"Robert Forster, Robin Riker, Michael V. Gazzo, Dean Jagger",1980,91 min
+987,Bokeh,"Geoffrey Orthwein, Andrew Sullivan",,"Maika Monroe, Matt O'Leary, Arnar Jónsson, Gunnar Helgason",2017,92 min
+988,Rabid,"Jen Soska, Sylvia Soska",,"Laura Vandervoort, Greg Bryk, Stephen McHattie, Stephen Huszar",1997,
+930,House of Dracula,Erle C. Kenton,,"Onslow Stevens, John Carradine, Lon Chaney Jr., Martha O'Driscoll",1945,67 min
+931,Critters 3,Kristine Peterson,,"John Calvin, Aimee Brooks, Christian Cousins, Joseph Cousins",1991,86 min
+932,Minotaur,Jonathan English,,"Tom Hardy, Michelle Van Der Water, Tony Todd, Lex Shrapnel",2006,93 min
+933,Encounter,Paul Salamoff,,"Luke Hemsworth, Anna Hutchison, Cheryl Texiera, Tom Atkins",2018,89 min
+727,THX 1138,George Lucas,,"Robert Duvall, Donald Pleasence, Don Pedro Colley, Maggie McOmie",1971,86 min
+728,Jem and the Holograms,Jon M. Chu,,"Aubrey Peeples, Stefanie Scott, Aurora Perrineau, Hayley Kiyoko",2015,118 min
+729,Occupation,Luke Sparke,,"Dan Ewing, Temuera Morrison, Stephany Jacobsen, Rhiannon Fish",2018,119 min
+730,The Osiris Child,Shane Abbess,,"Kellan Lutz, Daniel MacPherson, Isabel Lucas, Luke Ford",2016,95 min
+731,UFO,Ryan Eslinger,,"Alex Sharp, Gillian Anderson, Ella Purnell, Benjamin Beatty",2018,88 min
+820,Illang: The Wolf Brigade,Jee-woon Kim,,"Woo-sung Jung, Dong-won Gang, Hyo-Joo Han, Ye-ri Han",2003,139 min
+821,Paycheck,John Woo,,"Ben Affleck, Aaron Eckhart, Uma Thurman, Michael C. Hall",2017,119 min
+822,Resident Evil: Vendetta,Takanori Tsujimoto,,"Kevin Dorman, Matthew Mercer, Erin Cahill, John DeMita",2017,97 min
+823,The Cured,David Freyne,,"Ellen Page, Sam Keeley, Tom Vaughan-Lawlor, Stuart Graham",2018,95 min
+871,Rabid,David Cronenberg,,"Marilyn Chambers, Frank Moore, Joe Silver, Howard Ryshpan",2018,91 min
+872,Another Time,Thomas Hennessy,,"Justin Hartley, Arielle Kebbel, James Kyson, Chrishell Hartley",2008,89 min
+873,Blindness,Fernando Meirelles,,"Julianne Moore, Mark Ruffalo, Gael García Bernal, Yûsuke Iseya",1954,121 min
+874,Godzilla,Ishirô Honda,,"Takashi Shimura, Akihiko Hirata, Akira Takarada, Momoko Kôchi",2018,96 min
+642,Nausicaä of the Valley of the Wind,Hayao Miyazaki,,"Sumi Shimamoto, Mahito Tsujimura, Hisako Kyôda, Gorô Naya",1984,117 min
+643,The Secret of NIMH,Don Bluth,,"Elizabeth Hartman, Derek Jacobi, Dom DeLuise, Arthur Malet",1982,82 min
+644,Clara,Akash Sherman,,"Patrick J. Adams, Troian Bellisario, Will Bowes, Jennifer Dale",2018,105 min
+645,Re-Animator,Stuart Gordon,,"Jeffrey Combs, Bruce Abbott, Barbara Crampton, David Gale",1985,105 min
+768,At First Light,Jason Stone,,"Stefanie Scott, Théodore Pellerin, Saïd Taghmaoui, Percy Hynes White",2018,90 min
+769,Sky Captain and the World of Tomorrow,Kerry Conran,,"Gwyneth Paltrow, Jude Law, Angelina Jolie, Giovanni Ribisi",2004,106 min
+770,DeepStar Six,Sean S. Cunningham,,"Greg Evigan, Nancy Everhard, Taurean Blacque, Miguel Ferrer",1989,99 min
+691,*batteries not included,Matthew Robbins,,"Hume Cronyn, Jessica Tandy, Frank McRae, Elizabeth Peña",1987,106 min
+692,The Zero Theorem,Terry Gilliam,,"Christoph Waltz, Lucas Hedges, Mélanie Thierry, David Thewlis",2013,107 min
+693,Fullmetal Alchemist,Fumihiko Sori,,"Ryôsuke Yamada, Tsubasa Honda, Dean Fujioka, Ryûta Satô",2017,135 min
+989,Double Team,Hark Tsui,,"Jean-Claude Van Damme, Dennis Rodman, Mickey Rourke, Paul Freeman",2020,93 min
+990,Spider-Man 4,,,"Tommy Driver, Bryn Clayton Jones, Brittany Anne Brown, Mandi Huffman",2017,
+991,The Man from Earth: Holocene,Richard Schenkman,,"David Lee Smith, John Billingsley, Brittany Curran, William Katt",1999,98 min
+992,The Rage: Carrie 2,"Katt Shea, Robert Mandel",,"Emily Bergl, Jason London, Dylan Bruno, J. Smith-Cameron",2000,104 min
+934,Bride of Frankenstein,James Whale,,"Boris Karloff, Elsa Lanchester, Colin Clive, Valerie Hobson",1935,75 min
+935,Curvature,Diego Hallivis,,"Linda Hamilton, Lyndsy Fonseca, Glenn Morshower, Noah Bean",2017,90 min
+936,John Dies at the End,Don Coscarelli,,"Chase Williamson, Rob Mayes, Paul Giamatti, Clancy Brown",2012,99 min
+937,Virtuosity,Brett Leonard,,"Denzel Washington, Russell Crowe, Kelly Lynch, Stephen Spinella",1995,106 min
+732,Bicentennial Man,Chris Columbus,,"Robin Williams, Embeth Davidtz, Sam Neill, Oliver Platt",1999,132 min
+733,Alienator,Fred Olen Ray,,"Jan-Michael Vincent, John Phillip Law, Ross Hagen, Dyana Ortelli",1990,93 min
+734,The Watch,Akiva Schaffer,,"Ben Stiller, Vince Vaughn, Jonah Hill, Billy Crudup",2012,102 min
+824,The Thinning: New World Order,Michael J. Gallagher,,"Logan Paul, Peyton List, Matthew Glave, Calum Worthy",2017,83 min
+825,Starship Troopers: Traitor of Mars,"Shinji Aramaki, Masaru Matsumoto",,"Casper Van Dien, Dina Meyer, DeRay Davis, Justin Doran",1986,88 min
+826,Chopping Mall,Jim Wynorski,,"Kelli Maroney, Tony O'Dell, Russell Todd, Karrie Emerson",2015,77 min
+875,Nazi Overlord,Rob Pallatina,,"Tom Sizemore, Dominique Swain, Andrew Liberty, Greg Furman",1992,91 min
+876,Forever Young,Steve Miner,,"Mel Gibson, Jamie Lee Curtis, Elijah Wood, Isabel Glasser",1997,102 min
+877,RocketMan,Stuart Gillard,,"Harland Williams, Jessica Lundy, William Sadler, Jeffrey DeMunn",2013,95 min
+646,Forbidden Planet,Fred M. Wilcox,,"Walter Pidgeon, Anne Francis, Leslie Nielsen, Warren Stevens",1956,98 min
+647,Enemy Mine,Wolfgang Petersen,,"Dennis Quaid, Louis Gossett Jr., Brion James, Richard Marcus",1985,108 min
+648,The Fourth Kind,Olatunde Osunsanmi,,"Milla Jovovich, Elias Koteas, Will Patton, Hakeem Kae-Kazim",2009,98 min
+649,The Discovery,Charlie McDowell,,"Robert Redford, Mary Steenburgen, Brian McCarthy, Jason Segel",2017,102 min
+771,Infinity Chamber,Travis Milloy,,"Christopher Soren Kelly, Cassandra Clark, Cajardo Lindsey, Jesse D. Arrow",2016,103 min
+772,Rollerball,John McTiernan,,"Chris Klein, Jean Reno, LL Cool J, Rebecca Romijn",2002,98 min
+773,Night of the Comet,Thom Eberhardt,,"Catherine Mary Stewart, Kelli Maroney, Robert Beltran, Sharon Farrell",1984,95 min
+774,Bubble Boy,Blair Hayes,,"Jake Gyllenhaal, Swoosie Kurtz, Marley Shelton, Danny Trejo",2001,84 min
+694,Seven in Heaven,Chris Eigeman,,"Travis Tope, Haley Ramm, Dylan Everett, Jake Manley",2018,94 min
+695,Zoom,Peter Hewitt,,"Tim Allen, Courteney Cox, Chevy Chase, Spencer Breslin",2006,83 min
+696,Penguins of Madagascar,"Eric Darnell, Simon J. Smith",,"Tom McGrath, Chris Miller, Christopher Knights, Conrad Vernon",2014,92 min
+697,Explorers,Joe Dante,,"Ethan Hawke, River Phoenix, Jason Presson, Bradley Gregg",1985,109 min
+993,Heavy Metal 2000,"Michael Coldewey, Michel Lemire",,"Michael Ironside, Julie Strain, Billy Idol, Pier Paquette",1936,88 min
+994,Flash Gordon,"Frederick Stephani, Ray Taylor",,"Buster Crabbe, Jean Rogers, Charles Middleton, Priscilla Lawson",1981,245 min
+995,Piranha II: The Spawning,"James Cameron, Ovidio G. Assonitis, Miller Drake",,"Tricia O'Neil, Steve Marachuk, Lance Henriksen, Ricky Paull Goldin",1983,94 min
+996,The Man with Two Brains,Carl Reiner,,"Steve Martin, Kathleen Turner, David Warner, Paul Benedict",1954,93 min
+938,The Arrival,David Twohy,,"Charlie Sheen, Lindsay Crouse, Richard Schiff, Shane",1996,115 min
+939,Underdog,Frederik Du Chau,,"Peter Dinklage, Jason Lee, Amy Adams, Jim Belushi",2007,84 min
+940,X: The Man with the X-Ray Eyes,Roger Corman,,"Ray Milland, Diana Van der Vlis, Harold J. Stone, John Hoyt",1963,79 min
+941,The One,James Wong,,"Jet Li, Carla Gugino, Delroy Lindo, Jason Statham",2001,87 min
+735,Outlander,Howard McCain,,"Jim Caviezel, Sophia Myles, Ron Perlman, Jack Huston",2008,115 min
+736,The Stepford Wives,Bryan Forbes,,"Katharine Ross, Paula Prentiss, Peter Masterson, Nanette Newman",1975,115 min
+737,Cyborg,Albert Pyun,,"Jean-Claude Van Damme, Deborah Richter, Vincent Klyn, Alex Daniels",1989,86 min
+738,Cowboy Bebop: The Movie,"Shin'ichirô Watanabe, Tensai Okamura, Hiroyuki Okiura, Yoshiyuki Takei",,"Beau Billingslea, Melissa Fahn, Nicholas Guest, Kôichi Yamadera",2001,115 min
+827,Project Almanac,Dean Israelite,,"Amy Landecker, Sofia Black-D'Elia, Virginia Gardner, Jonny Weston",2013,106 min
+828,Europa Report,Sebastián Cordero,,"Sharlto Copley, Michael Nyqvist, Christian Camargo, Embeth Davidtz",2015,90 min
+829,Hot Tub Time Machine 2,Steve Pink,,"Rob Corddry, Craig Robinson, Clark Duke, Adam Scott",1984,93 min
+830,Runaway,Michael Crichton,,"Tom Selleck, Cynthia Rhodes, Gene Simmons, Kirstie Alley",1991,99 min
+878,The Colony,Jeff Renfroe,,"Kevin Zegers, Laurence Fishburne, Bill Paxton, Charlotte Sullivan",2014,95 min
+879,Time Lapse,Bradley King,,"Danielle Panabaker, Matt O'Leary, George Finn, John Rhys-Davies",1994,104 min
+880,Junior,Ivan Reitman,,"Arnold Schwarzenegger, Danny DeVito, Emma Thompson, Frank Langella",2017,109 min
+881,Prodigy,"Alex Haughey, Brian Vidal",,"Richard Neil, Savannah Liles, Jolene Andersen, Emilio Palame",1978,80 min
+650,Red Planet,Antony Hoffman,,"Val Kilmer, Carrie-Anne Moss, Tom Sizemore, Benjamin Bratt",2000,106 min
+775,Gantz: O,"Yasushi Kawamura, Keiichi Saitô",,"Chris Jai Alex, Tony Azzolino, Austin Nash Chase, Lucien Dodge",2016,95 min
+776,The Forgotten,Joseph Ruben,,"Julianne Moore, Dominic West, Christopher Kovaleski, Matthew Pleszewicz",2004,91 min
+777,Inspector Gadget,David Kellogg,,"Matthew Broderick, Rupert Everett, Joely Fisher, Michelle Trachtenberg",1999,78 min
+698,The Andromeda Strain,Robert Wise,,"James Olson, Arthur Hill, David Wayne, Kate Reid",1971,131 min
+699,Volcano,Mick Jackson,,"Tommy Lee Jones, Anne Heche, Gaby Hoffmann, Don Cheadle",1997,104 min
+700,Timeline,Richard Donner,,"Paul Walker, Gerard Butler, Billy Connolly, Frances O'Connor",2003,116 min
+997,Devil Girl from Mars,David MacDonald,,"Hugh McDermott, Hazel Court, Peter Reynolds, Adrienne Corri",2019,77 min
+998,Crossbreed,Brandon Slagle,,"Vivica A. Fox, Daniel Baldwin, Stink Fisher, Devanny Pinn",1979,86 min
+942,Amazon Women on the Moon,"Joe Dante, Carl Gottlieb, Peter Horton, John Landis, Robert K. Weiss",,"Rosanna Arquette, Michelle Pfeiffer, Arsenio Hall, Donald F. Muhich",1987,85 min
+943,Flight 7500,Takashi Shimizu,,"Leslie Bibb, Ryan Kwanten, Amy Smart, Jamie Chung",2014,97 min
+944,Kingsglaive: Final Fantasy XV,Takeshi Nozue,,"Aaron Paul, Lena Headey, Sean Bean, Neil Newbon",2016,110 min
+739,Cooties,"Jonathan Milott, Cary Murnion",,"Elijah Wood, Rainn Wilson, Alison Pill, Jack McBrayer",2014,88 min
+740,The Directive,Alexander Raye Pimentel,,"Kyle Abraham, Paul Askedall, Scott Thompson, Nicholas Winand",2019,113 min
+741,Captain America,Albert Pyun,,"Matt Salinger, Ronny Cox, Ned Beatty, Darren McGavin",1990,97 min
+742,Upstream Color,Shane Carruth,,"Amy Seimetz, Frank Mosley, Shane Carruth, Andrew Sensenig",2013,96 min
+831,Highlander II: The Quickening,Russell Mulcahy,,"Christopher Lambert, Sean Connery, Virginia Madsen, Michael Ironside",2018,91 min
+832,Jurassic Galaxy,"James Kondelik, Jon Kondelik",,"Ryan Budds, Doug Burch, Eric Paul Erickson, Jonathan Nation",1959,74 min
+833,Plan 9 from Outer Space,Edward D. Wood Jr.,,"Gregory Walcott, Tom Keene, Mona McKinnon, Duke Moore",1993,79 min
+834,Batman: Mask of the Phantasm,"Eric Radomski, Bruce Timm, Kevin Altieri, Boyd Kirkland, Frank Paur, Dan Riba",,"Kevin Conroy, Dana Delany, Hart Bochner, Stacy Keach",1975,76 min
+882,The Fury,Brian De Palma,,"Kirk Douglas, John Cassavetes, Carrie Snodgress, Charles Durning",1976,118 min
+883,The Man Who Fell to Earth,Nicolas Roeg,,"David Bowie, Rip Torn, Candy Clark, Buck Henry",2007,139 min
+884,The Invasion,"Oliver Hirschbiegel, James McTeigue",,"Nicole Kidman, Daniel Craig, Jeremy Northam, Jackson Bond",2013,99 min
+885,Dark Skies,Scott Stewart,,"Keri Russell, Jake Brennan, Josh Hamilton, Dakota Goyo",1973,97 min
+778,Solis,Carl Strathie,,"Steven Ogg, Alice Lowe, Sid Phoenix, Henry Douthwaite",2018,92 min
+779,Brainstorm,Douglas Trumbull,,"Christopher Walken, Natalie Wood, Louise Fletcher, Cliff Robertson",1983,106 min
+780,Automata,Gabe Ibáñez,,"Antonio Banderas, Birgitte Hjort Sørensen, Dylan McDermott, Melanie Griffith",2014,109 min
+781,OtherLife,Ben C. Lucas,,"Jessica De Gouw, Shalom Brune-Franklin, Thomas Cocquerel, T.J. Power",2017,96 min
+999,The Brood,David Cronenberg,,"Oliver Reed, Samantha Eggar, Art Hindle, Henry Beckman",1984,92 min
+945,The Astronaut's Wife,Rand Ravich,,"Charlize Theron, Johnny Depp, Joe Morton, Clea DuVall",1999,109 min
+946,Buck Rogers in the 25th Century,Daniel Haller,,"Gil Gerard, Erin Gray, Pamela Hensley, Henry Silva",1979,89 min
+743,Jonathan,Bill Oliver,,"Ansel Elgort, Suki Waterhouse, Patricia Clarkson, Matt Bomer",2018,95 min
+744,The Unthinkable,Victor Danell,,"Christoffer Nordenrot, Lisa Henni, Jesper Barkselius, Pia Halvorsen",2018,129 min
+745,Darkman,Sam Raimi,,"Liam Neeson, Frances McDormand, Colin Friels, Larry Drake",1990,96 min
+835,Death Race 2000,Paul Bartel,,"David Carradine, Sylvester Stallone, Simone Griffeth, Mary Woronov",2007,80 min
+836,TMNT,Kevin Munroe,,"Patrick Stewart, Mako, Chris Evans, Sarah Michelle Gellar",1971,103 min
+837,The Omega Man,Boris Sagal,,"Charlton Heston, Anthony Zerbe, Rosalind Cash, Paul Koslo",2013,98 min
+838,Turbo,David Soren,,"Ryan Reynolds, Paul Giamatti, Maya Rudolph, Samuel L. Jackson",1998,96 min
+886,Fantastic Planet,René Laloux,,"Barry Bostwick, Jennifer Drake, Eric Baugin, Jean Topart",1993,72 min
+887,Freaked,"Tom Stern, Alex Winter",,"Brooke Shields, William Sadler, Eduardo Ricard, Henry Carbo",2017,80 min
+888,Ravenous,Robin Aubert,,"Marc-André Grondin, Monia Chokri, Charlotte St-Martin, Micheline Lanctôt",2018,104 min
+889,Luna Park,Doug Liman,,Tom Cruise,2008,
+782,Nowhere,Gregg Araki,,"James Duval, Rachel True, Nathan Bexton, Chiara Mastroianni",1997,82 min
+783,The Final Countdown,Don Taylor,,"Kirk Douglas, Martin Sheen, Katharine Ross, James Farentino",1980,103 min
+784,The Box,Richard Kelly,,"Cameron Diaz, James Marsden, Frank Langella, James Rebhorn",2009,115 min
+785,The Rover,David Michôd,,"Guy Pearce, Robert Pattinson, Scoot McNairy, David Field",2014,103 min
+947,The Hive,David Yarovesky,,"Gabriel Basso, Sean Gunn, Kathryn Prescott, Gabrielle Walsh",2014,93 min
+948,Planet 51,"Jorge Blanco, Javier Abad, Marcos Martínez",,"Dwayne Johnson, Seann William Scott, Jessica Biel, Justin Long",2009,91 min
+949,Time After Time,Nicholas Meyer,,"Malcolm McDowell, Mary Steenburgen, David Warner, Charles Cioffi",1979,112 min
+950,The Bay,Barry Levinson,,"Will Rogers, Kristen Connolly, Kether Donohue, Frank Deal",2012,84 min
+746,Johnny Mnemonic,Robert Longo,,"Keanu Reeves, Dolph Lundgren, Dina Meyer, Ice-T",1995,96 min
+747,Solaris,Steven Soderbergh,,"George Clooney, Natascha McElhone, Ulrich Tukur, Viola Davis",2002,99 min
+748,Frankenstein,James Whale,,"Colin Clive, Mae Clarke, Boris Karloff, John Boles",1931,70 min
+749,Beyond the Black Rainbow,Panos Cosmatos,,"Eva Bourne, Michael J Rogers, Scott Hylands, Rondel Reynoldson",2010,110 min
+839,Species II,Peter Medak,,"Natasha Henstridge, Michael Madsen, Marg Helgenberger, Mykelti Williamson",2017,93 min
+840,The Humanity Bureau,Rob W. King,,"Nicolas Cage, Sarah Lind, Jakob Davies, Hugh Dillon",1995,95 min
+841,Screamers,Christian Duguay,,"Peter Weller, Roy Dupuis, Jennifer Rubin, Andrew Lauer",2019,108 min
+842,Code Geass: Re;Surrection,Gorô Taniguchi,,"Johnny Yong Bosch, Yuri Lowenthal, Kate Higgins, Rebecca Forstadt",1992,
+890,Freaks,"Zach Lipovsky, Adam B. Stein",,"Emile Hirsch, Bruce Dern, Lexy Kolker, Amanda Crew",2013,104 min
+891,Repo! The Genetic Opera,Darren Lynn Bousman,,"Paul Sorvino, Anthony Head, Alexa PenaVega, Sarah Brightman",2019,98 min
+892,After the Dark,John Huddles,,"James D'Arcy, Sophie Lowe, Daryl Sabara, Freddie Stroma",1956,107 min
+893,Red 11,Robert Rodriguez,,"Carlos Gallardo, Roby Attal, Pierce Bailey, Jasmine Balais",1974,77 min
+786,Timecrimes,Nacho Vigalondo,,"Karra Elejalde, Candela Fernández, Bárbara Goenaga, Nacho Vigalondo",2007,92 min
+787,K-PAX,Iain Softley,,"Kevin Spacey, Jeff Bridges, Mary McCormack, Alfre Woodard",2001,120 min
+788,"20,000 Leagues Under the Sea",Richard Fleischer,,"Kirk Douglas, James Mason, Paul Lukas, Peter Lorre",1954,127 min
+789,iBoy,Adam Randall,,"Bill Milner, Maisie Williams, Miranda Richardson, Rory Kinnear",2017,90 min
+750,Vice,Brian A. Miller,,"Thomas Jane, Bruce Willis, Ambyr Childers, Johnathon Schaech",2015,96 min
+843,"Honey, I Blew Up the Kid",Randal Kleiser,,"Rick Moranis, Marcia Strassman, Robert Oliveri, Daniel Shalikar",2011,89 min
+844,Mars Needs Moms,Simon Wells,,"Seth Green, Joan Cusack, Dan Fogler, Elisabeth Harnois",2017,88 min
+845,Singularity,Robert Kouba,,"Julian Schaffner, John Cusack, Carmen Argenziano, Eileen Grubba",1972,92 min
+846,Silent Running,Douglas Trumbull,,"Bruce Dern, Cliff Potts, Ron Rifkin, Jesse Vint",1993,89 min
+894,Invasion of the Body Snatchers,Don Siegel,,"Kevin McCarthy, Dana Wynter, Larry Gates, King Donovan",1990,80 min
+895,Flesh Gordon,"Michael Benveniste, Howard Ziehm",,"Jason Williams, Suzanne Fields, Joseph Hudgins, William Dennis Hunt",2005,78 min
+896,Class of 1999,Mark L. Lester,,"Bradley Gregg, Traci Lind, Malcolm McDowell, Stacy Keach",2015,99 min
+790,Slaughterhouse-Five,George Roy Hill,,"Michael Sacks, Ron Leibman, Eugene Roche, Sharon Gans",1972,104 min
+791,Lockout,"James Mather, Steve Saint Leger",,"Guy Pearce, Maggie Grace, Peter Stormare, Vincent Regan",2012,95 min
+792,Earth Girls Are Easy,Julien Temple,,"Geena Davis, Jeff Goldblum, Jim Carrey, Damon Wayans",1988,100 min
+847,Body Snatchers,Abel Ferrara,,"Gabrielle Anwar, Meg Tilly, Terry Kinney, Reilly Murphy",1984,87 min
+848,Starman,John Carpenter,,"Jeff Bridges, Karen Allen, Charles Martin Smith, Richard Jaeckel",2018,115 min
+849,Alien Predator,Jared Cohn,,"Xavi Israel, Dutch Hofstetter, Alex West, Amanda Rivas",1995,87 min
+897,Stealth,Rob Cohen,,"Josh Lucas, Jessica Biel, Jamie Foxx, Sam Shepard",2000,121 min
+898,Turbo Kid,"François Simard, Anouk Whissell, Yoann-Karl Whissell",,"Munro Chambers, Laurence Leboeuf, Michael Ironside, Edwin Wright",2006,93 min
+793,Brahmastra,Ayan Mukherjee,,"Alia Bhatt, Amitabh Bachchan, Ranbir Kapoor, Mouni Roy",2019,
+794,Skyline,"Colin Strause, Greg Strause",,"Eric Balfour, Donald Faison, Scottie Thompson, Brittany Daniel",2010,92 min
+795,ARQ,Tony Elliott,,"Robbie Amell, Rachael Taylor, Shaun Benson, Gray Powell",2016,88 min
+796,"I, Frankenstein",Stuart Beattie,,"Aaron Eckhart, Bill Nighy, Miranda Otto, Virginie Le Brun",2014,92 min
+797,Looney Tunes: Back in Action,Joe Dante,,"Brendan Fraser, Jenna Elfman, Steve Martin, Heather Locklear",2003,91 min
+798,Sphere,Barry Levinson,,"Dustin Hoffman, Sharon Stone, Samuel L. Jackson, Peter Coyote",1998,134 min
+799,Devil's Gate,Clay Staub,,"Amanda Schull, Shawn Ashmore, Milo Ventimiglia, Bridget Regan",2017,94 min
+800,Powder,Victor Salva,,"Mary Steenburgen, Sean Patrick Flanery, Lance Henriksen, Jeff Goldblum",1995,111 min
