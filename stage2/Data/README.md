@@ -4,8 +4,8 @@
 
 **Number of tuples in each table:**
 
-* IMDb: 6000 tuples.
-* TMDb: 6000 tuples.
+* IMDb: 5000 tuples.
+* TMDb: 5000 tuples.
 
 **Attributes and Descriptions of the tables:**
 
