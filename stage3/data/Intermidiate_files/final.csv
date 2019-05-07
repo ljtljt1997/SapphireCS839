@@ -1,0 +1,801 @@
+_id,genres,movie,directors,stars,year,runtime,Up_System,index
+2751,"Horror, Sci-Fi",The Demented,Christopher Roosevelt,"Kayla Ewell, Richard Kohnke, Ashlee Brian, Brittney Alger",2013.0,92.0,CM,0
+3840,"Animation, Comedy, Science Fiction",The Demented Cartoon Movie! ,Brian Kendall,,2001.0,30.0,CM,0
+2579,"Action, Adventure, Sci-Fi",Robotech,Andy Muschietti,,,,CM,1
+4788,"Action, Adventure, Science Fiction",Green Lantern Corps ,,,2020.0,,CM,1
+3009,"Action, Drama, Sci-Fi",Cyborg 2087,Franklin Adreon,"Michael Rennie, Karen Steele, Wendell Corey, Warren Stevens",1966.0,86.0,CM,2
+1327,"Drama, Science Fiction",Cyborg 2087 ,Franklin Adreon,"Michael Rennie, Karen Steele, Wendell Corey, Warren Stevens, Harry Carey, Jr.",1966.0,86.0,CM,2
+914,"Adventure, Sci-Fi",Stasis,Nicole Jones-Dion,"Anna Harr, Mark Grossman, London Grace, Tiana Masaniai",2017.0,90.0,CM,3
+2646,"Adventure, Science Fiction",Stasis ,Nicole Jones-Dion,"Anna Harr, Mark Grossman, Phyllis Spielman, Tiana Masaniai, Caleb Thomas",2017.0,84.0,CM,3
+4955,"Drama, Romance, Sci-Fi",The Cosmonaut,Nicols Alcal,"Katrine De Candole, Leon Ockenden, Max Wrottesley, Hans-Eckart Eckhardt",2013.0,93.0,CM,4
+3703,"Drama, Science Fiction",The Cosmonaut ,Nicols Alcal,"Katrine De Candole, Max Wrottesley, Leon Ockenden, Hans-Eckart Eckhardt, David Barrass",2013.0,102.0,CM,4
+2210,"Horror, Sci-Fi",Not of This Earth,Roger Corman,"Paul Birch, Beverly Garland, Morgan Jones, William Roerick",1957.0,67.0,CM,5
+3850,"Horror, Science Fiction",Not of This Earth ,Roger Corman,"Paul Birch, Beverly Garland, Morgan Jones, William Roerick, Jonathan Haze",1957.0,67.0,CM,5
+3944,"Animation, Action, Adventure",Hullabaloo,James Lopez,"Yuri Lowenthal, Mary Robinette Kowal, G.D. Falksen",,,CM,6
+1274,"Action, Science Fiction",Silver Surfer: Prodigal Son ,,,2019.0,,CM,6
+4788,"Action, Adventure, Science Fiction",Green Lantern Corps ,,,2020.0,,CM,7
+3263,"Action, Horror, Sci-Fi",Texas Zombie Wars: El Paso Outpost,A.K. Waters,"Mikal Vega, Melissa Mars, Max Mullen, Anna Terry",,,CM,7
+47,"Thriller, Science Fiction",95ers: Time Runners ,Thomas Gomez Durham,"Alesandra Durham, Joel Bishop, Terence Goodman, Ian Paul Freeth, Chris Laird",2013.0,96.0,CM,8
+4666,"Sci-Fi, Thriller",95ers: Echoes,Thomas Gomez Durham,"Alesandra Durham, Joel Bishop, Terence Goodman, K. Danor Gerald",2013.0,96.0,CM,8
+2218,"Animation, Comedy, Science Fiction, Family",Ultra Nyan 2: The Great Happy Operation ,,"Mei Oshitani, Yoshiko Kamei, Akio Otsuka, Rokuro Naya, Naoki Band",1998.0,30.0,CM,9
+1781,Sci-Fi,The Sinister Six,,,,,CM,9
+1118,"Action, Science Fiction, Thriller, Horror",The Meg ,Jon Turteltaub,"Jason Statham, Li Bingbing, Rainn Wilson, Cliff Curtis, Ruby Rose",2018.0,113.0,CM,10
+24,"Action, Horror, Sci-Fi",The Meg,Jon Turteltaub,"Jason Statham, Bingbing Li, Rainn Wilson, Cliff Curtis",2018.0,113.0,CM,10
+4798,"Action, Sci-Fi",Murdercycle,Thomas L. Callaway,"Charles Wesley, Cassandra Ellis, Robert Donavan, Michael Vachetti",1999.0,90.0,CM,11
+3,"Action, Science Fiction",Murdercycle ,Thomas L. Callaway,"Charles Wesley, Cassandra Ellis, Robert Donavan, Michael Vachetti, Robert Staccardo",1999.0,90.0,CM,11
+2653,"Comedy, Sci-Fi",Thermae Romae,Hideki Takeuchi,"Hiroshi Abe, Aya Ueto, Kazuki Kitamura, Riki Takeuchi",2012.0,108.0,CM,12
+466,"Drama, Comedy, Science Fiction",Thermae Romae ,Hideki Takeuchi,"Hiroshi Abe, Aya Ueto, Masachika Ichimura, Kazuki Kitamura, Kai Shishido",2012.0,108.0,CM,12
+938,"Adventure, Comedy, Mystery",Cocoon: The Return,Daniel Petrie,"Don Ameche, Wilford Brimley, Courteney Cox, Hume Cronyn",1988.0,116.0,CM,13
+2799,"Comedy, Drama, Science Fiction",Cocoon: The Return ,Daniel Petrie,"Don Ameche, Wilford Brimley, Courteney Cox, Hume Cronyn, Jack Gilford",1988.0,116.0,CM,13
+4997,"Drama, Horror, Science Fiction",Stake Land ,Jim Mickle,"Danielle Harris, Kelly McGillis, Nick Damici, Connor Paolo, Gregory Jones",2010.0,98.0,CM,14
+1078,"Drama, Horror, Sci-Fi",Stake Land,Jim Mickle,"Connor Paolo, Nick Damici, Kelly McGillis, Gregory Jones",2010.0,98.0,CM,14
+2365,"Fantasy, Action, Science Fiction",Hellboy ,Guillermo del Toro,"Ron Perlman, John Hurt, Selma Blair, Rupert Evans, Jeffrey Tambor",2004.0,122.0,CM,15
+44,"Action, Fantasy, Horror",Hellboy,Guillermo del Toro,"Ron Perlman, Doug Jones, Selma Blair, John Hurt",2004.0,122.0,CM,15
+4390,"Horror, Sci-Fi, Thriller",The Forbidden Dimensions,Christopher James Miller,"Al Ridenour, Carl Crew, Brittany O'Neil, Amy Daly",2013.0,86.0,CM,16
+1528,"Horror, Science Fiction, Thriller",The Forbidden Dimensions ,Christopher James Miller,"Brittany O'Neil, Kyle Morris, Al Ridenour, Carl Crew, Christopher James Miller",2013.0,86.0,CM,16
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,17
+1944,"Action, Comedy, Sci-Fi",The Ark: An Iron Sky Story,Timo Vuorensola,"Andy Garcia, Udo Kier, Stephanie Paul, Malla Malmivaara",,,CM,17
+4842,"Mystery, Sci-Fi",First on the Moon,Aleksey Fedorchenko,"Boris Vlasov, Viktoriya Ilyinskaya, Anatoliy Otradnov, Aleksei Slavnin",2005.0,75.0,CM,18
+1034,"Mystery, Science Fiction",First on the Moon ,Aleksey Fedorchenko,"Aleksey Anisimov, Viktoriya Ilyinskaya, Viktor Kotov",2005.0,75.0,CM,18
+3889,Sci-Fi,The Last Boy,James Haven,,,,CM,19
+1424,"Action, Adventure, Fantasy, Science Fiction",X-Men: The Legend of Wolverine ,,"Cedric Smith, Cathal J. Dodd, George Buza, Norm Spencer, Lenore Zann",2003.0,79.0,CM,19
+4799,"Adventure, Science Fiction",Circuitry Man II: Plughead Rewired ,"Robert Lovy, Steven Lovy","Vernon Wells, Deborah Shelton, Jim Metzler, Dennis Christopher, Nicholas Worth",1994.0,98.0,CM,20
+4384,Sci-Fi,Plughead Rewired: Circuitry Man II,"Robert Lovy, Steven Lovy","Vernon Wells, Deborah Shelton, Jim Metzler, Dennis Christopher",1994.0,98.0,CM,20
+3058,"Drama, Science Fiction",Thread ,Alexander Voulgaris,"Sofia Kokkali, Vangelis Loukissas, Daphne Patakia, Giorgos Karpathakis, Sofia Georgovassili",2017.0,94.0,CM,21
+4217,"Drama, Sci-Fi",Thread,Alexander Voulgaris,"Sofia Kokkali, Vangelis Loukissas, Daphne Patakia, Giorgos Karpathakis",2016.0,94.0,CM,21
+4019,"Action, Horror, Sci-Fi",The Dead Undead,"Matthew R. Anderson, Edward Conna","Luke Goss, Matthew R. Anderson, Spice Williams-Crosby, Luke LaFontaine",2010.0,90.0,CM,22
+4541,"Horror, Science Fiction, Action",The Dead Undead ,"Edward Conna, Matthew R. Anderson","Luke Goss, Joshua Alba, Matthew R. Anderson, Laura Chinn, Cameron Goodman",2010.0,90.0,CM,22
+4952,"Science Fiction, Horror",Z/Rex: The Jurassic Dead ,"Milko Davis, Thomas Martwick","Matt Block, Ben Johnson, Raquel Pennington, Cooper Elliott, Adam Singer",2017.0,82.0,CM,23
+3080,"Action, Adventure, Comedy",The Jurassic Dead,"Milko Davis Main Director, Thomas Martwick","Matt Block, Cooper Elliott, Ben Johnson, Mia Paris",2017.0,82.0,CM,23
+3585,"Science Fiction, Thriller",O2 ,,Anne Hathaway,2019.0,,CM,24
+2499,"Sci-Fi, Thriller",Firestarter,Fatih Akin,,,,CM,24
+2550,"Action, Comedy, Adventure",The Wild World of Batwoman,Jerry Warren,"Katherine Victor, George Mitchell, Steve Brodie, Richard Banks",1966.0,70.0,CM,25
+2008,"Adventure, Crime, Comedy, Science Fiction",The Wild World of Batwoman ,Jerry Warren,"Katherine Victor, George Mitchell, Steve Brodie, Richard Banks, Steve Conte",1966.0,70.0,CM,25
+4262,Sci-Fi,2177: The San Francisco Love Hacker Crimes,Jose Figueroa,"Sean Patrick Flanery, Dominique Swain, Miracle Laurie, Shane Coffey",,98.0,CM,26
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,26
+65,"Drama, Science Fiction",LFO ,Antonio Tubln,"Patrik Karlson, Izabella Jo Tschig, Per Lfberg, Ahnna Rasch, Lukas Loughran",2013.0,94.0,CM,27
+3945,"Drama, Sci-Fi",LFO,Antonio Tublen,"Patrik Karlson, Izabella Jo Tschig, Per Lfberg, Ahnna Rasch",2013.0,94.0,CM,27
+874,"Science Fiction, Family, Animation",Chronopolis ,Piotr Kamler,Michael Lonsdale,1982.0,52.0,CM,28
+4688,"Animation, Drama, Fantasy",Chronopolis,Piotr Kamler,Michael Lonsdale,1982.0,52.0,CM,28
+4166,"Action, Science Fiction",The Last Warrior ,Romolo Guerrieri,"William Mang, Marina Costa, Harrison Muller Jr., Woody Strode, Margit Evelyn Newton",1984.0,95.0,CM,29
+4085,"Action, Sci-Fi",The Final Executioner,Romolo Guerrieri,"William Mang, Marina Costa, Harrison Muller, Woody Strode",1984.0,95.0,CM,29
+1416,"Horror, Mystery, Science Fiction, Thriller",Invasion of the Body Snatchers ,Philip Kaufman,"Donald Sutherland, Brooke Adams, Leonard Nimoy, Veronica Cartwright, Jeff Goldblum",1978.0,116.0,CM,30
+509,"Horror, Sci-Fi",Invasion of the Body Snatchers,Philip Kaufman,"Donald Sutherland, Brooke Adams, Jeff Goldblum, Veronica Cartwright",1978.0,115.0,CM,30
+1413,"Horror, Science Fiction",Mutant Species ,David A. Prior,"Leo Rossi, Ted Prior, Denise Crosby, Grant Gelt, Powers Boothe",1995.0,100.0,CM,31
+3351,"Horror, Sci-Fi",Mutant Species,David A. Prior,"Leo Rossi, Ted Prior, Denise Crosby, Grant Gelt",1994.0,100.0,CM,31
+3884,"Action, Adventure, Animation, Science Fiction",Scryed Alteration II: Tao ,Goro Taniguchi,,2011.0,96.0,CM,32
+4649,Sci-Fi,Gene Warz II: Walkabout,,"Vitina Marcus, Lena Pousette, J.J. Diambrini-Palazzi, Nigel Barber",,,CM,32
+3163,"Action, Sci-Fi",626 Evolution,John Lyde,"Brandon Ray Olive, Demetrius Daniels, Michael Flynn, James Gaisford",2017.0,79.0,CM,33
+2165,"Action, Science Fiction",626 Evolution ,John Lyde,"Danielle C. Ryan, James Gaisford, Michael Flynn, Demetrius Daniels, Landon Henneman",2017.0,79.0,CM,33
+4703,"Action, Science Fiction",Princess Blade ,Shinsuke Sato,"Yumiko Shaku, Shir Sano, Yichi Numata, Kyusaku Shimada, Yko Chsokabe",2001.0,95.0,CM,34
+3698,"Action, Sci-Fi",The Princess Blade,Shinsuke Sato,"Yumiko Shaku, Hideaki It, Yichi Numata, Shir Sano",2001.0,93.0,CM,34
+1356,"Comedy, Horror, Sci-Fi",Hobgoblins,Rick Sloane,"Tom Bartlett, Paige Sullivan, Steven Boggs, Kelley Palmer",1988.0,88.0,CM,35
+1087,"Horror, Action, Comedy, Thriller, Science Fiction",Hobgoblins ,Rick Sloane,"Tom Bartlett, Paige Sullivan, Steven Boggs, Kelley Palmer, Billy Frank",1988.0,92.0,CM,35
+980,"Drama, Family, Sci-Fi",After Darkness,Batan Silva,"Natalia Dyer, Valorie Curry, Kyra Sedgwick, Tim Daly",2018.0,98.0,CM,36
+2596,"Drama, Family, Thriller, Science Fiction",After Darkness ,Batan Silva,"Natalia Dyer, Valorie Curry, Kyra Sedgwick, Tim Daly, John Patrick Amedori",2019.0,98.0,CM,36
+2304,"Drama, Sci-Fi",Journey to the Far Side of the Sun,Robert Parrish,"Roy Thinnes, Ian Hendry, Patrick Wymark, Lynn Loring",1969.0,101.0,CM,37
+2106,Science Fiction,Journey to the Far Side of the Sun ,Robert Parrish,"Roy Thinnes, Ian Hendry, Patrick Wymark, Lynn Loring, Loni von Friedl",1969.0,101.0,CM,37
+3534,Sci-Fi,The Day the Sky Exploded,"Paolo Heusch, Mario Bava","Paul Hubschmid, Madeleine Fischer, Fiorella Mari, Ivo Garrani",1958.0,82.0,CM,38
+4148,"Science Fiction, Action",The Day the Sky Exploded ,"Mario Bava, Paolo Heusch","Paul Hubschmid, Fiorella Mari, Madeleine Fischer, Ivo Garrani, Dario Michaelis",1958.0,82.0,CM,38
+3772,"Science Fiction, Action, Adventure, Thriller",Star Trek V: The Final Frontier ,William Shatner,"William Shatner, Leonard Nimoy, DeForest Kelley, Laurence Luckinbill, Nichelle Nichols",1989.0,107.0,CM,39
+585,"Action, Adventure, Fantasy",Star Trek V: The Final Frontier,William Shatner,"William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan",1989.0,107.0,CM,39
+4788,"Action, Adventure, Science Fiction",Green Lantern Corps ,,,2020.0,,CM,40
+369,"Action, Adventure, Sci-Fi",Live Die Repeat and Repeat,Doug Liman,"Emily Blunt, Tom Cruise",,,CM,40
+2944,Sci-Fi,The Tangle,Christopher Soren Kelly,"Joshua Bitton, Christopher Soren Kelly, Jessica Graham, Nicole da Silva",,,CM,41
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,41
+2180,Science Fiction,Nobility ,E.J. De la Pena,"Cas Anvar, Walter Koenig, Doug Jones, Darren Jacobs, Torri Higginson",2017.0,120.0,CM,42
+2128,Sci-Fi,Nobility,E.J. De la Pena,"Cas Anvar, Torri Higginson, Doug Jones, Darren Jacobs",2017.0,50.0,CM,42
+2077,"Comedy, Drama, Sci-Fi",No Men Beyond This Point,Mark Sawers,"Patrick Gilmore, Bronwen Smith, Tara Pratt, Kristine Cofsky",2015.0,80.0,CM,43
+2015,"Drama, Comedy, Science Fiction",No Men Beyond This Point ,Mark Sawers,"Rekha Sharma, Alissa Skovbye, Matthew Harrison, Patrick Gilmore, Benita Ha",2015.0,80.0,CM,43
+2372,"Animation, Science Fiction",Mobile Suit Gundam F91 ,Yoshiyuki Tomino,"Masaki Maeda, Yumi Touma, Chie Koujiro, Kiyoyuki Yanada, Mari Yokoo",1991.0,115.0,CM,44
+3445,"Animation, Action, Sci-Fi",Mobile Suit Gundam F91,Yoshiyuki Tomino,"Kji Tsujitani, Yumi Tma, Masaaki Maeda, Kiyoyuki Yanada",1991.0,120.0,CM,44
+3706,"Action, Adventure, Science Fiction, Family, Fantasy",Mighty Morphin Power Rangers: The Movie ,Bryan Spicer,"Amy Jo Johnson, Jason David Frank, David Yost, Johnny Yong Bosch, Steve Cardenas",1995.0,92.0,CM,45
+720,"Action, Adventure, Family",Mighty Morphin Power Rangers: The Movie,Bryan Spicer,"Karan Ashley, Johnny Yong Bosch, Steve Cardenas, Jason David Frank",1995.0,95.0,CM,45
+1148,Sci-Fi,Genesis,"Freddie Hutton-Mills, Bart Ruspoli","Olivia Grant, Chik Okonkwo, John Hannah, Warren Brown",2018.0,114.0,CM,46
+2098,"Horror, Science Fiction, Drama",Genesis ,Peter Rose,,1991.0,4.0,CM,46
+3865,"Drama, Sci-Fi",Into the Void,Matt Weinglass,"Davin Anderson, Jeff Glassberg, Ryan Foland, Alexandra Ford",2000.0,90.0,CM,47
+4000,"Science Fiction, Drama",Into the Void ,Matt Weinglass,"Autumn Reeser, Davin Anderson, Jeff Glassberg, Ryan Foland, Alexandra Ford",2000.0,90.0,CM,47
+1559,"Drama, Sci-Fi",Missile to the Moon,Richard E. Cunha,"Richard Travis, Cathy Downs, K.T. Stevens, Tommy Cook",1958.0,78.0,CM,48
+2614,Science Fiction,Missile to the Moon ,Richard E. Cunha,"Richard Travis, Cathy Downs, K. T. Stevens, Tommy Cook, Nina Bara",1958.0,78.0,CM,48
+535,"Adventure, Comedy, Family, Fantasy, Science Fiction",Aliens in the Attic ,John Schultz,"Carter Jenkins, Austin Butler, Kevin Nealon, Robert Hoffman, Doris Roberts",2009.0,86.0,CM,49
+1292,"Animation, Adventure, Comedy",Aliens in the Attic,John Schultz,"Ashley Tisdale, Robert Hoffman, Carter Jenkins, Austin Butler",2009.0,86.0,CM,49
+103,"Horror, Romance, Science Fiction",Spring ,"Justin Benson, Aaron Moorhead","Lou Taylor Pucci, Nadia Hilker, Nick Nevern, Augie Duke, Jeremy Gardner",2014.0,109.0,CM,50
+444,"Horror, Romance, Sci-Fi",Spring,"Justin Benson, Aaron Moorhead","Lou Taylor Pucci, Nadia Hilker, Francesco Carnelutti, Nick Nevern",2014.0,109.0,CM,50
+2933,"Drama, Science Fiction",Perfect: Android Rising ,Chris R. Notarile,"Roberto Lombardi, Samantha Talbott, Kasey Williams, Rick Zahn, Hector De La Rosa",2013.0,85.0,CM,51
+4771,"Action, Drama, Sci-Fi",Perfect: Android Rising,Chris R. Notarile,"Roberto Lombardi, Samantha Talbott, Kasey Williams, Rick Zahn",2013.0,80.0,CM,51
+1829,"Action, Horror, Mystery, Science Fiction",Gunhed ,"Alan Smithee, Masato Harada","Masahiro Takashima, Brenda Bakke, James Brewster Thompson, Aya Enjoji, Kaori Mizushima",1989.0,92.0,CM,52
+2703,"Action, Sci-Fi, Thriller",Gunhed,Masato Harada,"Masahiro Takashima, Brenda Bakke, James Brewster Thompson, Aya Enjji",1989.0,100.0,CM,52
+3597,"Mystery, Sci-Fi, Thriller",Moebius,Gustavo Mosquera R.,"Guillermo Angelelli, Roberto Carnaghi, Annabella Levy, Jorge Petraglia",1996.0,88.0,CM,53
+1163,Science Fiction,Moebius ,Gustavo Mosquera R.,"Guillermo Angelelli, Roberto Carnaghi, Annabella Levy, Jorge Petraglia, Miguel ngel Paludi",1996.0,88.0,CM,53
+3393,"Adventure, Comedy, Romance, Science Fiction, War",Invisible Agent ,Edwin L. Marin,"Ilona Massey, Jon Hall, Peter Lorre, Cedric Hardwicke, J. Edward Bromberg",1942.0,81.0,CM,54
+3093,"Adventure, Comedy, Romance",Invisible Agent,Edwin L. Marin,"Ilona Massey, Jon Hall, Peter Lorre, Cedric Hardwicke",1942.0,81.0,CM,54
+199,"Action, Sci-Fi",Batman & Robin,Joel Schumacher,"Arnold Schwarzenegger, George Clooney, Chris O'Donnell, Uma Thurman",1997.0,125.0,CM,55
+721,"Science Fiction, Action, Fantasy, Comedy",Batman & Robin ,Joel Schumacher,"George Clooney, Chris O'Donnell, Arnold Schwarzenegger, Uma Thurman, Alicia Silverstone",1997.0,125.0,CM,55
+400,"Action, Adventure, Horror",Deep Rising,Stephen Sommers,"Treat Williams, Famke Janssen, Anthony Heald, Kevin J. O'Connor",1998.0,106.0,CM,56
+2305,"Adventure, Action, Horror, Science Fiction",Deep Rising ,Stephen Sommers,"Treat Williams, Famke Janssen, Anthony Heald, Kevin J. O'Connor, Una Damon",1998.0,106.0,CM,56
+3582,"Horror, Sci-Fi",The Drift,Darren Scales,"Jonny Black, Victoria Hopkins, Vin Hawke, Peter Revel-Walsh",2014.0,101.0,CM,57
+2001,Science Fiction,The Drift ,Darren Scales,"Jonny Black, Victoria Hopkins, Vin Hawke, Peter Revel-Walsh, David Dobson",2014.0,100.0,CM,57
+581,"Action, Comedy, Sci-Fi",Wild Wild West,Barry Sonnenfeld,"Will Smith, Kevin Kline, Kenneth Branagh, Salma Hayek",1999.0,106.0,CM,58
+3226,"Action, Adventure, Comedy, Science Fiction, Western",Wild Wild West ,Barry Sonnenfeld,"Will Smith, Kevin Kline, Kenneth Branagh, Salma Hayek, M. Emmet Walsh",1999.0,106.0,CM,58
+3233,"Horror, Sci-Fi",I Was a Teenage Frankenstein,Herbert L. Strock,"Whit Bissell, Phyllis Coates, Robert Burton, Gary Conway",1957.0,74.0,CM,59
+2495,"Horror, Science Fiction",I Was a Teenage Frankenstein ,Herbert L. Strock,"Whit Bissell, Phyllis Coates, Robert Burton, Gary Conway, George Lynn",1957.0,74.0,CM,59
+2035,"Animation, Action, Sci-Fi",Ghost in the Shell: The New Movie,"Kazuchika Kise, Kazuya Nomura","Maaya Sakamoto, Ken'ichir Matsuda, Ikkyu Juku, Kazuya Nakai",2015.0,100.0,CM,60
+1570,"Science Fiction, Animation",Ghost in the Shell: The New Movie ,"Nomura Kazuya, Kazuchika Kise","Maaya Sakamoto, Ken'ichir Matsuda, Kazuya Nakai, Ikkyuu Juku, Kenji Nojima",2015.0,100.0,CM,60
+3159,"Action, Science Fiction, Thriller, Adventure, Horror, Fantasy",Beowulf ,Graham Baker,"Christopher Lambert, Rhona Mitra, Oliver Cotton, Gtz Otto, Vincent Hammond",1999.0,95.0,CM,61
+702,"Action, Adventure, Fantasy",Beowulf,Graham Baker,"Christopher Lambert, Rhona Mitra, Oliver Cotton, Gtz Otto",1999.0,95.0,CM,61
+4183,"Action, Sci-Fi",Choke Canyon,Charles Bail,"Stephen Collins, Janet Julian, Bo Svenson, Lance Henriksen",1986.0,94.0,CM,62
+3231,"Action, Science Fiction",Choke Canyon ,Charles Bail,"Stephen Collins, Bo Svenson, Janet Julian, Lance Henriksen, Nicholas Pryor",1986.0,94.0,CM,62
+4434,"Mystery, Sci-Fi, Thriller",Assumption of Risk,Mark Kochanowicz,"Brian Anthony Wilson, Dan McGlaughlin, Frankie Faison, Patricia Mizen",2014.0,97.0,CM,63
+193,"Thriller, Mystery, Science Fiction",Assumption of Risk ,Mark Kochanowicz,,2014.0,97.0,CM,63
+1460,"Drama, Science Fiction, Animation",Neon Genesis Evangelion: The End of Evangelion ,"Hideaki Anno, Kazuya Tsurumaki","Megumi Ogata, Megumi Hayashibara, Kotono Mitsuishi, Yuko Miyamura, Fumihiko Tachiki",1997.0,87.0,CM,64
+544,"Animation, Action, Drama",Neon Genesis Evangelion: The End of Evangelion,"Hideaki Anno, Kazuya Tsurumaki","Megumi Ogata, Megumi Hayashibara, Yko Miyamura, Kotono Mitsuishi",1997.0,90.0,CM,64
+4171,"Horror, Science Fiction, Action",Underworld ,George Pavlou,"Denholm Elliott, Steven Berkoff, Nicola Cowper, Larry Lamb, Irina Brook",1985.0,103.0,CM,65
+1836,"Action, Horror, Sci-Fi",Underworld,George Pavlou,"Denholm Elliott, Steven Berkoff, Larry Lamb, Nicola Cowper",1985.0,103.0,CM,65
+4828,"Sci-Fi, Thriller",Menno's Mind,Jon Kroll,"Billy Campbell, Stephanie Romanov, Corbin Bernsen, Michael Dorn",1997.0,95.0,CM,66
+1402,"Thriller, Science Fiction",Menno's Mind ,Jon Kroll,"Billy Campbell, Corbin Bernsen, Michael Dorn, Robert Picardo, Stephanie Romanov",1997.0,95.0,CM,66
+3497,"Science Fiction, Comedy",Dickshark ,Bill Zebub,"Erin Brown, Kayla Browne, Rachel Crow, Greg Fuller, John Giancaspro",2016.0,149.0,CM,67
+1864,"Comedy, Sci-Fi",Dickshark,Bill Zebub,"Kayla Browne, John Giancaspro, Rachel Crow, Greg Fuller",2016.0,200.0,CM,67
+2531,"Science Fiction, Horror",They Came from Beyond Space ,Freddie Francis,"Robert Hutton, Jennifer Jayne, Bernard Kay, Zia Mohyeddin, Geoffrey Wallace",1967.0,85.0,CM,68
+2775,"Adventure, Sci-Fi",They Came from Beyond Space,Freddie Francis,"Robert Hutton, Jennifer Jayne, Zia Mohyeddin, Bernard Kay",1967.0,85.0,CM,68
+1553,"Horror, Sci-Fi, Thriller",The Curse of Frankenstein,Terence Fisher,"Peter Cushing, Hazel Court, Robert Urquhart, Christopher Lee",1957.0,82.0,CM,69
+4801,"Horror, Science Fiction",The Curse of Frankenstein ,Terence Fisher,"Peter Cushing, Hazel Court, Robert Urquhart, Christopher Lee, Melvyn Hayes",1957.0,82.0,CM,69
+3019,"Action, Comedy, Sci-Fi",Roller Blade,Donald G. Jackson,"Suzanne Solari, Jeff Hutchinson, Shaun Michelle, Katina Garner",1986.0,88.0,CM,70
+3390,"Action, Science Fiction",Roller Blade ,Donald G. Jackson,"Suzanne Solari, Jeff Hutchinson, Shaun Michelle, Katina Garner, Sam Mann",1986.0,88.0,CM,70
+4183,"Science Fiction, Adventure, Action",The Golden Bat ,Hajime Sato,"Sonny Chiba, Wataru Yamagawa, Hisako Tsukuba, Emily Takami, Osamu Kobayashi",1966.0,73.0,CM,71
+4846,"Adventure, Action, Sci-Fi",The Golden Bat,Hajime Sat,"Shin'ichi Chiba, Osamu Kobayashi, Wataru Yamagawa, Hisako Tsukuba",1966.0,73.0,CM,71
+4655,"Documentary, Biography, Mystery",Love and Saucers,Brad Abrahams,David Huggins,2017.0,67.0,CM,72
+2157,"Documentary, Mystery, Romance, Science Fiction",Love & Saucers ,Brad Abrahams,David Huggins,2017.0,67.0,CM,72
+4788,"Action, Adventure, Science Fiction",Green Lantern Corps ,,,2020.0,,CM,73
+3980,"Action, Horror, Sci-Fi",The Epidemic,Nigel Hartwell,"Eric Roberts, Chris Owen, Kurt Angle, Larry Zerner",,95.0,CM,73
+1758,Science Fiction,Hover ,Matt Osterman,"Cleopatra Coleman, Shane Coffey, Craig muMs Grant, Fabianne Therese, Rhoda Griffis",2018.0,86.0,CM,74
+1661,Sci-Fi,Hover,Matt Osterman,"Cleopatra Coleman, Shane Coffey, Craig muMs Grant, Fabianne Therese",2018.0,86.0,CM,74
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,75
+1868,"Romance, Sci-Fi",Behind the Curtain of Night,Dalibor Stach,"Brendan Fraser, Dawn Olivieri, Marcia Cross, Petra Buckova",,,CM,75
+2050,Science Fiction,Assignment: Outer Space ,Antonio Margheriti,"Rik Van Nutter, Gabriella Farinon, David Montresor, Archie Savage, Alain Dijon",1960.0,73.0,CM,76
+3227,Sci-Fi,Assignment: Outer Space,Antonio Margheriti,"Rik Van Nutter, Gabriella Farinon, David Montresor, Archie Savage",1960.0,73.0,CM,76
+1789,"Action, Sci-Fi",Kill Order,James Mark,"Chris Mark, Jessica Clement, Denis Akiyama, Daniel Park",2017.0,77.0,CM,77
+4975,"Science Fiction, Action",Kill Order ,James Mark,"Chris Mark, Denis Akiyama, Jonny Caines, Scott Cavalheiro, Alain Moussi",2017.0,,CM,77
+4340,"Action, Science Fiction",Droid Gunner ,Fred Olen Ray,"Marc Singer, Matthias Hues, Rochelle Swanson, Robin Clarke, Kin Shriner",1995.0,90.0,CM,78
+2577,"Action, Sci-Fi",Droid Gunner,Fred Olen Ray,"Marc Singer, Matthias Hues, Rochelle Swanson, Robin Clarke",1995.0,90.0,CM,78
+4805,Sci-Fi,13 Days to Midnight,,,,,CM,79
+715,"Animation, Comedy, Science Fiction, Family, TV Movie",From the Diaries of Ijon Tichy: A Voyage to Interopia ,Gennady Tishchenko,,1985.0,10.0,CM,79
+2186,"Action, Animation, Family, Science Fiction",Spiderman: The Ultimate Villain Showdown ,,"Christopher Daniel Barnes, Sara Ballantine, Efrem Zimbalist Jr., Neil Ross, Billy 'Pop' Atmore",2002.0,79.0,CM,80
+3259,"Action, Crime, Sci-Fi",Knight Rider,,,,,CM,80
+2211,"Horror, Sci-Fi",The Creeping Flesh,Freddie Francis,"Christopher Lee, Peter Cushing, Lorna Heilbron, George Benson",1973.0,92.0,CM,81
+4904,"Horror, Science Fiction",The Creeping Flesh ,Freddie Francis,"Christopher Lee, Peter Cushing, Lorna Heilbron, George Benson, Kenneth J. Warren",1973.0,94.0,CM,81
+4542,"Horror, Science Fiction",The Leech Woman ,Edward Dein,"Coleen Gray, Grant Williams, Phillip Terry, Gloria Talbott, John van Dreelen",1960.0,77.0,CM,82
+3090,"Horror, Romance, Sci-Fi",The Leech Woman,Edward Dein,"Coleen Gray, Grant Williams, Phillip Terry, Gloria Talbott",1960.0,77.0,CM,82
+4979,"Action, Sci-Fi",Project Shadowchaser II,John Eyres,"Frank Zagarino, Bryan Genesse, Beth Toussaint, Daniel Bonjour",1994.0,94.0,CM,83
+534,"Science Fiction, Action",Project Shadowchaser II ,John Eyres,"Frank Zagarino, Bryan Genesse, Beth Toussaint, Daniel Bonjour, Jeff Fannell",1994.0,94.0,CM,83
+4855,"Science Fiction, Drama, Romance",Paradox ,"Fran Ervin, Stevo Chang","Thomas Blankenship, Thomas Blankenship, Holly Rone",2015.0,88.0,CM,84
+3503,"Drama, Romance, Sci-Fi",Paradox,"Steven Chang, Stevo Chang, Fran Ervin","Thomas Blankenship, Stevo Chang, Fran Ervin, Richard Ervin",2016.0,103.0,CM,84
+4106,"Action, Adventure, Sci-Fi",Real Playing Game,"Tino Navarro, David Rebordo","Cian Barry, Alix Wilton Regan, Nik Xhelilaj, Pedro Granger",2013.0,103.0,CM,85
+2397,"Science Fiction, Action, Adventure",Real Playing Game ,David Rebordo,"Cian Barry, Alix Wilton Regan, Nik Xhelilaj, Pedro Granger, Christopher Goh",2013.0,103.0,CM,85
+4889,"Action, Animation, Adventure, Crime, Science Fiction",Batman: Return of the Caped Crusaders ,Rick Morales,"Adam West, Burt Ward, Julie Newmar, Jeff Bergman, Sirena Irwin",2016.0,78.0,CM,86
+1272,"Animation, Action, Adventure",Batman: Return of the Caped Crusaders,Rick Morales,"Adam West, Burt Ward, Julie Newmar, Jeff Bergman",2016.0,78.0,CM,86
+4160,"Sci-Fi, Horror",The Projected Man,"Ian Curteis, John Croydon","Mary Peach, Bryant Haliday, Norman Wooland, Ronald Allen",1966.0,77.0,CM,87
+4372,"Horror, Science Fiction",The Projected Man ,Ian Curteis,"Mary Peach, Bryant Haliday, Norman Wooland, Ronald Allen, Derek Farr",1966.0,77.0,CM,87
+3291,"Action, Adventure, Comedy, Family, Fantasy, Science Fiction",Teenage Mutant Ninja Turtles III ,Stuart Gillard,"Paige Turco, Stuart Wilson, Sab Shimono, Vivian Wu, Mark Caso",1993.0,96.0,CM,88
+739,"Action, Adventure, Comedy",Teenage Mutant Ninja Turtles III,Stuart Gillard,"Elias Koteas, Paige Turco, Stuart Wilson, Sab Shimono",1993.0,96.0,CM,88
+4883,"Action, Sci-Fi, Thriller",Black Hole,Brad Peyton,,,,CM,89
+1234,"Thriller, Science Fiction, Action",Black Hole ,Brad Peyton,,2019.0,,CM,89
+3858,"Action, Sci-Fi, Thriller",Convict 762,Luca Bercovici,"Shannon Sturges, Michole Briana White, Charlie Spradling, Shae D'lyn",1997.0,97.0,CM,90
+3278,"Action, Science Fiction, Thriller",Convict 762 ,Luca Bercovici,"Frank Zagarino, Shannon Sturges, Billy Drago, Tawny Fere, Charlie Spradling",1997.0,97.0,CM,90
+1366,"Horror, Science Fiction",The Dark ,John 'Bud' Cardos,"William Devane, Cathy Lee Crosby, Keenan Wynn, Richard Jaeckel, Warren J. Kemmerling",1979.0,92.0,CM,91
+1999,"Horror, Sci-Fi, Thriller",The Dark,"John 'Bud' Cardos, Tobe Hooper","William Devane, Cathy Lee Crosby, Richard Jaeckel, Keenan Wynn",1979.0,92.0,CM,91
+2122,"Animation, Action, Adventure",Dragon Ball Z: The World's Strongest,Daisuke Nishio,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka, Hiromi Tsuru",1990.0,59.0,CM,92
+3972,"Action, Animation, Science Fiction",Dragon Ball Z: The Tree of Might ,Daisuke Nishio,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka, Hirotaka Suzuoki, Naoko Watanabe",1990.0,61.0,CM,92
+2500,"Horror, Sci-Fi",Frankenstein Island,Jerry Warren,"Robert Clarke, Steve Brodie, Cameron Mitchell, Robert Christopher",1981.0,97.0,CM,93
+3889,"Horror, Science Fiction",Frankenstein Island ,Jerry Warren,"Robert Clarke, Steve Brodie, Cameron Mitchell, Robert Christopher, Tain Bodkin",1981.0,97.0,CM,93
+592,"Drama, Mystery, Sci-Fi",The X Files,Rob Bowman,"David Duchovny, Gillian Anderson, John Neville, William B. Davis",1998.0,121.0,CM,94
+1360,"Mystery, Science Fiction, Thriller",The X Files ,Rob Bowman,"David Duchovny, Gillian Anderson, Mitch Pileggi, William B. Davis, John Neville",1998.0,121.0,CM,94
+4896,"Action, Sci-Fi",Koyakatsi,Ayoub Qanir,"Szymon Bartoszek, Magda Roman",,,CM,95
+4788,"Action, Adventure, Science Fiction",Green Lantern Corps ,,,2020.0,,CM,95
+3535,"Adventure, Horror, Mystery",Sherlock Holmes vs. Frankenstein,Gautier Cazenave,"Eric Godon, Shane Briant, John Lebar, Nicolas Robin",,123.0,CM,96
+4788,"Action, Adventure, Science Fiction",Green Lantern Corps ,,,2020.0,,CM,96
+4305,"Crime, Horror, Drama",The Brain,Freddie Francis,"Anne Heywood, Peter van Eyck, Cecil Parker, Bernard Lee",1962.0,83.0,CM,97
+3750,"Science Fiction, Crime, Horror, Drama",The Brain ,Freddie Francis,"Peter van Eyck, Anne Heywood, Cecil Parker, Bernard Lee, Ellen Schwiers",1962.0,83.0,CM,97
+4062,"Adventure, Animation, Science Fiction",The Secret of the Third Planet ,Roman Kachanov,"Olga Gromova, Vsevolod Larionov, Yuri Volyntsev, Vasiliy Livanov, Grigoriy Shpigel",1981.0,50.0,CM,98
+3938,"Adventure, Sci-Fi, Animation",The Mystery of the Third Planet,Roman Kachanov,"Olga Gromova, Vsevolod Larionov, Yuriy Volyntsev, Vasiliy Livanov",1981.0,48.0,CM,98
+3255,"Fantasy, Science Fiction",Ravagers ,Richard Compton,"Richard Harris, Ernest Borgnine, Ann Turkel, Art Carney, Anthony James",1979.0,90.0,CM,99
+2857,"Sci-Fi, Fantasy, Drama",Ravagers,Richard Compton,"Richard Harris, Ernest Borgnine, Ann Turkel, Art Carney",1979.0,90.0,CM,99
+3142,"Animation, Science Fiction",Godkiller: Walk Among Us ,Matt Pizzolo,"Lance Henriksen, Danielle Harris, Justin Courtney Pierre, Nicki Clyne, Lydia Lunch",2010.0,73.0,CM,100
+4058,"Animation, Sci-Fi",Godkiller: Walk Among Us,Matt Pizzolo,"Danielle Harris, Lance Henriksen, Davey Havok, Justin Courtney Pierre",2010.0,75.0,CM,100
+1386,"Fantasy, Comedy, Science Fiction, Family",Muppets from Space ,Tim Hill,"Steve Whitmire, Dave Goelz, Bill Barretta, Frank Oz, Jerry Nelson",1999.0,87.0,CM,101
+1118,"Adventure, Comedy, Family",Muppets from Space,Tim Hill,"Dave Goelz, Steve Whitmire, Bill Barretta, Jerry Nelson",1999.0,87.0,CM,101
+1194,"Adventure, Fantasy, Action, Science Fiction, Family",The Island at the Top of the World ,Robert Stevenson,"Donald Sinden, David Hartman, Jacques Marin, Mako, David Gwillim",1974.0,93.0,CM,102
+911,"Adventure, Family, Fantasy",The Island at the Top of the World,Robert Stevenson,"David Hartman, Donald Sinden, Jacques Marin, Mako",1974.0,93.0,CM,102
+879,Science Fiction,Legend of Dinosaurs and Monster Birds ,Junji Kurata,"Tsunehiko Watase, Nobiko Sawa, Shtar Hayashi, Tomoko Kiyoshima, Fuyukichi Maki",1977.0,92.0,CM,103
+4559,Sci-Fi,Legend of Dinosaurs and Monster Birds,Junji Kurata,"Tsunehiko Watase, Nobiko Sawa, Shtar Hayashi, Tomoko Kiyoshima",1977.0,92.0,CM,103
+3585,"Science Fiction, Thriller",O2 ,,Anne Hathaway,2019.0,,CM,104
+4670,"Sci-Fi, Thriller",O2,,,,,CM,104
+759,Science Fiction,Prayer of the Rollerboys ,Rick King,"Corey Haim, Patricia Arquette, Christopher Collet, Julius Harris, Mark Pellegrino",1991.0,95.0,CM,105
+1512,"Action, Drama, Sci-Fi",Prayer of the Rollerboys,Rick King,"Corey Haim, Patricia Arquette, Christopher Collet, Julius Harris",1990.0,95.0,CM,105
+3075,Science Fiction,Cat-Women of the Moon ,Arthur Hilton,"Sonny Tufts, Victor Jory, Marie Windsor, Carol Brewster, William Phipps",1953.0,64.0,CM,106
+2768,"Adventure, Sci-Fi",Cat-Women of the Moon,Arthur Hilton,"Sonny Tufts, Victor Jory, Marie Windsor, Susan Morrow",1953.0,64.0,CM,106
+4465,"Science Fiction, Action, Adventure, Fantasy, Thriller",Mortal Engines ,Christian Rivers,"Hera Hilmar, Robert Sheehan, Hugo Weaving, Jihae, Ronan Raftery",2018.0,129.0,CM,107
+14,"Action, Adventure, Fantasy",Mortal Engines,Christian Rivers,"Hera Hilmar, Robert Sheehan, Hugo Weaving, Jihae",2018.0,128.0,CM,107
+1009,"Family, Fantasy, Science Fiction",Mac and Me ,Stewart Raffill,"Jade Calegory, Lauren Stanley, Christine Ebersole, Jonathan Ward, Tina Caspary",1988.0,95.0,CM,108
+879,"Adventure, Family, Fantasy",Mac and Me,Stewart Raffill,"Christine Ebersole, Jonathan Ward, Tina Caspary, Lauren Stanley",1988.0,95.0,CM,108
+4490,"Drama, Mystery, Science Fiction, Thriller",96 Souls ,Stanley Jacobs,"Grinnell Morris, Kevin Rock, Rob Locke, Betsy Baker, Jeffrey Boehm",2016.0,112.0,CM,109
+3918,"Drama, Mystery, Sci-Fi",96 Souls,Stanley Jacobs,"Grinnell Morris, Sridhar Maruvada, Paul Statman, Toyin Moses",2016.0,112.0,CM,109
+1311,"Comedy, Romance, Science Fiction",Nice Girls Don't Explode ,Chuck Martinez,"Barbara Harris, Michelle Meyrink, William O'Leary, Wallace Shawn",1987.0,78.0,CM,110
+2737,"Comedy, Romance, Sci-Fi",Nice Girls Don't Explode,Chuck Martinez,"Barbara Harris, Michelle Meyrink, William O'Leary, Wallace Shawn",1987.0,92.0,CM,110
+770,"Drama, Fantasy, Sci-Fi",Franklyn,Gerald McMorrow,"Eva Green, Ryan Phillippe, Sam Riley, Bernard Hill",2008.0,98.0,CM,111
+442,"Drama, Fantasy, Science Fiction",Franklyn ,Gerald McMorrow,"Eva Green, Ryan Phillippe, Bernard Hill, Sam Riley, Art Malik",2008.0,98.0,CM,111
+4919,"Action, Sci-Fi, Thriller",Guardian,John Terlesky,"Mario Van Peebles, James Remar, Stacy Oversier, Daniel Hugh Kelly",2001.0,89.0,CM,112
+3187,"Drama, Horror, Action, Science Fiction",Guardian ,John Terlesky,"Mario Van Peebles, James Remar, Ice-T, Daniel Hugh Kelly",2001.0,89.0,CM,112
+2436,"Animation, Action, Science Fiction",Lensman ,"Kazuyuki Hirokawa, Yoshiaki Kawajiri","Kerrigan Mahan, Michael McConnohie, Edie Mirman, Steven Kramer, Gregory Snegoff",1984.0,107.0,CM,113
+3510,"Animation, Adventure, Sci-Fi",Lensman,"Shichi Hirokawa, Yoshiaki Kawajiri","Toshio Furukawa, Mami Koyama, Chikao Ohtsuka, Nachi Nozawa",1984.0,107.0,CM,113
+4964,"Action, Adventure, Family",New-Gen: Deadalus Rising,J.D. Matonti,,,,CM,114
+1274,"Action, Science Fiction",Silver Surfer: Prodigal Son ,,,2019.0,,CM,114
+1761,Sci-Fi,Empires of the Deep,"Michael French, Jonathan Lawrence, Scott Miller","Olga Kurylenko, Mi Yang, Valeska Miller, Alec Su",,,CM,115
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,115
+3457,"Horror, Sci-Fi",Captive Wild Woman,Edward Dmytryk,"John Carradine, Evelyn Ankers, Milburn Stone, Lloyd Corrigan",1943.0,61.0,CM,116
+1831,"Horror, Science Fiction",Captive Wild Woman ,Edward Dmytryk,"Acquanetta, John Carradine, Evelyn Ankers, Milburn Stone, Lloyd Corrigan",1943.0,61.0,CM,116
+627,"Action, Science Fiction",3 Supermen and Mad Girl ,Cavit Yrkl,,1973.0,65.0,CM,117
+4732,Sci-Fi,Screamers 3,,,,,CM,117
+971,"Science Fiction, Action",Princess Warrior ,Lindsay Norgard,"Sharon Lee Jones, Dana Fredsti, Mark Pacific, Tony Riccardi, Augie Blunt",1989.0,83.0,CM,118
+3492,"Comedy, Romance, Sci-Fi",Princess Warrior,Lindsay Norgard,"Sharon Lee Jones, Dana Fredsti, Mark Pacific, Mark Riccardi",1989.0,83.0,CM,118
+208,"Adventure, Science Fiction, Action, Horror",Martian Land ,Scott Wheeler,"Alan Pietruszewski, Lane Townsend, Jennifer Dorogi, Arianna Afsar, Chloe Farnworth",2015.0,90.0,CM,119
+3091,"Action, Adventure, Horror",Martian Land,Scott Wheeler,"Lane Townsend, Alan Pietruszewski, Jennifer Dorogi, Arianna Afsar",2015.0,86.0,CM,119
+1956,"Crime, Horror, Sci-Fi",Reaper,Wen-Han Shih,"Danny Trejo, Vinnie Jones, Jake Busey, Shayla Beesley",2014.0,90.0,CM,120
+1994,"Science Fiction, Crime, Horror",Reaper ,Wen-Han Shih,"Danny Trejo, Vinnie Jones, Jake Busey, Shayla Beesley, James Jurdi",2015.0,90.0,CM,120
+2834,"Action, Adventure, Sci-Fi","20,000 Leagues Under the Sea",Stuart Paton,"Allen Holubar, Dan Hanlon, Edna Pendleton, Curtis Benton",1916.0,105.0,CM,121
+4346,"Adventure, Drama, Action, Science Fiction","20,000 Leagues Under the Sea ",Stuart Paton,"Lois Alexander, Curtis Benton, Wallace Clarke, Howard Crampton, Jane Gail",1916.0,105.0,CM,121
+2653,"Horror, Drama, Science Fiction",The Cured ,David Freyne,"Ellen Page, Sam Keeley, Tom Vaughan-Lawlor, Stuart Graham, Amy De Bhrn",2018.0,95.0,CM,122
+657,"Drama, Horror, Sci-Fi",The Cured,David Freyne,"Ellen Page, Sam Keeley, Tom Vaughan-Lawlor, Stuart Graham",2017.0,95.0,CM,122
+2052,"Action, Adventure, Comedy",Godzilla vs. the Sea Monster,Jun Fukuda,"Akira Takarada, Kumi Mizuno, Chtar Tgin, Hideo Sunazuka",1966.0,83.0,CM,123
+4358,"Science Fiction, Action, Fantasy","Ebirah, Horror of the Deep ",Jun Fukuda,"Akira Takarada, Kumi Mizuno, Chtar Tgin, Hideo Sunazuka, Tru Watanabe",1966.0,87.0,CM,123
+4745,Science Fiction,Destination Moon ,Irving Pichel,"John Archer, Warner Anderson, Tom Powers, Dick Wesson, Erin O'Brien-Moore",1950.0,91.0,CM,124
+2439,"Adventure, Drama, Sci-Fi",Destination Moon,Irving Pichel,"John Archer, Warner Anderson, Tom Powers, Dick Wesson",1950.0,92.0,CM,124
+956,"Comedy, Sci-Fi",Hot Bot,Michael Polish,"Zack Pearlman, Doug Haley, Cynthia Kirchner, David Shackelford",2016.0,86.0,CM,125
+2084,"Comedy, Science Fiction",Hot Bot ,Michael Polish,"Cynthia Kirchner, Doug Haley, Zack Pearlman, Larry Miller, Danny Masterson",2016.0,86.0,CM,125
+1594,"Thriller, Mystery, Science Fiction",Synchronicity ,Jacob Gentry,"Chad McKnight, Brianne Davis, AJ Bowen, Scott Poythress, Michael Ironside",2015.0,101.0,CM,126
+598,"Drama, Mystery, Romance",Synchronicity,Jacob Gentry,"Chad McKnight, Brianne Davis, AJ Bowen, Scott Poythress",2015.0,101.0,CM,126
+4542,"Adventure, Family, Sci-Fi",The Glitterball,Harley Cokeliss,"Ben Buckton, Keith Jayne, Ron Pember, Marjorie Yates",1977.0,56.0,CM,127
+4203,"Family, Science Fiction",The Glitterball ,Harley Cokeliss,"Ben Buckton, Ron Pember, Keith Jayne, Marjorie Yates, Barry Jackson",1977.0,53.0,CM,127
+2669,"Animation, Adventure, Family",Rainbow Brite and the Star Stealer,"Bernard Deyris, Kimio Yabuki","Bettina Bush, Pat Fraley, Peter Cullen, Robbie Lee",1985.0,85.0,CM,128
+781,"Animation, Family, Science Fiction",Rainbow Brite and the Star Stealer ,"Bernard Deyris, Kimio Yabuki","Bettina Bush, Pat Fraley, Peter Cullen, Robbie Lee, Andre Stojka",1985.0,85.0,CM,128
+2386,"Action, Adventure, Sci-Fi",RiRi Williams/Ironheart,,,,,CM,129
+307,"Science Fiction, Action, Horror",Resident Evil ,Johannes Roberts,,2020.0,,CM,129
+3077,"Action, Adventure, Science Fiction",Spider-Man: Far from Home ,Jon Watts,"Tom Holland, Jake Gyllenhaal, Zendaya, Samuel L. Jackson, Cobie Smulders",2019.0,,CM,130
+10,"Action, Adventure, Comedy",Spider-Man: Far from Home,Jon Watts,"Cobie Smulders, Zendaya, Tom Holland, Samuel L. Jackson",2019.0,,CM,130
+4660,"Horror, Science Fiction, Action, Thriller, Crime",Frankenstein Created Bikers ,James Bickert,"Paul McComiskey, Jett Bryant, Shane Morton, Laurence R. Harvey, Tristan Risk",2016.0,125.0,CM,131
+2159,"Action, Crime, Horror",Frankenstein Created Bikers,James Bickert,"Jett Bryant, Laurence R. Harvey, Tristan Risk, Ellie Church",2016.0,125.0,CM,131
+1654,"Drama, Horror, Sci-Fi",The Green Slime,Kinji Fukasaku,"Robert Horton, Luciana Paluzzi, Richard Jaeckel, Bud Widom",1968.0,90.0,CM,132
+1074,"Science Fiction, Drama, Horror",The Green Slime ,"Kinji Fukasaku, Katsuhiko Taguchi","Robert Horton, Luciana Paluzzi, Richard Jaeckel, Bud Widom, Ted Gunther",1968.0,90.0,CM,132
+2858,"Horror, Science Fiction",Attack of the 50 Foot Woman ,Nathan H. Juran,"Allison Hayes, William Hudson, Yvette Vickers, Roy Gordon, George Douglas",1958.0,65.0,CM,133
+1459,"Horror, Sci-Fi",Attack of the 50 Foot Woman,Nathan Juran,"Allison Hayes, William Hudson, Yvette Vickers, Roy Gordon",1958.0,65.0,CM,133
+1915,"Action, Sci-Fi",Trancers II,Charles Band,"Tim Thomerson, Helen Hunt, Megan Ward, Biff Manard",1991.0,85.0,CM,134
+2108,"Action, Science Fiction, Thriller",Trancers II: The Return of Jack Deth ,Charles Band,"Tim Thomerson, Helen Hunt, Megan Ward, Biff Manard, Martine Beswick",1991.0,85.0,CM,134
+1387,"Science Fiction, Drama, Horror, Mystery",Sphere ,Barry Levinson,"Dustin Hoffman, Sharon Stone, Samuel L. Jackson, Peter Coyote, Liev Schreiber",1998.0,134.0,CM,135
+1269,"Drama, Horror, Mystery",Sphere,Barry Levinson,"Dustin Hoffman, Sharon Stone, Samuel L. Jackson, Peter Coyote",1998.0,134.0,CM,135
+1197,"Action, Adventure, Sci-Fi",Beneath the Planet of the Apes,Ted Post,"James Franciscus, Kim Hunter, Maurice Evans, Linda Harrison",1970.0,95.0,CM,136
+3765,"Adventure, Science Fiction, Mystery",Beneath the Planet of the Apes ,Ted Post,"James Franciscus, Kim Hunter, Maurice Evans, Linda Harrison, Charlton Heston",1970.0,95.0,CM,136
+3189,"Animation, Adventure, Action, Science Fiction",Toward the Terra ,Hideo Onchi,,1980.0,113.0,CM,137
+4907,"Action, Sci-Fi, Thriller",Carnage,,,,,CM,137
+1020,"Music, Comedy, Science Fiction",Earth Girls Are Easy ,Julien Temple,"Geena Davis, Jeff Goldblum, Damon Wayans, Jim Carrey, Julie Brown",1988.0,100.0,CM,138
+1208,"Comedy, Musical, Romance",Earth Girls Are Easy,Julien Temple,"Geena Davis, Jeff Goldblum, Jim Carrey, Damon Wayans",1988.0,100.0,CM,138
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,139
+3855,"Action, Sci-Fi, Thriller",Grace Is Gone,Joe Black,"Tyler Aser, Ken Shamrock, Katherine Fudge, Melodie Roehrig",,90.0,CM,139
+3360,"Action, Horror, Science Fiction",Mutants ,Amir Valinia,"Michael Ironside, Louis Herthum, Tony Senzamici, Steven Bauer",2008.0,90.0,CM,140
+4171,"Action, Horror, Sci-Fi",Mutants,Amir Valinia,"Michael Ironside, Louis Herthum, Tony Senzamici, Steven Bauer",2008.0,83.0,CM,140
+1209,"Action, Adventure, Fantasy",Brahmastra,Ayan Mukherjee,"Alia Bhatt, Amitabh Bachchan, Ranbir Kapoor, Mouni Roy",2019.0,,CM,141
+2666,"Adventure, Science Fiction",Brahmastra ,Ayan Mukherjee,"Amitabh Bachchan, Alia Bhatt, Ranbir Kapoor, Mouni Roy, Deepak Tijori",2019.0,,CM,141
+1285,"Action, Adventure, Horror, Science Fiction",Gamera vs. Gyaos ,Noriaki Yuasa,"Kojiro Hongo, Kichijir Ueda, Reiko Kasahara, Naoyuki Abe, Taro Marui",1967.0,86.0,CM,142
+4244,"Action, Adventure, Family",Gamera vs. Gyaos,Noriaki Yuasa,"Kjir Hong, Kichijir Ueda, Reiko Kasahara, Naoyuki Abe",1967.0,87.0,CM,142
+3384,"Horror, Science Fiction",Deep Space ,Fred Olen Ray,"Charles Napier, Ann Turkel, Bo Svenson, Ron Glass, Julie Newmar",1988.0,90.0,CM,143
+2287,"Horror, Sci-Fi",Deep Space,Fred Olen Ray,"Charles Napier, Ann Turkel, Bo Svenson, Ron Glass",1988.0,90.0,CM,143
+4205,"Adventure, Animation, Romance, Science Fiction",Freedom ,Shuhei Morita,,2006.0,189.0,CM,144
+4539,"Action, Adventure, Sci-Fi",Power Rangers 6,,,,,CM,144
+3680,"Comedy, Science Fiction",2001: A Space Travesty ,Allan A. Goldstein,"Leslie Nielsen, Ophlie Winter, Ezio Greggio, Peter Egan, Alexandra Kamp",2000.0,99.0,CM,145
+1766,"Comedy, Sci-Fi",2001: A Space Travesty,Allan A. Goldstein,"Leslie Nielsen, Ophlie Winter, Ezio Greggio, Peter Egan",2000.0,99.0,CM,145
+671,"Adventure, Comedy, Drama",Seeking a Friend for the End of the World,Lorene Scafaria,"Steve Carell, Keira Knightley, Melanie Lynskey, Patton Oswalt",2012.0,101.0,CM,146
+1836,"Comedy, Drama, Romance, Science Fiction",Seeking a Friend for the End of the World ,Lorene Scafaria,"Steve Carell, Keira Knightley, Connie Britton, Adam Brody, Rob Corddry",2012.0,101.0,CM,146
+3554,Sci-Fi,Flashburn,Giorgio Serafini,"Sean Patrick Flanery, Cameron Richardson, Romen L. McPherson, Justin Fischer",2017.0,89.0,CM,147
+2661,Science Fiction,Flashburn ,Giorgio Serafini,"Cameron Richardson, Sean Patrick Flanery, Romen L. McPherson, Justin Fischer, Nick Stevenson",2017.0,89.0,CM,147
+1008,"Comedy, Crime, Family",Baby Geniuses,Bob Clark,"Kathleen Turner, Christopher Lloyd, Kim Cattrall, Peter MacNicol",1999.0,97.0,CM,148
+3349,"Science Fiction, Comedy, Family",Baby Geniuses ,Bob Clark,"Kathleen Turner, Christopher Lloyd, Kim Cattrall, Peter MacNicol, Dom DeLuise",1999.0,97.0,CM,148
+1090,"Science Fiction, Fantasy",The Record Keeper ,Jason Satterlund,"Lindsay Frame, Dennis M. Hill, JuneSoo Ham, Jelynn Sophia, Gilberto Martin del Campo",2014.0,,CM,149
+4700,Sci-Fi,The Record Keeper,Jason Satterlund,"Lindsay Frame, Dennis Hill, JuneSoo Ham, Gilberto Martin del Campo",2014.0,130.0,CM,149
+1368,"Horror, Science Fiction",The Vulture ,Lawrence Huntington,"Robert Hutton, Diane Clare, Akim Tamiroff, Broderick Crawford, Edward Caddick",1966.0,91.0,CM,150
+3718,"Horror, Mystery, Sci-Fi",The Vulture,Lawrence Huntington,"Robert Hutton, Akim Tamiroff, Broderick Crawford, Diane Clare",1966.0,91.0,CM,150
+4404,"Horror, Sci-Fi, Thriller",Deadlands 2: Trapped,Gary Ugarek,"Jim Krut, Joseph D. Durbin, Chris L. Clark, Josh Davidson",2008.0,80.0,CM,151
+398,"Horror, Science Fiction, Thriller",Deadlands 2: Trapped ,Gary Ugarek,"Jim Krut, Joseph D. Durbin, Josh Davidson, Ashley Young, Corrine Brush",2008.0,85.0,CM,151
+1211,"Thriller, Horror, Science Fiction",Replace ,Norbert Keil,"Rebecca Forsythe, Lucie Aron, Barbara Crampton, Sean Knopp, Adnan Maral",2017.0,101.0,CM,152
+1798,"Horror, Sci-Fi, Thriller",Replace,Norbert Keil,"Rebecca Forsythe, Lucie Aron, Barbara Crampton, Sean Knopp",2017.0,101.0,CM,152
+2289,"Family, Comedy, Science Fiction",The Monkey's Uncle ,Robert Stevenson,"Tommy Kirk, Annette Funicello, Leon Ames, Arthur O'Connell, Frank Faylen",1965.0,87.0,CM,153
+3177,"Family, Comedy, Sci-Fi",The Monkey's Uncle,Robert Stevenson,"Tommy Kirk, Annette Funicello, Leon Ames, Arthur O'Connell",1965.0,87.0,CM,153
+1763,"Action, Fantasy, Science Fiction",Kung Fu Traveler 2 ,Xian Feng Zhang,"Tiger Hu Chen, Wang Zhi, Han Rui",2017.0,96.0,CM,154
+1891,"Action, Sci-Fi, Thriller",Kung Fu Traveler,Xian Feng Zhang,"Tiger Hu Chen, Darren Grosvenor, Gang Sheng, Zhi Wang",2017.0,98.0,CM,154
+129,"Action, Science Fiction",Beyond Skyline ,Liam O'Donnell,"Frank Grillo, Bojana Novakovi, Iko Uwais, Callan Mulvey, Antonio Fargas",2017.0,105.0,CM,155
+958,"Action, Adventure, Horror",Beyond Skyline,Liam O'Donnell,"Frank Grillo, Bojana Novakovic, Jonny Weston, Callan Mulvey",2017.0,106.0,CM,155
+1599,Science Fiction,She Alien ,Milos Twilight,"Jenae Altschwager, Ed Brigadier, Elissa Dowling, Chanel Ryan",2009.0,,CM,156
+4706,Sci-Fi,She Alien,Milos Twilight,"Jenae Altschwager, Ed Brigadier, Alena Cechakova, Analia Centurion",2009.0,89.0,CM,156
+967,"Adventure, Family, Fantasy, Science Fiction, Thriller, Action",Race to Witch Mountain ,Andy Fickman,"Dwayne Johnson, AnnaSophia Robb, Alexander Ludwig, Carla Gugino, Chris Marquette",2009.0,98.0,CM,157
+878,"Action, Adventure, Family",Race to Witch Mountain,Andy Fickman,"Dwayne Johnson, Carla Gugino, AnnaSophia Robb, Alexander Ludwig",2009.0,98.0,CM,157
+4788,"Action, Adventure, Science Fiction",Green Lantern Corps ,,,2020.0,,CM,158
+3408,"Action, Sci-Fi",Last Man,David Ayer,,,,CM,158
+1824,Science Fiction,The Terrornauts ,Montgomery Tully,"Simon Oates, Zena Marshall, Charles Hawtrey, Patricia Hayes, Stanley Meadows",1967.0,75.0,CM,159
+4750,Sci-Fi,The Terrornauts,Montgomery Tully,"Simon Oates, Zena Marshall, Charles Hawtrey, Patricia Hayes",1967.0,75.0,CM,159
+828,"Fantasy, Action, Thriller, Science Fiction",Shadow Fury ,Makoto Yokoyama,"Sam Bottoms, Alexandra Kamp, Masakatsu Funaki, Fred Williamson, Taylor Lautner",2001.0,89.0,CM,160
+4484,"Action, Sci-Fi",Shadow Fury,Makoto Yokoyama,"Sam Bottoms, Masakatsu Funaki, Alexandra Kamp, Bas Rutten",2001.0,89.0,CM,160
+3018,"Sci-Fi, Thriller",The Flying Saucer,Mikel Conrad,"Mikel Conrad, Pat Garrison, Hantz von Teuffen, Earle Lyon",1950.0,69.0,CM,161
+1205,"Thriller, Science Fiction",The Flying Saucer ,Mikel Conrad,"Mikel Conrad, Pat Garrison, Russell Hicks, Lester Sharpe, Hantz von Teuffen",1950.0,69.0,CM,161
+1668,"Horror, Science Fiction",Varan the Unbelievable ,"Jerry A. Baerwitz, Ishir Honda","Myron Healey, Koreya Senda, Kz Nomura, Ayumi Sonoda, Fumito Matsuo",1962.0,70.0,CM,162
+4511,"Horror, Sci-Fi",Varan the Unbelievable,"Jerry A. Baerwitz, Ishir Honda","Myron Healey, Tsuruko Kobayashi, Clifford Kawada, Derick Shimatsu",1962.0,70.0,CM,162
+3250,"Science Fiction, Horror",Night Fright ,James A. Sullivan,"John Agar, Carol Gilley, Ralph Baker Jr., Dorothy Davis, Bill Thurman",1967.0,75.0,CM,163
+3052,"Horror, Sci-Fi",Night Fright,James A. Sullivan,"John Agar, Carol Gilley, Ralph Baker Jr., Dorothy Davis",1967.0,75.0,CM,163
+890,"Action, Fantasy, Thriller",Ghost Rider: Spirit of Vengeance,"Mark Neveldine, Brian Taylor","Nicolas Cage, Ciarn Hinds, Idris Elba, Violante Placido",2011.0,96.0,CM,164
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,164
+3149,"Action, Science Fiction",Ultraman Geed the Movie: Connect! The Wishes!! ,Koichi Sakamoto,"Tatsuomi Hamada, Chihiro Yamamoto, Shintarou Asanuma, Megumi Han, Mamoru Miyano",2018.0,73.0,CM,165
+3624,"Action, Sci-Fi",Ultraman Geed the Movie,Koichi Sakamoto,"Tatsuomi Hamada, Chihiro Yamamoto, Mayu Hasegawa, Hideyoshi Iwata",2018.0,70.0,CM,165
+1516,"Comedy, Science Fiction",Sex and the Single Alien ,Peter Daskaloff,"Eric Kohner, Melanie Rose, Frank Fowler, Michaela Stoicov, Michele Hess",1993.0,89.0,CM,166
+4849,"Comedy, Sci-Fi",Sex and the Single Alien,Peter Daskaloff,"Eric Kohner, Melanie Rose, Frank Fowler, Michaela Stoicov",1993.0,89.0,CM,166
+737,"Drama, Horror, Science Fiction",Donovan's Brain ,Felix E. Feist,"Lew Ayres, Nancy Reagan, Gene Evans, Steve Brodie, Tom Powers",1953.0,83.0,CM,167
+3164,"Sci-Fi, Horror",Donovan's Brain,Felix E. Feist,"Lew Ayres, Gene Evans, Nancy Reagan, Steve Brodie",1953.0,84.0,CM,167
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,168
+3414,"Animation, Drama, Family",Pokmon the Movie: Black-Victini and Reshiram,Kunihiko Yuyama,"Sarah Natochenny, Eileen Stevens, Jason Griffith, James Carter Cathcart",2011.0,88.0,CM,168
+1449,"Adventure, Sci-Fi",Slipstream,Steven Lisberger,"Bob Peck, Mark Hamill, Kitty Aldridge, Bill Paxton",1989.0,102.0,CM,169
+2417,"Science Fiction, Adventure",Slipstream ,Steven Lisberger,"Mark Hamill, Kitty Aldridge, Bob Peck, Bill Paxton, Eleanor David",1989.0,102.0,CM,169
+681,"Thriller, Horror, Science Fiction",Let's Be Evil ,Martin Owen,"Elizabeth Morris, Kara Tointon, Isabelle Allen, Paul Casar, Elliot James Langridge",2016.0,83.0,CM,170
+1636,"Horror, Sci-Fi, Thriller",Let's Be Evil,Martin Owen,"Sophie Willis, Jules Brown, Elizabeth Morris, Chase Bowman",2016.0,82.0,CM,170
+4487,"Drama, Science Fiction",Yesterday Last Year ,Jeffrey Hanley,"Adam Bradley, Scott Walker, Amelia Mathews",2017.0,76.0,CM,171
+4910,"Drama, Sci-Fi",Yesterday Last Year,Jeffrey Hanley,"Adam Bradley, Amelia Mathews, Scott Walker",2017.0,76.0,CM,171
+3981,"Drama, Science Fiction",We've Forgotten More Than We Ever Knew ,Thomas Woodrow,"Doug Jones, Aaron Stanford, Louisa Krause",2016.0,,CM,172
+2927,"Drama, Sci-Fi",We've Forgotten More Than We Ever Knew,Thomas Woodrow,"Doug Jones, Louisa Krause, Aaron Stanford",2016.0,88.0,CM,172
+164,"Science Fiction, Drama",Advantageous ,Jennifer Phang,"Jacqueline Kim, James Urbaniak, Freya Adams, Ken Jeong, Jennifer Ehle",2015.0,92.0,CM,173
+1693,"Drama, Family, Sci-Fi",Advantageous,Jennifer Phang,"Jacqueline Kim, James Urbaniak, Freya Adams, Ken Jeong",2015.0,90.0,CM,173
+4840,"Adventure, Horror, Science Fiction",The Mask of Fu Manchu ,"Charles Vidor, Charles Brabin","Boris Karloff, Lewis Stone, Karen Morley, Charles Starrett, Myrna Loy",1932.0,68.0,CM,174
+2238,"Adventure, Horror, Sci-Fi",The Mask of Fu Manchu,"Charles Brabin, Charles Vidor","Boris Karloff, Lewis Stone, Karen Morley, Charles Starrett",1932.0,68.0,CM,174
+94,"Thriller, Science Fiction",The Box ,Richard Kelly,"Cameron Diaz, James Marsden, Frank Langella, Michael Zegen, James Rebhorn",2009.0,115.0,CM,175
+1081,"Drama, Fantasy, Mystery",The Box,Richard Kelly,"Cameron Diaz, James Marsden, Frank Langella, James Rebhorn",2009.0,115.0,CM,175
+2098,"Horror, Science Fiction, Drama",Genesis ,Peter Rose,,1991.0,4.0,CM,176
+2072,"Animation, Action, Fantasy",Neon Genesis Evangelion,,,,,CM,176
+1188,"Fantasy, Science Fiction, Romance",Mr. Emmett & The Canned Peaches ,Hctor Valdez,"Peter Vives, Frank Perozo, Joaqun Ferreira, Mara Guinea",2017.0,80.0,CM,177
+3843,"Comedy, Fantasy, Romance",Melocotones,Hctor Valdez,"Joaqun Ferreira, Frank Perozo, Peter Vives, Mara Guinea",2017.0,80.0,CM,177
+2487,"Animation, Science Fiction, Drama",Skywhales ,"Phil Austin, Derek W. Hayes",,1983.0,11.0,CM,178
+2201,"Animation, Adventure, Comedy",Robodog,,"Ellen Page, Ron Perlman, Rainn Wilson, Steve Zahn",,,CM,178
+3396,"Science Fiction, Drama, Horror","Die, Monster, Die! ",Daniel Haller,"Boris Karloff, Nick Adams, Freda Jackson, Suzan Farmer, Terence de Marney",1965.0,80.0,CM,179
+2156,"Mystery, Horror, Sci-Fi",Monster of Terror,Daniel Haller,"Boris Karloff, Nick Adams, Freda Jackson, Suzan Farmer",1965.0,80.0,CM,179
+662,"Thriller, Action, Adventure, Science Fiction",Fire Twister ,George Erschbamer,"Casper Van Dien, Lisa Ciara, Johnny Hawkes, Leah Bateman, Jon Mack",2015.0,85.0,CM,180
+3699,"Action, Adventure, Drama",Fire Twister,George Erschbamer,"Casper Van Dien, Lisa Ciara, Johnny Hawkes, Leah Bateman",2015.0,85.0,CM,180
+2135,"Thriller, Science Fiction",Captive State ,Rupert Wyatt,"John Goodman, Vera Farmiga, Ashton Sanders, Machine Gun Kelly, Madeline Brewer",2019.0,110.0,CM,181
+39,"Sci-Fi, Thriller",Captive State,Rupert Wyatt,"John Goodman, Ashton Sanders, Jonathan Majors, Vera Farmiga",2019.0,109.0,CM,181
+4442,"Horror, Science Fiction",Invasion ,Wes Ball,,2016.0,6.0,CM,182
+3879,"Horror, Sci-Fi, Thriller",Infection: The Invasion Begins,Howard Wexler,"Kelly Pendygraft, Alice Amter, Terry Becker, Bryan Brewer",2010.0,95.0,CM,182
+3595,"Comedy, Sci-Fi",Giant Monsters Attack Japan!,Trey Parker,,,,CM,183
+2218,"Animation, Comedy, Science Fiction, Family",Ultra Nyan 2: The Great Happy Operation ,,"Mei Oshitani, Yoshiko Kamei, Akio Otsuka, Rokuro Naya, Naoki Band",1998.0,30.0,CM,183
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,184
+1168,"Action, Adventure, Fantasy",143,Tim Miller,,,,CM,184
+3787,"Drama, Fantasy, Science Fiction, Thriller",After the Dark ,John Huddles,"James D'Arcy, Sophie Lowe, Rhys Wakefield, Bonnie Wright, Daryl Sabara",2013.0,107.0,CM,185
+1297,"Drama, Fantasy, Sci-Fi",After the Dark,John Huddles,"James D'Arcy, Sophie Lowe, Daryl Sabara, Freddie Stroma",2013.0,107.0,CM,185
+2423,"Science Fiction, Action",Channeling ,Drew Thomas,"Taylor Handley, Kate French, Skyler Day, Dominic DeVore, Landon Ashworth",2013.0,106.0,CM,186
+3920,"Action, Mystery, Sci-Fi",Channeling,Drew Thomas,"Taylor Handley, Kate French, Skyler Day, Dominic DeVore",2013.0,106.0,CM,186
+1359,Science Fiction,Robot Holocaust ,Tim Kincaid,"Norris Culf, Nadine Hartstein, J. Buzz Von Ornsteiner, Jennifer Delora",1986.0,79.0,CM,187
+2131,Sci-Fi,Robot Holocaust,Tim Kincaid,"Norris Culf, Nadine Hartstein, J. Buzz Von Ornsteiner, Jennifer Delora",1986.0,79.0,CM,187
+1753,"Fantasy, Mystery, Sci-Fi",Black Moon,Louis Malle,"Cathryn Harrison, Therese Giehse, Alexandra Stewart, Joe Dallesandro",1975.0,95.0,CM,188
+2452,"Fantasy, Science Fiction, Drama, Mystery",Black Moon ,Louis Malle,"Cathryn Harrison, Therese Giehse, Alexandra Stewart, Joe Dallesandro",1975.0,100.0,CM,188
+4277,"Action, Animation, Science Fiction",Ghost in the Shell Arise - Border 3: Ghost Tears ,Kazuchika Kise,"Maaya Sakamoto, Ikkyuu Juku, Kenichirou Matsuda, Kazuya Nakai, Tomoyuki Dan",2014.0,59.0,CM,189
+2852,"Animation, Action, Sci-Fi",Ghost in the Shell Arise: Border 3 - Ghost Tears,Kazuchika Kise,"Maaya Sakamoto, Ikkyu Juku, Ken'ichir Matsuda, Tarusuke Shingaki",2014.0,55.0,CM,189
+526,"Comedy, Horror, Sci-Fi",Slither,James Gunn,"Nathan Fillion, Elizabeth Banks, Michael Rooker, Don Thompson",2006.0,95.0,CM,190
+1369,"Comedy, Horror, Science Fiction",Slither ,James Gunn,"Nathan Fillion, Don Thompson, Elizabeth Banks, Gregg Henry, Xantha Radley",2006.0,95.0,CM,190
+3424,"Adventure, Comedy, Sci-Fi",The High Crusade,"Klaus Knoesel, Holger Neuhuser","John Rhys-Davies, Rick Overton, Michael Des Barres, Catherine Punch",1994.0,100.0,CM,191
+9,"Adventure, Fantasy, Comedy, Science Fiction",The High Crusade ,"Holger Neuhuser, Klaus Knoesel","John Rhys-Davies, Rick Overton, Michael Des Barres, Catherine Punch, Patrick Brymer",1994.0,100.0,CM,191
+3842,Sci-Fi,Osa,Oleg Egorov,"Kelly Lynch, Daniel Grimm, Phillip Vincent, Etienne Chicot",1986.0,92.0,CM,192
+3835,Science Fiction,Osa ,Oleg Egorov,"Kelly Lynch, Daniel Grimm, Peter Walker, Bill Moseley, David Hausman",1986.0,92.0,CM,192
+1602,"Animation, Action, Sci-Fi",Starship Troopers: Invasion,Shinji Aramaki,"Luci Christian, David Matranga, Justin Doran, David Wald",2012.0,89.0,CM,193
+3729,"Animation, Action, Science Fiction",Starship Troopers: Invasion ,Shinji Aramaki,"Luci Christian, Justin Doran, David Matranga, David Wald, Emily Neves",2012.0,89.0,CM,193
+1145,"Comedy, Fantasy, Horror",Living Among Us,Brian A. Metcalf,"Esm Bianco, William Sadler, Anna Sophia Berglund, Andrew Keegan",2018.0,87.0,CM,194
+3120,"Thriller, Horror, Science Fiction, Fantasy",Living Among Us ,Brian A. Metcalf,"Andrew Keegan, John Heard, Esm Bianco, William Sadler, Thomas Ian Nicholas",2018.0,87.0,CM,194
+3817,"Action, Sci-Fi",Timelock,Robert Munic,"Maryam d'Abo, Arye Gross, Jeffrey Meek, Ricco Ross",1996.0,90.0,CM,195
+915,Science Fiction,Timelock ,Robert Munic,"Maryam d'Abo, Arye Gross, Jeffrey Meek, Ricco Ross, Jeff Speakman",1996.0,90.0,CM,195
+258,"Action, Crime, Drama",Looper,Rian Johnson,"Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano",2012.0,113.0,CM,196
+869,"Action, Thriller, Science Fiction",Looper ,Rian Johnson,"Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano, Noah Segan",2012.0,118.0,CM,196
+3285,"Drama, Science Fiction, Romance",Upstream Color ,Shane Carruth,"Amy Seimetz, Shane Carruth, Andrew Sensenig, Thiago Martins, Carolyn King",2013.0,96.0,CM,197
+1023,"Drama, Sci-Fi",Upstream Color,Shane Carruth,"Amy Seimetz, Frank Mosley, Shane Carruth, Andrew Sensenig",2013.0,96.0,CM,197
+4875,"Action, Animation, Science Fiction",Dragon Ball Z: Bio-Broly ,Yoshihiro Ueda,"Masako Nozawa, Takeshi Kusao, Bin Shimada, Daisuke Gouri, Tomiko Suzuki",1994.0,50.0,CM,198
+2545,"Animation, Action, Sci-Fi",Dragon Ball Z: Bio-Broly,Yoshihiro Ueda,"Masako Nozawa, Takeshi Kusao, Daisuke Gri, Mayumi Tanaka",1994.0,47.0,CM,198
+3195,"Romance, Sci-Fi, Thriller",Under the Bridge,Maximilian von Vier,,,,CM,199
+2218,"Animation, Comedy, Science Fiction, Family",Ultra Nyan 2: The Great Happy Operation ,,"Mei Oshitani, Yoshiko Kamei, Akio Otsuka, Rokuro Naya, Naoki Band",1998.0,30.0,CM,199
+892,"Horror, Mystery, Science Fiction",Videodrome ,David Cronenberg,"James Woods, Sonja Smits, Debbie Harry, Peter Dvorsky, Jack Creley",1983.0,88.0,CM,200
+818,"Horror, Sci-Fi, Thriller",Videodrome,David Cronenberg,"James Woods, Debbie Harry, Sonja Smits, Peter Dvorsky",1983.0,87.0,CM,200
+2341,"Drama, Sci-Fi",Like Cattle Towards Glow,"Dennis Cooper, Zac Farley","Nicolas Hau, Gabriel Norman, E.D. Yang, Joris Monnier",2015.0,93.0,CM,201
+2561,"Drama, Science Fiction",Like Cattle Towards Glow ,"Zac Farley, Dennis Cooper","Christophe Honor, Raphal Bouvet, Nicolas Hau, Gabriel Norman, E.D. Yang",2015.0,93.0,CM,201
+805,"Action, Crime, Sci-Fi",Steel,Kenneth Johnson,"Shaquille O'Neal, Annabeth Gish, Judd Nelson, Richard Roundtree",1997.0,97.0,CM,202
+4165,"Science Fiction, Action, Adventure",Steel ,Kenneth Johnson,"Shaquille O'Neal, Annabeth Gish, Richard Roundtree, Judd Nelson, Irma P. Hall",1997.0,97.0,CM,202
+4905,"Action, Adventure, Sci-Fi",The Last Savage,Liam O'Donnell,,,,CM,203
+129,"Action, Science Fiction",Beyond Skyline ,Liam O'Donnell,"Frank Grillo, Bojana Novakovi, Iko Uwais, Callan Mulvey, Antonio Fargas",2017.0,105.0,CM,203
+4665,"Sci-Fi, Thriller",Genesis,Mike Le Han,Kate Bosworth,,,CM,204
+2098,"Horror, Science Fiction, Drama",Genesis ,Peter Rose,,1991.0,4.0,CM,204
+576,"Action, Adventure, Sci-Fi",Escape from New York,John Carpenter,"Kurt Russell, Lee Van Cleef, Ernest Borgnine, Donald Pleasence",1981.0,99.0,CM,205
+1237,"Science Fiction, Animation",Escape ,"Limbert Fabian, Brandon Oldenburg",,2017.0,5.0,CM,205
+303,"Action, Adventure, Sci-Fi",Terminator Genisys,Alan Taylor,"Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney",2015.0,126.0,CM,206
+900,"Science Fiction, Action, Thriller, Adventure",Terminator Genisys ,Alan Taylor,"Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney, J.K. Simmons",2015.0,126.0,CM,206
+1044,Sci-Fi,The Meg 2,,,,,CM,207
+26,"Animation, Action, Science Fiction",Space Battleship Yamato 2199 Chapter 2 ,Yutaka Izubuchi,,2012.0,,CM,207
+1514,"Drama, Comedy, Science Fiction",Space Station 76 ,Jack Plotnick,"Matt Bomer, Jerry O'Connell, Liv Tyler, Marisa Coughlan, Patrick Wilson",2014.0,94.0,CM,208
+769,"Comedy, Drama, Sci-Fi",Space Station 76,Jack Plotnick,"Patrick Wilson, Liv Tyler, Marisa Coughlan, Matt Bomer",2014.0,93.0,CM,208
+1927,"Horror, Sci-Fi",Nightbeast,Don Dohler,"Tom Griffith, Jamie Zemarel, Karin Kardian, George Stover",1982.0,80.0,CM,209
+1799,"Horror, Science Fiction",Nightbeast ,Don Dohler,"Tom Griffith, Jamie Zemarel, Karin Kardian, George Stover, Don Leifert",1982.0,81.0,CM,209
+2648,"Horror, Action, Science Fiction",Daikaiju Eiga G ,Kiyotaka Taguchi,,2007.0,48.0,CM,210
+3204,"Action, Adventure, Sci-Fi",Axanar,,"Gary Graham, J.G. Hertzler, Kim Fitzgerald, Alec Peters",,,CM,210
+4147,"Animation, Comedy, Adventure, Family, Science Fiction",Escape from Planet Earth ,Callan Brunker,"Brendan Fraser, Rob Corddry, Ricky Gervais, Jessica Alba, Sarah Jessica Parker",2013.0,89.0,CM,211
+861,"Animation, Adventure, Comedy",Escape from Planet Earth,Cal Brunker,"Brendan Fraser, Sarah Jessica Parker, Jessica Alba, Rob Corddry",2013.0,89.0,CM,211
+2588,"Science Fiction, Crime, Mystery",OtherLife ,Ben C. Lucas,"Jessica De Gouw, T.J. Power, Thomas Cocquerel, Tiriel Mora, Liam Graham",2017.0,96.0,CM,212
+1013,"Crime, Mystery, Sci-Fi",OtherLife,Ben C. Lucas,"Jessica De Gouw, Shalom Brune-Franklin, Thomas Cocquerel, T.J. Power",2017.0,96.0,CM,212
+3693,"Sci-Fi, Fantasy",Game Box 1.0,"David Hillenbrand, Scott Hillenbrand","Nate Richert, Danielle Fishel, Patrick Kilpatrick, Patrick Cavanaugh",2004.0,83.0,CM,213
+4828,"Horror, Science Fiction",Game Box 1.0 ,"Scott Hillenbrand, David Hillenbrand","Nate Richert, Danielle Fishel, Patrick Kilpatrick, Patrick Cavanaugh, Robert Tena",2004.0,83.0,CM,213
+1507,"Action, Adventure, Sci-Fi",Independents' Day,Laura Beth Love,"Fay Gauthier, Sal Landi, Johnny Rey Diaz, Matthew Riley",2016.0,91.0,CM,214
+3050,"Action, Science Fiction",Independents' Day ,Laura Beth Love,"Fay Gauthier, Sal Landi, William Castrogiovanni, Jacquelin Arroyo, Brian Tyler Cohen",2016.0,91.0,CM,214
+57,"Adventure, Family, Mystery, Science Fiction",Tomorrowland ,Brad Bird,"Britt Robertson, George Clooney, Raffey Cassidy, Thomas Robinson, Hugh Laurie",2015.0,130.0,CM,215
+335,"Action, Adventure, Family",Tomorrowland,Brad Bird,"George Clooney, Britt Robertson, Hugh Laurie, Raffey Cassidy",2015.0,130.0,CM,215
+928,"Animation, Action, Adventure",Star Wars: The Clone Wars,Dave Filoni,"Matt Lanter, Nika Futterman, Tom Kane, Ashley Eckstein",2008.0,98.0,CM,216
+4665,"Animation, Action, Science Fiction, Adventure",Star Wars: The Clone Wars ,Dave Filoni,"Tom Kane, Matt Lanter, Ashley Eckstein, James Arnold Taylor, Dee Bradley Baker",2008.0,98.0,CM,216
+2620,"Sci-Fi, Drama",Beyond the Stars,David Saperstein,"Martin Sheen, Christian Slater, Robert Foxworth, Sharon Stone",1989.0,88.0,CM,217
+912,Science Fiction,Beyond the Stars ,David Saperstein,"Martin Sheen, Christian Slater, Sharon Stone, Robert Foxworth, Olivia d'Abo",1989.0,88.0,CM,217
+1838,"Sci-Fi, Horror",Quatermass 2,Val Guest,"Brian Donlevy, John Longden, Sidney James, Bryan Forbes",1957.0,85.0,CM,218
+1048,"Horror, Science Fiction",Quatermass II ,Val Guest,"Brian Donlevy, John Longden, Sid James, Bryan Forbes, William Franklyn",1957.0,85.0,CM,218
+402,"Action, Science Fiction",Class of 1999 II - The Substitute ,Spiro Razatos,"Sasha Mitchell, Caitlin Dulany, Nick Cassavetes, Gregory West, Jack Knight",1994.0,87.0,CM,219
+1963,"Action, Horror, Sci-Fi",Class of 1999 II: The Substitute,Spiro Razatos,"Sasha Mitchell, Caitlin Dulany, Nick Cassavetes, Gregory West",1994.0,87.0,CM,219
+3527,"Fantasy, Science Fiction, Comedy",Sorry to Bother You ,Boots Riley,"Lakeith Stanfield, Tessa Thompson, Jermaine Fowler, Omari Hardwick, Terry Crews",2018.0,105.0,CM,220
+250,"Comedy, Fantasy, Sci-Fi",Sorry to Bother You,Boots Riley,"LaKeith Stanfield, Tessa Thompson, Jermaine Fowler, Omari Hardwick",2018.0,111.0,CM,220
+1543,"Action, Adventure, Science Fiction",Max Steel ,Stewart Hendler,"Ben Winchell, Josh Brener, Ana Villafae, Andy Garca, Maria Bello",2016.0,92.0,CM,221
+675,"Action, Adventure, Family",Max Steel,Stewart Hendler,"Ben Winchell, Josh Brener, Maria Bello, Andy Garcia",2016.0,92.0,CM,221
+1724,"Family, Animation, Adventure, Science Fiction",Puerta del tiempo ,Pedro Eugenio Delgado,,2002.0,,CM,222
+4947,"Action, Adventure, Drama",Champions,,,,,CM,222
+2726,"Action, Sci-Fi, Thriller",Queen Crab,Brett Piper,"Michelle Simone Miller, Kathryn Metz, Richard Lounello, A.J. DeLucia",2015.0,80.0,CM,223
+3007,"Science Fiction, Horror",Queen Crab ,Brett Piper,"Michelle Simone Miller, Kathryn Metz, A.J. DeLucia, Steve Diasparra, Danielle Donahue",2015.0,90.0,CM,223
+2905,"Adventure, Comedy, Fantasy",Dinosaurus!,Irvin S. Yeaworth Jr.,"Ward Ramsey, Paul Lukather, Kristina Hanson, Alan Roberts",1960.0,83.0,CM,224
+3162,"Adventure, Fantasy, Science Fiction",Dinosaurus! ,Irvin S. Yeaworth Jr.,"Ward Ramsey, Paul Lukather, Kristina Hanson, Alan Roberts, Fred Engelberg",1960.0,85.0,CM,224
+4699,"Adventure, Comedy, Fantasy, Science Fiction, Music",Bill & Ted's Bogus Journey ,Peter Hewitt,"Keanu Reeves, Alex Winter, George Carlin, William Sadler, Joss Ackland",1991.0,98.0,CM,225
+228,"Adventure, Comedy, Fantasy",Bill & Ted's Bogus Journey,Peter Hewitt,"Keanu Reeves, Alex Winter, William Sadler, Joss Ackland",1991.0,93.0,CM,225
+2977,"Horror, Sci-Fi",Ejecta,"Chad Archibald, Matt Wiele","Julian Richings, Lisa Houle, Adam Seybold, Mark Gibson",2014.0,82.0,CM,226
+2912,Science Fiction,Ejecta ,"Matt Wiele, Chad Archibald","Julian Richings, Lisa Houle, Adam Seybold, Mark Gibson, Justin Darmanin",2014.0,82.0,CM,226
+1150,"Action, Adventure, Horror",Animal,Brett Simmons,"Joey Lauren Adams, Elizabeth Gillies, Paul Iacono, Thorsten Kaye",2014.0,86.0,CM,227
+2223,"Science Fiction, Fantasy, Family",Animal Rescue Squad ,Feng Xiaoning,,2019.0,,CM,227
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,228
+3777,"Action, Sci-Fi, Thriller",7 Aum Arivu,A.R. Murugadoss,"Suriya, Shruti Haasan, Johnny Nguyen, Abhinaya",2011.0,168.0,CM,228
+4788,"Action, Adventure, Science Fiction",Green Lantern Corps ,,,2020.0,,CM,229
+636,"Action, Adventure, Sci-Fi",Green Lantern Corps,,,2020.0,,CM,229
+127,"Action, Adventure, Sci-Fi",Superman Returns,Bryan Singer,"Brandon Routh, Kevin Spacey, Kate Bosworth, James Marsden",2006.0,154.0,CM,230
+2837,"Adventure, Fantasy, Action, Science Fiction",Superman Returns ,Bryan Singer,"Brandon Routh, Kevin Spacey, Kate Bosworth, James Marsden, Parker Posey",2006.0,154.0,CM,230
+3189,"Animation, Adventure, Action, Science Fiction",Toward the Terra ,Hideo Onchi,,1980.0,113.0,CM,231
+3187,"Action, Adventure, Sci-Fi",Mass Effect,,,,,CM,231
+4851,"Action, Adventure, Comedy",The Testing,,,,,CM,232
+4259,"Science Fiction, Comedy, Animation",Star Wreck II: The Old Shit ,,"Samuli Torssonen, Rudi Airisto, Janne Torssonen",1994.0,8.0,CM,232
+152,"Horror, Fantasy, Drama, Action, Science Fiction",Attack on Titan ,Shinji Higuchi,"Haruma Miura, Kiko Mizuhara, Kanata Hongo, Nanami Sakuraba, Takahiro Miura",2015.0,98.0,CM,233
+1288,"Action, Drama, Fantasy",Attack on Titan,Andy Muschietti,,,98.0,CM,233
+79,"Action, Fantasy, Science Fiction",The Mark: Redemption ,James Chankin,"Craig Sheffer, Sonia Couling, Eric Roberts, Gary Daniels, Jolene Andersen",2013.0,94.0,CM,234
+3191,"Action, Fantasy, Sci-Fi",The Mark: Redemption,James Chankin,"Craig Sheffer, Sonia Couling, Eric Roberts, Gary Daniels",2013.0,94.0,CM,234
+1987,Science Fiction,"10,000 Days ",Eric Small,"Riley Smith, John Schneider, Kim Myers, Peter Wingfield, Lisa Pelikan",2014.0,91.0,CM,235
+2922,Sci-Fi,"10,000 Days",Eric Small,"John Schneider, Peter Wingfield, James Harvey Ward, Kim Myers",2014.0,91.0,CM,235
+990,"Drama, Horror, Sci-Fi",Godzilla,Ishir Honda,"Takashi Shimura, Akihiko Hirata, Akira Takarada, Momoko Kchi",1954.0,96.0,CM,236
+4689,"Thriller, Horror, Science Fiction",Godzilla ,Ishir Honda,"Akira Takarada, Momoko Kchi, Akihiko Hirata, Takashi Shimura, Fuyuki Murakami",1954.0,96.0,CM,236
+176,"Action, Adventure, Sci-Fi",The Amazing Spider-Man,Marc Webb,"Andrew Garfield, Emma Stone, Rhys Ifans, Irrfan Khan",2012.0,136.0,CM,237
+1498,"Science Fiction, Action, Adventure, Fantasy, TV Movie, Crime",The Amazing Spider-Man , E.W. Swackhamer,"Nicholas Hammond, David White, Lisa Eilbacher, Jeff Donnell, Michael Pataki",1978.0,92.0,CM,237
+1052,"Drama, Romance, Sci-Fi",Forever Young,Steve Miner,"Mel Gibson, Jamie Lee Curtis, Elijah Wood, Isabel Glasser",1992.0,102.0,CM,238
+2319,"Adventure, Fantasy, Drama, Science Fiction, Romance",Forever Young ,Steve Miner,"Mel Gibson, Jamie Lee Curtis, Elijah Wood, Isabel Glasser, George Wendt",1992.0,102.0,CM,238
+3347,"Action, Sci-Fi, Thriller",Tik Tik Tik,Shakti Soundar Rajan,"Nivetha Pethuraj, Jayam Ravi, V. Jayaprakash, Ramesh Thilak",2018.0,130.0,CM,239
+3575,"Science Fiction, Thriller, Adventure",Tik Tik Tik ,Shakti Soundar Rajan,"Jayam Ravi, Nivetha Pethuraj, Aaron Aziz, RJ Ramesh Thilak, Vincent Asokan",2018.0,130.0,CM,239
+666,"Sci-Fi, Horror, Comedy",The Return of Swamp Thing,Jim Wynorski,"Dick Durock, Heather Locklear, Louis Jourdan, Sarah Douglas",1989.0,88.0,CM,240
+4716,"Horror, Science Fiction",The Return of Swamp Thing ,Jim Wynorski,"Louis Jourdan, Heather Locklear, Sarah Douglas, Dick Durock, Joey Sagal",1989.0,84.0,CM,240
+4946,"Comedy, Horror, Sci-Fi",La casa del terror,Gilberto Martnez Solares,"Germn Valds, Yolanda Varela, Lon Chaney Jr., Yerye Beirute",1960.0,60.0,CM,241
+2868,"Science Fiction, Comedy, Horror",House of Terror ,Gilberto Martnez Solares,"Lon Chaney Jr., Germn Valds, Yolanda Varela, Yerye Beirute, Alfredo Wally Barrn",1960.0,82.0,CM,241
+2854,"Science Fiction, Drama",Moon ,Duncan Jones,"Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw, Adrienne Shaw",2009.0,97.0,CM,242
+55,"Drama, Mystery, Sci-Fi",Moon,Duncan Jones,"Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw",2009.0,97.0,CM,242
+4800,"Science Fiction, Action, Fantasy",Outlaw of Gor ,John 'Bud' Cardos,"Urbano Barberini, Rebecca Ferratti, Jack Palance, Donna Denton, Russel Savadier",1988.0,89.0,CM,243
+1719,"Action, Fantasy, Sci-Fi",Gor II,John 'Bud' Cardos,"Urbano Barberini, Rebecca Ferratti, Jack Palance, Donna Denton",1988.0,89.0,CM,243
+4625,"Science Fiction, Action, Adventure",Transformers: Revenge of the Fallen ,Michael Bay,"Shia LaBeouf, Megan Fox, Josh Duhamel, Rainn Wilson, Tyrese Gibson",2009.0,150.0,CM,244
+1107,"Action, Sci-Fi",Lobo,Michael Bay,,,,CM,244
+1778,"Documentary, Adventure, Sci-Fi",Journey to Space,Mark Krenzien,"Christian Gardner, Gabrielle Gardner, Gabrielle Gardner, Patrick Stewart",2015.0,45.0,CM,245
+4943,Science Fiction,Journey ,Radheya Jegatheva,,2018.0,8.0,CM,245
+409,"Family, Sci-Fi",E.T. the Extra-Terrestrial,Steven Spielberg,"Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace",1982.0,115.0,CM,246
+394,"Science Fiction, Adventure, Family, Fantasy",E.T. the Extra-Terrestrial ,Steven Spielberg,"Henry Thomas, Drew Barrymore, Robert MacNaughton, Dee Wallace, Peter Coyote",1982.0,115.0,CM,246
+3538,Sci-Fi,Earthling,Clay Liford,"Rebecca Spence, Peter Greene, William Katt, Jenny Shakeshaft",2010.0,111.0,CM,247
+3213,"Drama, Action, Thriller, Science Fiction",Earthling ,Clay Liford,"Rebeca Spence, Peter Greene, William Katt, Savanna Sears, Allison Latta",2011.0,114.0,CM,247
+2515,"Drama, Romance, Sci-Fi","The World, The Flesh and The Devil",Ranald MacDougall,"Harry Belafonte, Inger Stevens, Mel Ferrer",1959.0,95.0,CM,248
+4061,"Drama, Science Fiction","The World, the Flesh and the Devil ",Ranald MacDougall,"Harry Belafonte, Inger Stevens, Mel Ferrer",1959.0,95.0,CM,248
+773,"Action, Adventure, Crime",Batman and Robin,Spencer Gordon Bennet,"Robert Lowery, Johnny Duncan, Jane Adams, Lyle Talbot",1949.0,263.0,CM,249
+3708,"Action, Science Fiction, Thriller",Batman and Robin ,Spencer Gordon Bennet,"Robert Lowery, Johnny Duncan, Lyle Talbot, Jane Adams, Ralph Graves",1949.0,263.0,CM,249
+847,Sci-Fi,Code 8,Jeff Chan,"Stephen Amell, Robbie Amell, Sung Kang, Greg Bryk",,,CM,250
+3965,"Science Fiction, Action",Code 8 ,Jeff Chan,"Robbie Amell, Aaron Abrams, Sung Kang, Chad Donella, Jay Dubb",2016.0,10.0,CM,250
+2594,"Animation, Action, Adventure",Dragon Ball Z: Tree of Might,Daisuke Nishio,"Masako Nozawa, Mayumi Tanaka, Tru Furuya, Hirotaka Suzuoki",1990.0,60.0,CM,251
+3972,"Action, Animation, Science Fiction",Dragon Ball Z: The Tree of Might ,Daisuke Nishio,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka, Hirotaka Suzuoki, Naoko Watanabe",1990.0,61.0,CM,251
+4252,"Adventure, Comedy, Romance, Animation, Science Fiction",Cutey Honey Flash ,,"Ai Nagano, Akira Kamiya, Susumu Chiba",1997.0,,CM,252
+2252,"Comedy, Sci-Fi",Irredeemable,Adam McKay,,,,CM,252
+4791,"Science Fiction, Thriller",The Manhattan Project ,Marshall Brickman,"John Lithgow, Christopher Collet, Cynthia Nixon, Jill Eikenberry, John Mahoney",1986.0,118.0,CM,253
+913,"Sci-Fi, Thriller",The Manhattan Project,Marshall Brickman,"John Lithgow, Christopher Collet, Richard Council, Robert Schenkkan",1986.0,117.0,CM,253
+459,"Animation, Action, Adventure",The Iron Giant,Brad Bird,"Eli Marienthal, Harry Connick Jr., Jennifer Aniston, Vin Diesel",1999.0,86.0,CM,254
+3248,"Adventure, Animation, Family, Science Fiction, Comedy",The Iron Giant ,Brad Bird,"Eli Marienthal, Vin Diesel, Jennifer Aniston, Harry Connick Jr., Christopher McDonald",1999.0,86.0,CM,254
+2028,"Horror, Sci-Fi, Thriller",Can't Take It Back,Tim Shechmeister,"Ana Coto, Noah Centineo, Ivanna Sakhno, Lexi Atkins",2017.0,88.0,CM,255
+4511,"Science Fiction, Horror, Thriller",Can't Take It Back ,Tim Shechmeister,"Ana Coto, Ivanna Sakhno, Logan Paul, Noah Centineo, Marine Alexenburg",2017.0,88.0,CM,255
+4888,Sci-Fi,The Timemaker,Jessica Oberhausen,"Walt Sloan, Sandy Gulliver, Joyce Porter, Jessica Oberhausen",,103.0,CM,256
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,256
+419,"Drama, Mystery, Sci-Fi",I Think We're Alone Now,Reed Morano,"Peter Dinklage, Elle Fanning, Charlotte Gainsbourg, Paul Giamatti",2018.0,93.0,CM,257
+1698,"Science Fiction, Drama, Mystery",I Think We're Alone Now ,Reed Morano,"Peter Dinklage, Elle Fanning, Paul Giamatti, Charlotte Gainsbourg",2018.0,100.0,CM,257
+997,"Adventure, Action, Science Fiction",Star Wars: Episode II - Attack of the Clones ,George Lucas,"Hayden Christensen, Ewan McGregor, Natalie Portman, Christopher Lee, Ian McDiarmid",2002.0,142.0,CM,258
+133,"Action, Adventure, Fantasy",Star Wars: Episode II - Attack of the Clones,George Lucas,"Hayden Christensen, Natalie Portman, Ewan McGregor, Christopher Lee",2002.0,142.0,CM,258
+3400,"Horror, Action, Crime, Science Fiction, Thriller",Death House ,Harrison Smith,"Cody Longo, Cortney Palm, Adrienne Barbeau, Michael Berryman, Barbara Crampton",2018.0,95.0,CM,259
+447,"Action, Crime, Horror",Death House,B. Harrison Smith,"Cody Longo, Cortney Palm, Adrienne Barbeau, Michael Berryman",2017.0,95.0,CM,259
+2314,"Drama, Fantasy, Horror",The Giant Behemoth,"Douglas Hickox, Eugne Louri","Gene Evans, Andr Morell, John Turner, Leigh Madison",1959.0,80.0,CM,260
+2132,"Drama, Horror, Science Fiction, Fantasy",The Giant Behemoth ,"Eugne Louri, Douglas Hickox","Gene Evans, Andr Morell, Leigh Madison, John Turner, Jack MacGowran",1959.0,80.0,CM,260
+2163,"Action, Adventure, Sci-Fi",The Last Chase,Martyn Burke,"Lee Majors, Burgess Meredith, Chris Makepeace, Alexandra Stewart",1981.0,101.0,CM,261
+4846,"Action, Adventure, Science Fiction",The Last Chase ,Martyn Burke,"Lee Majors, Burgess Meredith, Chris Makepeace, Alexandra Stewart, Trudy Young",1981.0,101.0,CM,261
+1354,"Comedy, Science Fiction",Girl from Starship Venus ,Derek Ford,"Monika Ringwald, Mark Jones, Andrew Grant, Tony Kenyon, David Rayner",1975.0,82.0,CM,262
+3129,"Comedy, Sci-Fi",The Girl from Starship Venus,Derek Ford,"Monika Ringwald, Mark Jones, Andrew Grant, Tony Kenyon",1975.0,82.0,CM,262
+4578,"Fantasy, Musical, Sci-Fi",Superman,V. Madhusudan Rao,"Taraka Rama Rao Nandamuri, Jaya Prada, Jayamalini, Satyanarayana Kaikala",1980.0,135.0,CM,263
+4,Science Fiction,Computer Superman ,Sompote Sands,,1977.0,104.0,CM,263
+2731,"Action, Adventure, Fantasy, Horror, Science Fiction",Gamera the Brave ,Ryuta Tazaki,"Ryo Tomioka, Kanji Tsuda, Kaho, Susumu Terajima, Shogo Narita",2006.0,96.0,CM,264
+4439,"Action, Adventure, Family",Gamera the Brave,Ryuta Tasaki,"Ry Tomioka, Kaho, Shingo Ishikawa, Shogo Narita",2006.0,96.0,CM,264
+88,"Horror, Sci-Fi",The Mist,Frank Darabont,"Thomas Jane, Marcia Gay Harden, Laurie Holden, Andre Braugher",2007.0,126.0,CM,265
+3652,"Horror, Science Fiction, Thriller",The Mist ,Frank Darabont,"Thomas Jane, Marcia Gay Harden, Laurie Holden, Andre Braugher, Toby Jones",2007.0,126.0,CM,265
+4360,"Horror, Science Fiction",Dracula vs. Frankenstein ,Al Adamson,"J. Carrol Naish, Lon Chaney Jr., Anthony Eisley, Greydon Clark, Zandor Vorkov",1971.0,91.0,CM,266
+2197,"Horror, Sci-Fi",Dracula vs. Frankenstein,"Al Adamson, Samuel M. Sherman","J. Carrol Naish, Lon Chaney Jr., Zandor Vorkov, Anthony Eisley",1971.0,91.0,CM,266
+3274,"Drama, Sci-Fi, Thriller",Tribulation,Andr van Heerden,"Gary Busey, Howie Mandel, Nick Mancuso, Margot Kidder",2000.0,95.0,CM,267
+2754,"Drama, Science Fiction, Thriller",Tribulation ,Andre van Heerden,"Gary Busey, Howie Mandel, Nick Mancuso, Margot Kidder, Sherry Miller",2000.0,95.0,CM,267
+2937,"Horror, Sci-Fi",Splatter: Naked Blood,Hisayasu Sat,"Misa Aika, Yumika Hayashi, Mika Kirihara, Sadao Abe",1996.0,76.0,CM,268
+2057,"Science Fiction, Horror",Splatter: Naked Blood ,Hisayasu Sat,"Misa Aika, Yumika Hayashi, Mika Kirihara, Sadao Abe, Masumi Nakao",1996.0,76.0,CM,268
+4113,"Comedy, Science Fiction",Crazy Alien ,Hao Ning,"Bo Huang, Shen Teng, Matthew Morrison, Tom Pelphrey, Daniel Hugh Kelly",2019.0,116.0,CM,269
+1525,"Comedy, Sci-Fi",Crazy Alien,Hao Ning,"Tom Pelphrey, Matthew Morrison, Ron Smoorenburg, Daniel Hugh Kelly",2019.0,116.0,CM,269
+1663,"Action, Romance, Sci-Fi",Warriors of the Wasteland,Enzo G. Castellari,"Giancarlo Prete, Fred Williamson, George Eastman, Anna Kanakis",1983.0,91.0,CM,270
+4512,"Science Fiction, Thriller, Action",The New Barbarians ,Enzo G. Castellari,"Giancarlo Prete, Fred Williamson, George Eastman, Anna Kanakis, Ennio Girolami",1983.0,91.0,CM,270
+4668,"Drama, Fantasy, Science Fiction, Thriller",Powder ,Victor Salva,"Mary Steenburgen, Sean Patrick Flanery, Lance Henriksen, Jeff Goldblum, Brandon Smith",1995.0,111.0,CM,271
+399,"Drama, Fantasy, Mystery",Powder,Victor Salva,"Mary Steenburgen, Sean Patrick Flanery, Lance Henriksen, Jeff Goldblum",1995.0,111.0,CM,271
+1580,"Science Fiction, Horror, Action",Flesh of my Flesh ,Edward Martin III,,2015.0,90.0,CM,272
+3365,Sci-Fi,My Hero Academia,,,,,CM,272
+593,"Science Fiction, Drama, Horror, Action, Thriller",Isolation ,Brooke Burgess,,2007.0,6.0,CM,273
+3339,"Action, Drama, Sci-Fi",Untitled X-23/Laura Project,,,,,CM,273
+1057,"Horror, Sci-Fi, Thriller",Screamers,Christian Duguay,"Peter Weller, Roy Dupuis, Jennifer Rubin, Andrew Lauer",1995.0,108.0,CM,274
+4636,"Horror, Science Fiction",Screamers ,Christian Duguay,"Peter Weller, Roy Dupuis, Jennifer Rubin, Andrew Lauer, Liliana Komorowska",1995.0,108.0,CM,274
+4213,"Sci-Fi, Drama, Thriller",Final,Campbell Scott,"Denis Leary, Hope Davis, J.C. MacKenzie, Jim Gaffigan",2001.0,111.0,CM,275
+3798,"Drama, Science Fiction, Thriller",Final ,Campbell Scott,"Denis Leary, Hope Davis, Marin Hinkle",2001.0,111.0,CM,275
+2354,"Action, Adventure, Fantasy",Blue World Order,"Ch Baker, Dallas Bland","Billy Zane, Bruce Spence, Jack Thompson, Jake Ryan",2017.0,115.0,CM,276
+3032,"Action, Adventure, Fantasy, Science Fiction",Blue World Order ,"Ch Baker, Dallas Bland","Billy Zane, Bruce Spence, Kendra Appleton, Jack Thompson, Stephen Hunter",2017.0,,CM,276
+3669,"Comedy, Fantasy, Science Fiction",When Women Had Tails ,Pasquale Festa Campanile,"Senta Berger, Giuliano Gemma, Frank Wolff, Renzo Montagnani, Lino Toffolo",1970.0,,CM,277
+2676,"Comedy, Fantasy, Sci-Fi",When Women Had Tails,Pasquale Festa Campanile,"Senta Berger, Giuliano Gemma, Frank Wolff, Renzo Montagnani",1970.0,105.0,CM,277
+3861,"Adventure, Sci-Fi, Thriller",Nina of the Woods,Charlie Griak,"Emily Fradenburgh, Andrew Stecker, Megan Hensley, Shawn Boyd",,,CM,278
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,278
+1765,"Adventure, Comedy, Family",Santa Claus Conquers the Martians,Nicholas Webster,"John Call, Leonard Hicks, Vincent Beck, Bill McCutcheon",1964.0,81.0,CM,279
+2020,"Action, Adventure, Comedy, Family, Fantasy, Science Fiction",Santa Claus Conquers the Martians ,Nicholas Webster,"John Call, Leonard Hicks, Vincent Beck, Bill McCutcheon, Victor Stiles",1964.0,81.0,CM,279
+3691,"Adventure, Horror, Science Fiction",Mad Doctor of Blood Island ,"Gerardo de Leon, Eddie Romero","John Ashley, Angelique Pettyjohn, Ronald Remy, Ronaldo Valdez, Alicia Alonzo",1969.0,89.0,CM,280
+3332,"Adventure, Horror, Sci-Fi",Mad Doctor of Blood Island,"Gerardo de Leon, Eddie Romero","John Ashley, Angelique Pettyjohn, Ronald Remy, Alicia Alonzo",1968.0,85.0,CM,280
+2246,"Adventure, Drama, Horror",Rodan,Ishir Honda,"Kenji Sahara, Yumi Shirakawa, Akihiko Hirata, Akio Kobori",1956.0,74.0,CM,281
+3785,"Science Fiction, Horror","Godzilla, King of the Monsters! ","Ishir Honda, Terry O. Morse","Raymond Burr, Akira Takarada, Momoko Kchi, Akihiko Hirata, Takashi Shimura",1956.0,80.0,CM,281
+4054,Sci-Fi,Erotibot,Naoyuki Tomomatsu,"Maria Ozawa, Yasunori Tanaka, Fukuten, Yya Tokumoto",2011.0,72.0,CM,282
+4607,Science Fiction,Erotibot ,Naoyuki Tomomatsu,"Maria Ozawa, Yasunori Tanaka, Yya Tokumoto, Asami",2011.0,72.0,CM,282
+286,"Mystery, Sci-Fi, Thriller",The Thirteenth Floor,Josef Rusnak,"Craig Bierko, Gretchen Mol, Armin Mueller-Stahl, Vincent D'Onofrio",1999.0,100.0,CM,283
+4188,"Thriller, Science Fiction, Mystery",The Thirteenth Floor ,Josef Rusnak,"Craig Bierko, Armin Mueller-Stahl, Gretchen Mol, Vincent D'Onofrio, Dennis Haysbert",1999.0,100.0,CM,283
+2580,Sci-Fi,Time Salvager,Michael Bay,,,,CM,284
+4625,"Science Fiction, Action, Adventure",Transformers: Revenge of the Fallen ,Michael Bay,"Shia LaBeouf, Megan Fox, Josh Duhamel, Rainn Wilson, Tyrese Gibson",2009.0,150.0,CM,284
+1070,"Science Fiction, Drama, Horror, Thriller",Shelter ,Ian Kirby,,2007.0,8.0,CM,285
+4784,"Sci-Fi, Thriller",We Happy Few,,,,,CM,285
+2218,"Animation, Comedy, Science Fiction, Family",Ultra Nyan 2: The Great Happy Operation ,,"Mei Oshitani, Yoshiko Kamei, Akio Otsuka, Rokuro Naya, Naoki Band",1998.0,30.0,CM,286
+4496,"Animation, Action, Comedy",Kung Fu Space Punch,Jorge R. Gutirrez,,,,CM,286
+238,"Action, Science Fiction",The Black Widow ,"Fred C. Brannon, Spencer Gordon Bennet","Bruce Edwards, Virginia Lee, Carol Forman, Anthony Warde, Ramsay Ames",1947.0,180.0,CM,287
+3459,"Action, Adventure, Crime",The Black Widow,"Spencer Gordon Bennet, Fred C. Brannon","Bruce Edwards, Virginia Lee, Carol Forman, Anthony Warde",1947.0,180.0,CM,287
+1357,"Adventure, Comedy, Family",Meet Dave,Brian Robbins,"Eddie Murphy, Elizabeth Banks, Gabrielle Union, Scott Caan",2008.0,90.0,CM,288
+4190,"Comedy, Science Fiction, Adventure, Family",Meet Dave ,Brian Robbins,"Eddie Murphy, Elizabeth Banks, Gabrielle Union, Scott Caan, Ed Helms",2008.0,90.0,CM,288
+2371,"Animation, Adventure, Comedy",Urusei Yatsura 2: Beautiful Dreamer,Mamoru Oshii,"Fumi Hirano, Toshio Furukawa, Akira Kamiya, Kazuko Sugiyama",1984.0,90.0,CM,289
+4477,"Animation, Comedy, Fantasy, Science Fiction",Urusei Yatsura 2: Beautiful Dreamer ,Mamoru Oshii,"Toshio Furukawa, Fumi Hirano, Akira Kamiya, Kazuko Sugiyama, Saeko Shimazu",1984.0,95.0,CM,289
+3240,"Horror, Sci-Fi, Thriller",The Ghostmaker,Mauro Borrelli,"Aaron Dean Eisenberg, Liz Fenning, J. Walter Holland, Jared Grey",2012.0,91.0,CM,290
+1872,"Horror, Science Fiction, Thriller",The Ghostmaker ,Mauro Borrelli,"Aaron Dean Eisenberg, Liz Fenning, J. Walter Holland, Jared Grey, Domiziano Arcangeli",2011.0,91.0,CM,290
+4965,"Drama, Sci-Fi, Thriller",Timecrimes,,,,,CM,291
+3983,"Animation, Science Fiction, Action, Thriller",Squirrel Island ,Astrid Goldsmith,,2016.0,22.0,CM,291
+1507,"Horror, Science Fiction",Mesa of Lost Women ,"Herbert Tevos, Ron Ormond","Jackie Coogan, Allan Nixon, Richard Travis, Lyle Talbot, Paula Hill",1953.0,70.0,CM,292
+2258,"Horror, Sci-Fi",Mesa of Lost Women,"Ron Ormond, Herbert Tevos","Jackie Coogan, Allan Nixon, Richard Travis, Lyle Talbot",1953.0,70.0,CM,292
+106,"Action, Adventure, Comedy, Science Fiction",Double Dragon ,James Yukich,"Robert Patrick, Mark Dacascos, Scott Wolf, Kristina Wagner, Julia Nickson",1994.0,89.0,CM,293
+930,"Action, Adventure, Comedy",Double Dragon,James Yukich,"Robert Patrick, Mark Dacascos, Scott Wolf, Kristina Wagner",1994.0,96.0,CM,293
+3315,"Science Fiction, Thriller, Horror",The Last Days on Mars ,Ruairi Robinson,"Liev Schreiber, Romola Garai, Elias Koteas, Olivia Williams, Johnny Harris",2013.0,98.0,CM,294
+2486,"Action, Sci-Fi",The Leviathan,Ruairi Robinson,,,,CM,294
+903,"Comedy, Drama, Romance",Andover,Scott Perlman,"Jonathan Silverman, Jennifer Finnigan, Richard Kind, Angela Kinsey",2018.0,91.0,CM,295
+4439,"Comedy, Science Fiction, Romance",Andover ,Scott Perlman,"Jonathan Silverman, Jennifer Finnigan, Steven Bauer, Angela Kinsey, Richard Kind",2018.0,91.0,CM,295
+3004,"Action, Horror, Sci-Fi",New Alcatraz,Phillip J. Roth,"Dean Cain, Elizabeth Lackey, Mark Sheppard, Dean Biasucci",2001.0,96.0,CM,296
+1398,"Science Fiction, Horror, Action",New Alcatraz ,Phillip J. Roth,"Dean Cain, Lisa Lackey, Mark Sheppard, Dean Biasucci, Craig Wasson",2001.0,96.0,CM,296
+92,"Action, Adventure, Sci-Fi",Pacific Rim,Guillermo del Toro,"Idris Elba, Charlie Hunnam, Rinko Kikuchi, Charlie Day",2013.0,131.0,CM,297
+1340,"Action, Science Fiction, Adventure",Pacific Rim ,Guillermo del Toro,"Idris Elba, Charlie Hunnam, Rinko Kikuchi, Clifton Collins Jr., Max Martini",2013.0,131.0,CM,297
+1077,Science Fiction,A Trip to Mars ,Holger-Madsen,"Nils Asther, Philip Bech, Alf Bltecher, Frederik Jacobsen, Lilly Jacobson",1918.0,97.0,CM,298
+3907,"Adventure, Fantasy, Sci-Fi",A Trip to Mars,Holger-Madsen,"Gunnar Tolns, Zanny Petersen, Nicolai Neiiendam, Alf Bltecher",1918.0,97.0,CM,298
+1847,"Action, Adventure, Fantasy, Science Fiction",Fantastic Four ,Tim Story,"Ioan Gruffudd, Jessica Alba, Chris Evans, Michael Chiklis, Julian McMahon",2005.0,106.0,CM,299
+165,"Action, Adventure, Fantasy",Fantastic Four,Tim Story,"Ioan Gruffudd, Michael Chiklis, Chris Evans, Jessica Alba",2005.0,106.0,CM,299
+2009,"Action, Science Fiction",Jurassic City ,Sean Cain,"Ray Wise, Kevin Gage, Dana Melanie, Kayla Carlyle, Vernon Wells",2014.0,88.0,CM,300
+1623,"Action, Adventure, Comedy",Jurassic City,Sean Cain,"Ray Wise, Kevin Gage, Vernon Wells, Robert LaSardo",2015.0,88.0,CM,300
+930,"Action, Fantasy, Science Fiction",Empire of Ash III ,Michael Mazo,"William Smith, Melanie Kilgour, Scott Anderson, Nancy Pataki, Ken Farmer",1990.0,98.0,CM,301
+4366,"Action, Fantasy, Sci-Fi",Empire of Ash III,"Michael Mazo, Lloyd A. Simandl","William Smith, Ken Farmer, Melanie Kilgour, Scott Anderson",1989.0,98.0,CM,301
+4651,"Adventure, Action, Science Fiction",Iron Man 2 ,Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell",2010.0,124.0,CM,302
+1886,"Comedy, Fantasy, Sci-Fi",Magic Kingdom,Jon Favreau,,,,CM,302
+4684,"Sci-Fi, Drama, Mystery",Spectres,Phil Leirness,"Marina Sirtis, Dean Haglund, Tucker Smallwood, Lauren Birkell",2004.0,98.0,CM,303
+1206,"Drama, Mystery, Science Fiction, Thriller",Spectres ,Phil Leirness,"Marina Sirtis, Dean Haglund, Tucker Smallwood, Lauren Birkell, Linda Park",2004.0,98.0,CM,303
+706,"Drama, Sci-Fi",Hard to Be a God,Aleksey German,"Leonid Yarmolnik, Aleksandr Chutko, Yuriy Tsurilo, Evgeniy Gerchakov",2013.0,177.0,CM,304
+477,"Drama, Science Fiction",Hard to Be a God ,Aleksey German,"Leonid Yarmolnik, Yuriy Tsurilo, Natalya Moteva, Aleksandr Chutko, Aleksandr Ilin",2013.0,177.0,CM,304
+4845,"Horror, Science Fiction",Teenage Zombies ,Jerry Warren,"Katherine Victor, Don Sullivan, Paul Pepper, Brianne Murphy, Mitzie Albertson",1960.0,73.0,CM,305
+3803,"Horror, Sci-Fi",Teenage Zombies,Jerry Warren,"Don Sullivan, Katherine Victor, Steve Conte, J.L.D. Morrison",1959.0,73.0,CM,305
+1465,"Horror, Sci-Fi",The Curse,David Keith,"Wil Wheaton, Claude Akins, Malcolm Danare, Cooper Huckabee",1987.0,92.0,CM,306
+422,"Horror, Science Fiction",The Curse ,David Keith,"Wil Wheaton, Claude Akins, Malcolm Danare, Cooper Huckabee, John Schneider",1987.0,92.0,CM,306
+4258,"Science Fiction, Thriller",Invaders from Mars ,William Cameron Menzies,"Jimmy Hunt, Arthur Franz, Helena Carter, Leif Erickson, Hillary Brooke",1953.0,78.0,CM,307
+612,"Horror, Sci-Fi",Invaders from Mars,William Cameron Menzies,"Helena Carter, Arthur Franz, Jimmy Hunt, Leif Erickson",1953.0,78.0,CM,307
+3724,"Adventure, Science Fiction",King of Kong Island ,Roberto Mauri,"Brad Harris, Esmeralda Barros, Marc Lawrence, Adriana Alben, Mark Farran",1968.0,92.0,CM,308
+3205,"Action, Adventure, Horror",King of Kong Island,Roberto Mauri,"Brad Harris, Esmeralda Barros, Marc Lawrence, Adriana Alben",1968.0,92.0,CM,308
+4349,"Drama, Horror, Science Fiction, Romance",Frankenstein ,Kenneth Branagh,"Robert De Niro, Kenneth Branagh, Tom Hulce, Helena Bonham Carter, Aidan Quinn",1994.0,123.0,CM,309
+325,"Drama, Horror, Romance",Mary Shelley's Frankenstein,Kenneth Branagh,"Robert De Niro, Kenneth Branagh, Helena Bonham Carter, Tom Hulce",1994.0,123.0,CM,309
+1185,"Adventure, Comedy, Sci-Fi",Space Truckers,Stuart Gordon,"Tim Loane, Ian Beattie, Olwen Four, Shane Rimmer",1996.0,95.0,CM,310
+4180,"Comedy, Science Fiction, Thriller, Adventure",Space Truckers ,Stuart Gordon,"Dennis Hopper, Stephen Dorff, Debi Mazar, George Wendt, Charles Dance",1996.0,95.0,CM,310
+1375,"Drama, Action, Thriller, Science Fiction",Grim ,Adrian Santiago,,2010.0,96.0,CM,311
+4460,"Action, Comedy, Drama",Cowboys Vs. Vampires,,"Jasen Wade, Anglica Celaya, Shannon Whirry, Ariel Myers",2010.0,94.0,CM,311
+2234,"Action, Adventure, Drama",Space Battleship Yamato,Takashi Yamazaki,"Takuya Kimura, Meisa Kuroki, Toshir Yanagiba, Naoto Ogata",2010.0,138.0,CM,312
+2735,Science Fiction,Space Battleship Yamato ,Takashi Yamazaki,"Takuya Kimura, Meisa Kuroki, Toshir Yanagiba, Naoto Ogata, Hiroyuki Ikeuchi",2010.0,131.0,CM,312
+1892,"Adventure, Sci-Fi",Voyage to the Planet of Prehistoric Women,Peter Bogdanovich,"Mamie Van Doren, Mary Marr, Paige Lee, Gennadi Vernov",1968.0,78.0,CM,313
+2540,"Adventure, Science Fiction",Voyage to the Planet of Prehistoric Women ,Peter Bogdanovich,"Mamie Van Doren, Mary Marr, Paige Lee, Gennadi Vernov, Margot Hartman",1968.0,78.0,CM,313
+4756,Science Fiction,Nebo Zovyot ,"Mikhail Karzhukov, Aleksandr Kozyr","Ivan Pereverzev, Gurgen Tonunts, Valentin Chernyak, Aleksandr Shvorin, Konstantin Bartashevich",1959.0,77.0,CM,314
+1541,"Adventure, Sci-Fi",The Sky Calls,"Mikhail Karzhukov, Aleksandr Kozyr, Francis Ford Coppola","Ivan Pereverzev, Aleksandr Shvorin, Linda Barrett, Konstantin Bartashevich",1959.0,77.0,CM,314
+3537,"Action, Science Fiction",Lone Wolves ,Christopher Jacobs,"Dan Purdey, Warren Otteraa, Alana Tranter, David Leeming",2016.0,87.0,CM,315
+4354,"Action, Sci-Fi",Lone Wolves,Christopher Jacobs,"David Leeming, Warren Otteraa, Dan Purdey, Alana Tranter",2016.0,87.0,CM,315
+1382,"Action, Adventure, Fantasy",Highlander: Endgame,Douglas Aarniokoski,"Christopher Lambert, Adrian Paul, Bruce Payne, Lisa Barbuscia",2000.0,87.0,CM,316
+1871,"Action, Fantasy, Science Fiction",Highlander: Endgame ,Douglas Aarniokoski,"Christopher Lambert, Bruce Payne, Adrian Paul, Donnie Yen, Lisa Barbuscia",2000.0,87.0,CM,316
+643,"Thriller, Adventure, Animation, Comedy, Fantasy, Science Fiction",April and the Extraordinary World ,"Franck Ekinci, Christian Desmares","Marion Cotillard, Philippe Katerine, Jean Rochefort, Olivier Gourmet, Marc-Andr Grondin",2015.0,103.0,CM,317
+1678,"Animation, Adventure, Comedy",April and the Extraordinary World,"Christian Desmares, Franck Ekinci","Marion Cotillard, Marc-Andr Grondin, Philippe Katerine, Jean Rochefort",2015.0,105.0,CM,317
+3410,"Animation, Drama, History",The Tragedy of Man,Marcell Jankovics,"Gyula Balzsi, Pter Benk, gnes Bertalan, Pter Blask",2011.0,160.0,CM,318
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,318
+3476,Sci-Fi,The Exotic Time Machine,Felicia Sinclair,"Gabriella Hall, Joseph Daniels, Nikki Fritz, Tiffany Gonzles",1998.0,78.0,CM,319
+2343,Science Fiction,The Exotic Time Machine ,Felicia Sinclair,"Gabriella Hall, Nikki Fritz, Tiffany Gonzles, Karina Martinez, Stacey Marie Clawson",1998.0,78.0,CM,319
+2492,"Action, Adventure, Sci-Fi",Time Runner,Michael Mazo,"Mark Hamill, Rae Dawn Chong, Brion James, Mark Baur",1993.0,90.0,CM,320
+3588,Science Fiction,Time Runner ,Michael Mazo,"Mark Hamill, Rae Dawn Chong, Brion James, Mark Baur, Gordon Tipple",1993.0,90.0,CM,320
+1347,"Action, Adventure, Comedy",Turbo Kid,"Franois Simard, Anouk Whissell, Yoann-Karl Whissell","Munro Chambers, Laurence Leboeuf, Michael Ironside, Edwin Wright",2015.0,93.0,CM,321
+2003,"Action, Adventure, Comedy, Science Fiction",Turbo Kid ,"Yoann-Karl Whissell, Anouk Whissell, Franois Simard","Munro Chambers, Laurence Leboeuf, Michael Ironside, Aaron Jeffery, Edwin Wright",2015.0,95.0,CM,321
+2522,"Adventure, Drama, Fantasy",Aelita: Queen of Mars,Yakov Protazanov,"Yuliya Solntseva, Igor Ilyinsky, Nikolai Tsereteli, Nikolay Batalov",1924.0,111.0,CM,322
+2937,"Science Fiction, Adventure, Drama, Fantasy",Aelita: Queen of Mars ,Yakov Protazanov,"Yuliya Solntseva, Igor Ilyinsky, Nikolai Tsereteli, Nikolai Tsereteli, Nikolai Batalov",1924.0,120.0,CM,322
+1625,"Action, Sci-Fi",Earth vs. the Flying Saucers,Fred F. Sears,"Hugh Marlowe, Joan Taylor, Donald Curtis, Morris Ankrum",1956.0,83.0,CM,323
+998,"Action, Science Fiction",Earth vs. the Flying Saucers ,Fred F. Sears,"Hugh Marlowe, Joan Taylor, Donald Curtis, Thomas Browne Henry, Morris Ankrum",1956.0,83.0,CM,323
+670,"Science Fiction, Adventure",Game Therapy ,Ryan Travis,"Federico Clapis, Lorenzo Ostuni, Leonardo Decarli, Daniele Sodano, Paolo D'Amico",2015.0,,CM,324
+3939,"Action, Comedy, Sci-Fi",Game Therapy,Ryan Travis,"Lorenzo Ostuni, Federico Clapis, Leonardo Decarli, Elisa Piazza",2015.0,97.0,CM,324
+2096,"Action, Science Fiction",Godzilla vs. Megaguirus ,Masaaki Tezuka,"Misato Tanaka, Masat Ibu, Shosuke Tanihara, Yuriko Hoshi, Toshiyuki Nagashima",2000.0,105.0,CM,325
+2695,"Action, Horror, Sci-Fi",Godzilla vs. Megaguirus,Masaaki Tezuka,"Misato Tanaka, Shsuke Tanihara, Masat Ibu, Yuriko Hoshi",2000.0,105.0,CM,325
+1723,"Action, Comedy, Sci-Fi",Alpha Squad Seven,,,,,CM,326
+4424,"Action, Animation, Comedy, Drama, Science Fiction",Switch Man ,Hsun-Chun Chuang,,2015.0,4.0,CM,326
+1274,"Action, Science Fiction",Silver Surfer: Prodigal Son ,,,2019.0,,CM,327
+412,"Action, Adventure, Comedy",Gotham City Sirens,David Ayer,Margot Robbie,,,CM,327
+4880,"Horror, Sci-Fi",Mutilations,Larry Thomas,"Al Baker, John Bliss, Bill Buckner, Shelly Creel",1986.0,70.0,CM,328
+4781,"Science Fiction, Horror",Mutilations ,Lawrence Thomas,"Al Baker, Katherine Hutson, John Bliss, Richard Taylor, Shelly Creel",1987.0,68.0,CM,328
+3046,"Action, Crime, Sci-Fi",Firepower,Richard Pepin,"Chad McQueen, Gary Daniels, George Murdock, Joseph Ruskin",1993.0,95.0,CM,329
+897,"Action, Science Fiction",Firepower ,Richard Pepin,"Chad McQueen, Gary Daniels, The Ultimate Warrior, George Murdock, Joseph Ruskin",1994.0,95.0,CM,329
+2871,"Drama, Romance, Sci-Fi",Beyond,"Joseph Baker, Tom Large","Richard J. Danum, Gillian MacGregor, Paul Brannigan, Kristian Hart",2014.0,89.0,CM,330
+605,"Romance, Science Fiction, Drama",Beyond ,"Tom Large, Joseph Baker","Richard J. Danum, Gillian McGregor, Paul Brannigan, Kristian Hart, Sid Phoenix",2014.0,89.0,CM,330
+4155,Sci-Fi,Untitled Star Wars Trilogy: Episode II,,,,,CM,331
+4434,"Science Fiction, Animation",Star Fox Zero: The Battle Begins ,Kyoji Asano,,2016.0,15.0,CM,331
+3262,"Action, Comedy, Sci-Fi","OMG, I'm a Robot!","Tal Goldberg, Gal Zelezniak","Yotam Ishay, Hili Yalon, Tzahi Grad, Dror Keren",2015.0,75.0,CM,332
+3457,"Comedy, Science Fiction","OMG, I'm a Robot! ","Gal Zelezniak, Tal Goldberg","Yotam Ishay, Hili Yalon, Tzahi Grad, Dror Keren, Rob Schneider",2015.0,90.0,CM,332
+722,"Action, Animation, Comedy, Science Fiction",Project A-Ko ,Katsuhiko Nishijima,"Miki Itou, Michie Tomizawa, Emi Shinohara, Shuuichi Ikeda, Tesshou Genda",1986.0,86.0,CM,333
+3708,"Animation, Action, Adventure",Project A-Ko,Katsuhiko Nishijima,"Miki It, Stacey Gregg, Emi Shinohara, Denica Fairman",1986.0,86.0,CM,333
+4002,"Comedy, Sci-Fi",The Extraordinary Journey of Celeste Garcia,Arturo Infante,"Mara Isabel Daz Lago, Omar Franco, Nstor Jimnez, Yerln Prez",2018.0,,CM,334
+4943,Science Fiction,Journey ,Radheya Jegatheva,,2018.0,8.0,CM,334
+3590,"Action, Science Fiction",Five ,Arch Oboler,"William Phipps, Susan Douglas, James Anderson, Earl Lee, Charles Lampkin",1951.0,93.0,CM,335
+2559,"Drama, Horror, Sci-Fi",Five,Arch Oboler,"William Phipps, Susan Douglas Rubes, James Anderson, Charles Lampkin",1951.0,93.0,CM,335
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,336
+1100,"Mystery, Sci-Fi, Thriller",The Three-Body Problem: I,Fanfan Zhang,"Shaofeng Feng, Jingchu Zhang, Gang Wu, Yan Tang",,,CM,336
+2849,"Drama, Science Fiction",Fahrenheit 451 ,Franois Truffaut,"Oskar Werner, Julie Christie, Cyril Cusack, Anton Diffring, Bee Duffell",1966.0,108.0,CM,337
+995,"Drama, Sci-Fi",Fahrenheit 451,Franois Truffaut,"Oskar Werner, Julie Christie, Cyril Cusack, Anton Diffring",1966.0,112.0,CM,337
+4969,"Horror, Sci-Fi, Thriller",They Crawl,John Allardice,"Daniel Cosgrove, Tamara Davies, Dennis Boutsikaris, Ken Lerner",2001.0,93.0,CM,338
+3283,"Horror, Science Fiction",They Crawl ,John Allardice,"Daniel Cosgrove, Tamara Davies, Dennis Boutsikaris, Ken Lerner, William Keane",2001.0,93.0,CM,338
+1799,"Horror, Sci-Fi",Shadowzone,J.S. Cardone,"Louise Fletcher, David Beecroft, James Hong, Frederick Flynn",1990.0,88.0,CM,339
+861,"Horror, Science Fiction",Shadowzone ,J.S. Cardone,"Louise Fletcher, David Beecroft, James Hong, Frederick Flynn, Shawn Weatherly",1990.0,88.0,CM,339
+1552,"Action, Adventure, Mystery",Halo,,,,,CM,340
+2568,"Action, Science Fiction",Halo: Landfall ,Neill Blomkamp,,2007.0,7.0,CM,340
+2923,"Adventure, Action, Science Fiction",Megaforce ,Hal Needham,"Barry Bostwick, Michael Beck, Persis Khambatta, Henry Silva, George Furth",1982.0,99.0,CM,341
+607,"Action, Sci-Fi",Megaforce,Hal Needham,"Barry Bostwick, Michael Beck, Persis Khambatta, Edward Mulhare",1982.0,99.0,CM,341
+4776,"Thriller, Science Fiction, Horror",Crawl or Die ,Oklahoma Ward,"Nicole Alonso, Torey Byrne, Tommy Ball, Will Crown, David Paul Baker",2014.0,86.0,CM,342
+3268,"Horror, Sci-Fi, Thriller",Crawl or Die,Oklahoma Ward,"Nicole Alonso, Torey Byrne, Tommy Ball, Wil Crown",2014.0,90.0,CM,342
+4090,"Comedy, Horror, Sci-Fi",Attack of the Killer Chickens the Movie,Genoveva Rossi,"David Naughton, Lloyd Kaufman, John Dugan, Genoveva Rossi",,,CM,343
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,343
+2891,Science Fiction,The Bubble ,Arch Oboler,"Michael Cole, Deborah Walley, Johnny Desmond, Kassie McMahon, Virginia Gregg",1966.0,112.0,CM,344
+4686,Sci-Fi,The Bubble,Arch Oboler,"Michael Cole, Deborah Walley, Johnny Desmond, Kassie McMahon",1966.0,112.0,CM,344
+1592,"Action, Horror, Sci-Fi",2019: After the Fall of New York,Sergio Martino,"Michael Sopkiw, Valentine Monnier, George Eastman, Anna Kanakis",1983.0,96.0,CM,345
+2888,"Action, Horror, Science Fiction",2019: After the Fall of New York ,Sergio Martino,"Michael Sopkiw, Valentine Monnier, Anna Kanakis, Romano Puppo, Paolo Maria Scalondro",1983.0,96.0,CM,345
+2691,"Comedy, Sci-Fi",(T)Raumschiff Surprise - Periode 1,Michael Herbig,"Michael Herbig, Rick Kavanian, Christian Tramitz, Anja Kling",2004.0,87.0,CM,346
+2311,"Comedy, Science Fiction",Dreamship Surprise - Period 1 ,Michael Herbig,"Michael Herbig, Rick Kavanian, Christian Tramitz, Anja Kling, Til Schweiger",2004.0,87.0,CM,346
+4340,"Adventure, Drama, Mystery",Omega Rose,George Dorobantu,"Mircea Silaghi, Florin Piersic Jr., Bogdan Iancu, Radu Bnzaru",,99.0,CM,347
+4788,"Action, Adventure, Science Fiction",Green Lantern Corps ,,,2020.0,,CM,347
+3475,"Horror, Sci-Fi",Dead Shadows,David Cholewa,"Fabian Wolfrom, Blandine Papillon, John Fallon, Rurik Sall",2012.0,75.0,CM,348
+4702,"Horror, Science Fiction, Thriller",Dead Shadows ,David Cholewa,"Fabian Wolfrom, John Fallon, Blandine Marmigre, Johanna Seror, Baya Rehaz",2012.0,75.0,CM,348
+4864,"Horror, Science Fiction, Thriller",Morgan ,Luke Scott,"Kate Mara, Anya Taylor-Joy, Rose Leslie, Toby Jones, Boyd Holbrook",2016.0,92.0,CM,349
+331,"Action, Horror, Sci-Fi",Morgan,Luke Scott,"Kate Mara, Anya Taylor-Joy, Rose Leslie, Michael Yare",2016.0,92.0,CM,349
+2053,"Fantasy, Action, Science Fiction, Adventure",Star Wars: The New Republic Anthology ,Eric Demeusy,,2015.0,1.0,CM,350
+1820,"Horror, Sci-Fi",The Blob,,,,,CM,350
+1712,"Action, Adventure, Family",Godzilla vs. Megalon,Jun Fukuda,"Katsuhiko Sasaki, Hiroyuki Kawase, Yutaka Hayashi, Robert Dunham",1973.0,78.0,CM,351
+1159,"Science Fiction, Fantasy",Godzilla vs. Megalon ,Jun Fukuda,"Katsuhiko Sasaki, Hiroyuki Kawase, Yutaka Hayashi, Robert Dunham, Kotaro Tomita",1973.0,82.0,CM,351
+1274,"Action, Science Fiction",Silver Surfer: Prodigal Son ,,,2019.0,,CM,352
+3183,"Action, Drama, Fantasy",129,Peter Noel,"Pter Klloy Molnr, Gerda Pikali, Barnabs Szab Sipos, Zsolt Dr",2019.0,86.0,CM,352
+4076,"Action, Sci-Fi",Moonbase,Paolo Mazzucato,"Scott Plank, Jocelyn Seagrave, Robert O'Reilly, Kurt Fuller",1997.0,89.0,CM,353
+3956,"Action, Science Fiction",Moonbase ,Paolo Mazzucato,"Scott Plank, Jocelyn Seagrave, Robert O'Reilly, Kurt Fuller, Randy Vasquez",1997.0,90.0,CM,353
+241,"Action, Adventure, Horror",World War Z,Marc Forster,"Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",2013.0,116.0,CM,354
+2269,"Action, Drama, Horror, Science Fiction, Thriller",World War Z ,Marc Forster,"Brad Pitt, Mireille Enos, Abigail Hargrove, Sterling Jerins, James Badge Dale",2013.0,116.0,CM,354
+613,"Action, Drama, Sci-Fi",The Machine,Caradog W. James,"Toby Stephens, Caity Lotz, Denis Lawson, Sam Hazeldine",2013.0,91.0,CM,355
+2203,"Crime, Science Fiction, TV Movie",The Machine ,Caradog W. James,"Annet Mahendru, Bridger Zadina, Oliver Rix, Malachi Kirby, Indira Varma",2017.0,90.0,CM,355
+4750,"Action, Thriller, Science Fiction",Retrieval ,Mark Depasquale,,2013.0,106.0,CM,356
+3559,"Action, Sci-Fi",3X,,,,,CM,356
+1072,"Science Fiction, Comedy",Very Close Encounters of the Fourth Kind ,"Mario Gariazzo, Gianfranco Baldanello","Mara Baxa, Mnica Zanchi, Mario Maranzana, Marina Daunia, Jimmy il Fenomeno",1978.0,86.0,CM,357
+4481,"Comedy, Sci-Fi",Very Close Encounters of the Fourth Kind,"Mario Gariazzo, Gianfranco Baldanello","Mara Baxa, Mnica Zanchi, Mario Maranzana, Marina Daunia",1978.0,,CM,357
+4238,"Comedy, Family, Science Fiction",The Absent-Minded Professor ,Robert Stevenson,"Fred MacMurray, Nancy Olson, Keenan Wynn, Tommy Kirk, Leon Ames",1961.0,96.0,CM,358
+1219,"Comedy, Family, Sci-Fi",The Absent Minded Professor,Robert Stevenson,"Fred MacMurray, Nancy Olson, Keenan Wynn, Tommy Kirk",1961.0,92.0,CM,358
+4037,"Horror, Sci-Fi",Come True,Anthony Scott Burns,"Skylar Radzion, Landon Liboiron, Julia Sarah Stone, Tiffany Helm",,,CM,359
+2196,"Science Fiction, Horror",Come True ,Anthony Scott Burns,,2019.0,,CM,359
+4429,Sci-Fi,The War of the Planets,Antonio Margheriti,"Tony Russel, Lisa Gastoni, Franco Nero, Carlo Giustini",1966.0,99.0,CM,360
+3687,Science Fiction,The War of the Planets ,Antonio Margheriti,"Tony Russel, Lisa Gastoni, Franco Nero, Carlo Giustini, Enzo Fiermonte",1966.0,99.0,CM,360
+1274,"Action, Science Fiction",Silver Surfer: Prodigal Son ,,,2019.0,,CM,361
+1247,"Action, Adventure, Sci-Fi",Luna Park,Doug Liman,Tom Cruise,,,CM,361
+2196,"Action, Family, Sci-Fi",Godzilla Against MechaGodzilla,Masaaki Tezuka,"Yumiko Shaku, Shin Takuma, Kana Onodera, K Takasugi",2002.0,88.0,CM,362
+1877,"Science Fiction, Action",Godzilla Against MechaGodzilla ,Masaaki Tezuka,"Yumiko Shaku, Shin Takuma, Kana Onodera, K Takasugi, Tsutomu Kitagawa",2002.0,88.0,CM,362
+296,"Adventure, Comedy, Fantasy",Barbarella,Roger Vadim,"Jane Fonda, John Phillip Law, Anita Pallenberg, Milo O'Shea",1968.0,98.0,CM,363
+1353,"Science Fiction, Adventure, Comedy",Barbarella ,Roger Vadim,"Jane Fonda, John Phillip Law, Anita Pallenberg, Marcel Marceau, Claude Dauphin",1968.0,98.0,CM,363
+2701,"Action, Sci-Fi",Armada,,,,,CM,364
+4222,"Science Fiction, Action, Animation",Space Transformer ,Su-yong Jeong,,1985.0,63.0,CM,364
+3471,"Drama, Science Fiction",Embers ,Claire Carr,"Jason Ritter, Greta Fernndez, Tucker Smallwood, Dominique Swain, Karl Glusman",2015.0,85.0,CM,365
+2520,"Drama, Sci-Fi",Embers,Claire Carr,"Jason Ritter, Iva Gocheva, Greta Fernndez, Tucker Smallwood",2015.0,85.0,CM,365
+696,"Action, Comedy, Sci-Fi",Pixels,Chris Columbus,"Adam Sandler, Kevin James, Michelle Monaghan, Peter Dinklage",2015.0,105.0,CM,366
+3370,"Action, Comedy, Science Fiction",Pixels ,Chris Columbus,"Adam Sandler, Michelle Monaghan, Peter Dinklage, Josh Gad, Kevin James",2015.0,105.0,CM,366
+3666,"Science Fiction, Thriller, Mystery",Twelve Monkeys ,Terry Gilliam,"Bruce Willis, Madeleine Stowe, Brad Pitt, Christopher Plummer, David Morse",1995.0,129.0,CM,367
+690,"Mystery, Sci-Fi, Thriller",Twelve Monkeys,Terry Gilliam,"Bruce Willis, Madeleine Stowe, Brad Pitt, Joseph Melito",1995.0,129.0,CM,367
+938,"Horror, Science Fiction",Embryo ,Ralph Nelson,"Rock Hudson, Barbara Carrera, Diane Ladd, Roddy McDowall, Anne Schedeen",1976.0,104.0,CM,368
+2059,"Horror, Sci-Fi",Embryo,Ralph Nelson,"Rock Hudson, Barbara Carrera, Diane Ladd, Roddy McDowall",1976.0,104.0,CM,368
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,369
+4016,"Comedy, Horror, Sci-Fi",Evil Bong 3: The Wrath of Bong,Charles Band,"Irwin Keyes, Christina DeRosa, Amy Paffrath, Robin Sydney",2011.0,87.0,CM,369
+2510,Sci-Fi,Warriors of Future,Yuen Fai Ng,"Louis Koo, Carina Lau, Nick Cheung, Ching Wan Lau",2019.0,,CM,370
+2200,"Science Fiction, Action",Warriors of Future ,Ng Yuen-fai,"Louis Koo, Lau Ching Wan, Carina Lau, Philip Keung, Nick Cheung",2019.0,,CM,370
+4902,"Romance, Sci-Fi",Galaxy Hunter,Mark Borchetta,"Shelley Michelle, Stacy Keach, Alain Benatar, Tiffany Hendra",2004.0,86.0,CM,371
+2831,Science Fiction,Galaxy Hunter ,Mark Borchetta,"Shelley Michelle, Stacy Keach, Alain Benatar, Tiffany Hendra, Michelle Betts",2004.0,86.0,CM,371
+43,"Action, Comedy, Sci-Fi",Men in Black: International,F. Gary Gray,"Tessa Thompson, Chris Hemsworth, Rebecca Ferguson, Liam Neeson",2019.0,,CM,372
+4969,"Action, Comedy, Science Fiction, Adventure",Men in Black: International ,F. Gary Gray,"Rebecca Ferguson, Tessa Thompson, Liam Neeson, Chris Hemsworth, Emma Thompson",2019.0,,CM,372
+4044,"Science Fiction, Animation, Action, Crime",MFKZ ,"Guillaume Renard, Shoujirou Nishimi","Kelly Marot, Redouanne Harjane, Fodor Atkine, Julien Kramer, Emmanuel Karsen",2018.0,95.0,CM,373
+197,"Animation, Action, Comedy",MFKZ,"Shjir Nishimi, Guillaume Renard","Orelsan, Gringe, Redouanne Harjane, Fodor Atkine",2017.0,94.0,CM,373
+4377,"Action, Sci-Fi",Apocalyptic 2077,Marc Hamill,"Manoj Anand, The Anthony Lee, Rudy Barrow, Kellyann Mitchell",2019.0,,CM,374
+1274,"Action, Science Fiction",Silver Surfer: Prodigal Son ,,,2019.0,,CM,374
+4960,"Drama, Science Fiction",Split ,Roger Lambert,,1974.0,54.0,CM,375
+4412,"Drama, Sci-Fi",Split,Chris Shaw,"Timothy Dwight, Joan Bechtel, John J. Flynn, Chris Shaw",1989.0,85.0,CM,375
+4208,Sci-Fi,InAlienable,Robert Dyke,"Richard Hatch, Jett Patrick, Priscilla Garita, Courtney Peldon",2007.0,106.0,CM,376
+4983,"Action, Adventure, Comedy, Science Fiction, Thriller",InAlienable ,Robert Dyke,Richard Hatch,2008.0,106.0,CM,376
+951,"Comedy, Science Fiction",My Stepmother is an Alien ,Richard Benjamin,"Dan Aykroyd, Kim Basinger, Jon Lovitz, Alyson Hannigan, Seth Green",1988.0,108.0,CM,377
+752,"Comedy, Sci-Fi",My Stepmother Is an Alien,Richard Benjamin,"Dan Aykroyd, Kim Basinger, Jon Lovitz, Alyson Hannigan",1988.0,105.0,CM,377
+4224,"Comedy, Sci-Fi",Dr. Sex,Ted V. Mikels,"Victor Izay, Julia Calda, Max Joseph, Paula Angelos",1964.0,63.0,CM,378
+1435,"Science Fiction, Comedy",Dr. Sex ,Ted V. Mikels,"Victor Izay, Julia Calda, Max Joseph, Marsha Jordan, Ave Lezli",1964.0,63.0,CM,378
+4943,Science Fiction,Journey ,Radheya Jegatheva,,2018.0,8.0,CM,379
+3292,Sci-Fi,Journey to the Center of Time,David L. Hewitt,"Scott Brady, Anthony Eisley, Gigi Perreau, Abraham Sofaer",1967.0,82.0,CM,379
+3189,"Animation, Adventure, Action, Science Fiction",Toward the Terra ,Hideo Onchi,,1980.0,113.0,CM,380
+3866,"Adventure, Family, Sci-Fi",Flight of the Navigator,,,,,CM,380
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,381
+98,"Action, Adventure, Fantasy",Thor,Kenneth Branagh,"Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston",2011.0,115.0,CM,381
+2036,"Action, Sci-Fi",Godzilla vs. Biollante,Kazuki Ohmori,"Kunihiko Mitamura, Yoshiko Tanaka, Masanobu Takashima, Kji Takahashi",1989.0,104.0,CM,382
+1907,"Horror, Science Fiction",Godzilla vs. Biollante ,Kazuki mori,"Kunihiko Mitamura, Yoshiko Tanaka, Masanobu Takashima, Kji Takahashi, Tru Minegishi",1989.0,105.0,CM,382
+3639,"Horror, Science Fiction, Crime",Trancers ,Charles Band,"Tim Thomerson, Helen Hunt, Biff Manard, Michael Stefani, Art LaFleur",1984.0,77.0,CM,383
+1225,"Action, Sci-Fi",Trancers,Charles Band,"Tim Thomerson, Helen Hunt, Michael Stefani, Art LaFleur",1984.0,76.0,CM,383
+4878,"Action, Adventure, Fantasy, Science Fiction",Avatar: The Quest for Eywa ,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Oona Chaplin, Giovanni Ribisi",2025.0,,CM,384
+932,"Action, Adventure, Fantasy",Avatar 5,James Cameron,"Zoe Saldana, Oona Chaplin, Sigourney Weaver, Sam Worthington",2025.0,,CM,384
+615,"Action, Science Fiction, Thriller, Horror",Destroy All Monsters ,"Ishir Honda, Seiji Tani","Akira Kubo, Jun Tazaki, Yukiko Kobayashi, Yoshio Tsuchiya, Chtar Tgin",1968.0,89.0,CM,385
+1867,"Action, Horror, Sci-Fi",Destroy All Monsters,Ishir Honda,"Akira Kubo, Jun Tazaki, Yukiko Kobayashi, Yoshio Tsuchiya",1968.0,88.0,CM,385
+1142,"Action, Sci-Fi",Escape from the Planet of the Apes,Don Taylor,"Roddy McDowall, Kim Hunter, Bradford Dillman, Natalie Trundy",1971.0,98.0,CM,386
+2379,"Action, Science Fiction",Escape from the Planet of the Apes ,Don Taylor,"Roddy McDowall, Kim Hunter, Bradford Dillman, Natalie Trundy, Eric Braeden",1971.0,98.0,CM,386
+3378,"Adventure, Comedy, Science Fiction",G.O.R.A. ,mer Faruk Sorak,"Cem Ylmaz, zge zberk, zkan Uur, Ozan Gven, Rasim ztekin",2004.0,127.0,CM,387
+1341,"Adventure, Comedy, Sci-Fi",G.O.R.A.,mer Faruk Sorak,"Cem Yilmaz, Rasim ztekin, zkan Ugur, Idil Firat",2004.0,127.0,CM,387
+4294,"Science Fiction, Horror, Thriller",Hysteria ,Ren Daalder,"Patrick McGoohan, Amanda Plummer, Joanne Vannicola, Emmanuelle Vaugier, Gregory Hlady",1997.0,100.0,CM,388
+4437,"Drama, Sci-Fi, Thriller",Hysteria,Rene Daalder,"Patrick McGoohan, Amanda Plummer, Michael Maloney, Joanne Vannicola",1997.0,,CM,388
+126,"Fantasy, Drama, Science Fiction, Thriller",Electric Dragon 80.000 V ,Gakury Ishii,"Tadanobu Asano, Masatoshi Nagase, Masakatsu Funaki, Yoshiki Arizono",2001.0,55.0,CM,389
+3929,"Action, Fantasy, Sci-Fi",Electric Dragon 80.000 V,Gakury Ishii,"Yoshiki Arizono, Tadanobu Asano, Masakatsu Funaki, Masatoshi Nagase",2001.0,55.0,CM,389
+2092,"Action, Science Fiction, Drama",Real Steel ,Shawn Levy,"Hugh Jackman, Dakota Goyo, Evangeline Lilly, Anthony Mackie, Kevin Durand",2011.0,127.0,CM,390
+897,"Action, Drama, Family",Real Steel,Shawn Levy,"Hugh Jackman, Evangeline Lilly, Dakota Goyo, Anthony Mackie",2011.0,127.0,CM,390
+4662,Science Fiction,The Flame Barrier ,Paul Landres,"Arthur Franz, Kathleen Crowley, Robert Brown, Rodd Redwing, Vincent Padula",1958.0,70.0,CM,391
+1491,Sci-Fi,The Flame Barrier,Paul Landres,"Arthur Franz, Kathleen Crowley, Robert Brown, Vicente Padula",1958.0,70.0,CM,391
+2364,"Adventure, Fantasy, Science Fiction, Family",Escape to Witch Mountain ,John Hough,"Kim Richards, Ray Milland, Donald Pleasence, Eddie Albert, Ike Eisenmann",1975.0,97.0,CM,392
+1201,"Adventure, Family, Fantasy",Escape to Witch Mountain,John Hough,"Eddie Albert, Ray Milland, Donald Pleasence, Kim Richards",1975.0,97.0,CM,392
+2812,"Action, Drama, Science Fiction, Thriller",Chain Reaction ,Andrew Davis,"Keanu Reeves, Morgan Freeman, Rachel Weisz, Fred Ward, Kevin Dunn",1996.0,107.0,CM,393
+929,"Action, Drama, Sci-Fi",Chain Reaction,Andrew Davis,"Keanu Reeves, Morgan Freeman, Rachel Weisz, Fred Ward",1996.0,107.0,CM,393
+3797,"Adventure, Sci-Fi",Unearthed,Doug Liman,,,,CM,394
+2589,Science Fiction,Chaos Walking ,Doug Liman,"Tom Holland, Daisy Ridley, Mads Mikkelsen, Demin Bichir, Kurt Sutter",2020.0,,CM,394
+4624,"Romance, Science Fiction",Altitude Falling ,Paul Bright,,2010.0,93.0,CM,395
+2431,"Romance, Sci-Fi",Matched,,,,,CM,395
+2537,"Action, Science Fiction",The Archiver ,,,2011.0,4.0,CM,396
+2566,"Animation, Action, Sci-Fi",Tekken: Blood Vengeance,Yoichi Mori,"Isshin Chiba, Unsh Ishizuka, Yuki Matsuoka, Mamoru Miyano",2011.0,100.0,CM,396
+4264,"Adventure, Drama, Science Fiction",Voyage to the Bottom of the Sea ,Irwin Allen,"Walter Pidgeon, Robert Sterling, Barbara Eden, Peter Lorre, Joan Fontaine",1961.0,105.0,CM,397
+1659,"Action, Adventure, Sci-Fi",Voyage to the Bottom of the Sea,Irwin Allen,"Walter Pidgeon, Joan Fontaine, Barbara Eden, Peter Lorre",1961.0,105.0,CM,397
+1882,"Science Fiction, Action",Biohazard: Patient Zero ,Brian T. Jaynes," Amanda Phillips, Natalie Makenna, Larry Jack Dotson, Brandon Slagle, Frederic Doss",2011.0,68.0,CM,398
+3390,"Action, Sci-Fi, Thriller",Biohazard: Patient Zero,Brian T. Jaynes,"Brandon Slagle, Amanda Phillips, Van Quattro, Carl Savering",2012.0,70.0,CM,398
+1645,"Action, Adventure, Sci-Fi",Timerider: The Adventure of Lyle Swann,William Dear,"Fred Ward, Belinda Bauer, Peter Coyote, Richard Masur",1982.0,94.0,CM,399
+3425,"Action, Science Fiction, Western",Timerider: The Adventure of Lyle Swann ,William Dear,"Fred Ward, Peter Coyote, L.Q. Jones, Tracey Walter, Richard Masur",1982.0,94.0,CM,399
