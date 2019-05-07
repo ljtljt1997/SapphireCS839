@@ -26,7 +26,6 @@ https://ljtljt1997.github.io/SapphireCS839/
 * **Stage 1**: Information extraction from natural text.
 * **Stage 2**: Crawling and extracting structured data from Web pages.
 * **Stage 3**: Entity matching.
-* **Stage 4**: Integrating and performing analysis. 
 
 
 
